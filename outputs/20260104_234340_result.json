@@ -1,0 +1,485 @@
+{
+  "filename": "20260104_234340_Maersk-No._SSZ716110.png",
+  "total_lines": 112,
+  "average_confidence": 0.941197358071804,
+  "texts": [
+    {
+      "text": "BILL OF LADING FOR OCEAN TRANSPORT",
+      "confidence": 0.9749988317489624
+    },
+    {
+      "text": "MAERSK LINE",
+      "confidence": 0.998046338558197
+    },
+    {
+      "text": "OR MULTIMODAL TRANSPORT",
+      "confidence": 0.9846336245536804
+    },
+    {
+      "text": "SCAC",
+      "confidence": 0.9680008888244629
+    },
+    {
+      "text": "MAEU",
+      "confidence": 0.9996894598007202
+    },
+    {
+      "text": "B/L No.",
+      "confidence": 0.9884639382362366
+    },
+    {
+      "text": "SSZ716110",
+      "confidence": 0.9999425411224365
+    },
+    {
+      "text": "Shipper",
+      "confidence": 0.9996508359909058
+    },
+    {
+      "text": "Booking No.",
+      "confidence": 0.9987536072731018
+    },
+    {
+      "text": "AGRICOLA JANDELLE S/A",
+      "confidence": 0.9877645373344421
+    },
+    {
+      "text": "SSZ716110",
+      "confidence": 0.949992299079895
+    },
+    {
+      "text": "ROD. BR 369, KM 178",
+      "confidence": 0.9806156158447266
+    },
+    {
+      "text": "Export references",
+      "confidence": 0.9997817873954773
+    },
+    {
+      "text": "0608354E17",
+      "confidence": 0.9845296740531921
+    },
+    {
+      "text": "Svc Contract",
+      "confidence": 0.9952272772789001
+    },
+    {
+      "text": "86.600-000 ROLANDIA / PR / BRAZIL",
+      "confidence": 0.9936182498931885
+    },
+    {
+      "text": "70569",
+      "confidence": 0.7756277918815613
+    },
+    {
+      "text": "CNPJ: 24.101.569/0003-41",
+      "confidence": 0.9987992644309998
+    },
+    {
+      "text": "Onward inland routing (Not part of Carrage as defined in clause 1. For account and risk of Merchant)",
+      "confidence": 0.9681033492088318
+    },
+    {
+      "text": "Consignee (negotiable only If consigned \"to order\", \"to order of a named Person or \"to arder of bearer\")",
+      "confidence": 0.9504812955856323
+    },
+    {
+      "text": "Notify Party (see clause 22)",
+      "confidence": 0.9786968231201172
+    },
+    {
+      "text": "DAIRY LAND",
+      "confidence": 0.9996147155761719
+    },
+    {
+      "text": "DAIRY LAND",
+      "confidence": 0.9719921350479126
+    },
+    {
+      "text": "RUA DO DR. LOURENCO PEREIRA MARQUES PONTE",
+      "confidence": 0.9848661422729492
+    },
+    {
+      "text": "RUA DO DR. LOURENCO PEREIRA MARQUES PONTE CAIS",
+      "confidence": 0.9956483244895935
+    },
+    {
+      "text": "CAIS NO C6C PORTO INTERIOR, MACAU, CHINA",
+      "confidence": 0.9963164329528809
+    },
+    {
+      "text": "NO C6C PORTO INTERIOR, MACAU, CHINA",
+      "confidence": 0.9934102892875671
+    },
+    {
+      "text": "TEL: 853-83941168",
+      "confidence": 0.9945626854896545
+    },
+    {
+      "text": "Vessel (see clause 1 + 19)",
+      "confidence": 0.9906982779502869
+    },
+    {
+      "text": "Voyage No.",
+      "confidence": 0.9782153964042664
+    },
+    {
+      "text": "Place of Receipt. Applicable only when document used as Multimodal Transport B/L. (see clause 1)",
+      "confidence": 0.9827765822410583
+    },
+    {
+      "text": "MAERSK LA PAZ",
+      "confidence": 0.9967421293258667
+    },
+    {
+      "text": "838E",
+      "confidence": 0.9068058729171753
+    },
+    {
+      "text": "Port of Loading",
+      "confidence": 0.9692818522453308
+    },
+    {
+      "text": "Port of Discharge",
+      "confidence": 0.9706396460533142
+    },
+    {
+      "text": "Place of Delivery. Applicable only when document used as Multimodal Transport B/L. (see clause 1)",
+      "confidence": 0.9852533340454102
+    },
+    {
+      "text": "ITAJAI SC BRAZIL",
+      "confidence": 0.9994370937347412
+    },
+    {
+      "text": "HONG KONG",
+      "confidence": 0.999871015548706
+    },
+    {
+      "text": "PARTICULARS FURNISHED BY SHIPPER",
+      "confidence": 0.9990737438201904
+    },
+    {
+      "text": "Kind of Packages; Description of goods; Marks and Numbers; Container No./Seal No.",
+      "confidence": 0.983862578868866
+    },
+    {
+      "text": "Weight",
+      "confidence": 0.9997690320014954
+    },
+    {
+      "text": "Measurement",
+      "confidence": 0.9996476769447327
+    },
+    {
+      "text": "1 Container Said to Contain 1,716 CARTONS",
+      "confidence": 0.9894762635231018
+    },
+    {
+      "text": "01X40' STC:",
+      "confidence": 0.9736347198486328
+    },
+    {
+      "text": "1.716 CARTONS CONTAINING:",
+      "confidence": 0.9998736381530762
+    },
+    {
+      "text": "832 CARTONS WITH: FROZEN CHICKEN LEG BONELESS, IN UNIFORM NET WEIGHT 12KG CARTONS, BIG FRANGO",
+      "confidence": 0.9977027177810669
+    },
+    {
+      "text": "BRAND. 334 CARTONS WITH: FROZEN CHICKEN LEG BONELESS, IN UNIFORM NET WEIGHT 15KG CARTONS, BIG",
+      "confidence": 0.9829479455947876
+    },
+    {
+      "text": "FRANGO BRAND. 100 CARTONS WITH: FROZEN WHOLE CHICKEN WINGS, IN UNIFORM NET WEIGHT 2OKG CARTONS,",
+      "confidence": 0.9888449311256409
+    },
+    {
+      "text": "BIG FRANGO BRAND. 200 CARTONS WITH: FROZEN CHICKEN MID JOINT WINGS, IN UNIFORM NET WEIGHT 2OKG",
+      "confidence": 0.9780611991882324
+    },
+    {
+      "text": "CARTONS, BIG FRANGO BRAND. 150 CARTONS WITH: FROZEN WHOLE CHICKEN DRUMMETTES, IN UNIFORM NET",
+      "confidence": 0.9944530129432678
+    },
+    {
+      "text": "WEIGHT 2OKG CARTONS, BIG FRANGO BRAND. 100 CARTONS WITH: FROZEN WHOLE CHICKEN LEGS, IN UNIFORM",
+      "confidence": 0.9888314008712769
+    },
+    {
+      "text": "NET WEIGHT 2OKG CARTONS, BIG FRANGO BRAND.",
+      "confidence": 0.9824302196502686
+    },
+    {
+      "text": "27.608,270KGS",
+      "confidence": 0.9992508292198181
+    },
+    {
+      "text": "TOTAL NW:25.994,000KGS",
+      "confidence": 0.9974003434181213
+    },
+    {
+      "text": "45.2500",
+      "confidence": 0.9999083876609802
+    },
+    {
+      "text": "TOTAL GW:27.608,270KGS",
+      "confidence": 0.9977781772613525
+    },
+    {
+      "text": "SHIPPED ON BOARD, DECLARED 'CLEAN' BY SHIPPER FREIGHT AS PER AGREEMENT",
+      "confidence": 0.987169086933136
+    },
+    {
+      "text": "RIGINAL",
+      "confidence": 0.9510902762413025
+    },
+    {
+      "text": "SEAL AGENCY:ML-BR5030894",
+      "confidence": 0.9993628859519958
+    },
+    {
+      "text": "SEAL SIF: 009883/SIF 1215",
+      "confidence": 0.991515576839447
+    },
+    {
+      "text": "PROCESS NR. 1961/2018",
+      "confidence": 0.9946327209472656
+    },
+    {
+      "text": "RE.18/1251426-004",
+      "confidence": 0.9998676180839539
+    },
+    {
+      "text": "SD.2161045085/0",
+      "confidence": 0.9994266629219055
+    },
+    {
+      "text": "NCM.02071400",
+      "confidence": 0.9994716644287109
+    },
+    {
+      "text": "NALADI.020758",
+      "confidence": 0.9997386336326599
+    },
+    {
+      "text": "BRAZIL/BIG FRANGO",
+      "confidence": 0.9998626708984375
+    },
+    {
+      "text": "MNBU3977737 ML-BR5030894 40 REEF 9'6 1,716 CARTONS 27.608,270 KGS 45.2500",
+      "confidence": 0.982782781124115
+    },
+    {
+      "text": "sponsibility of or representation by Carrier (see clause 14]",
+      "confidence": 0.975180447101593
+    },
+    {
+      "text": "Above particulars",
+      "confidence": 0.9638867974281311
+    },
+    {
+      "text": "Rate",
+      "confidence": 0.9996545910835266
+    },
+    {
+      "text": "Unit",
+      "confidence": 0.9998587369918823
+    },
+    {
+      "text": "Currency",
+      "confidence": 0.9998058080673218
+    },
+    {
+      "text": "Prepaid",
+      "confidence": 0.9995325207710266
+    },
+    {
+      "text": "Collect",
+      "confidence": 0.9994685053825378
+    },
+    {
+      "text": "Freight & Charges",
+      "confidence": 0.9930428862571716
+    },
+    {
+      "text": "Place of Issue of B/L",
+      "confidence": 0.980414092540741
+    },
+    {
+      "text": "S-tapet, as far as axucaitalined by noupscra ble meains of checking, in appament goad arder and condiscn unlees otherwies",
+      "confidence": 0.8443675637245178
+    },
+    {
+      "text": "Carrier's Receipt (see clause 1 and 14). Total number",
+      "confidence": 0.9961991906166077
+    },
+    {
+      "text": "stated Benei, the tatal namber or quntity of Canainers or other paages or is indicated inthe bow (ntitled Camers",
+      "confidence": 0.7388328909873962
+    },
+    {
+      "text": "Rucuipr\" for carthage from thx Port of Loechng (or the Pace of Recapt,  membamed ebova) to the Pert of Diacharge (or the",
+      "confidence": 0.8294036984443665
+    },
+    {
+      "text": "of containers or packages received by Carrie",
+      "confidence": 0.9797082543373108
+    },
+    {
+      "text": "Pacx of Deltvery, if menitanetl ebeel, such carege barg ehmeys subject to thee barim, righits, delenoth, praraians,",
+      "confidence": 0.773263156414032
+    },
+    {
+      "text": "CONVON, EMCOpONS, ImATON, AN MRTEN IaTCN (IMCLUCONG ALL THICSE TERS ANMD COMDITICINS CIN THE REVERSE",
+      "confidence": 0.6895659565925598
+    },
+    {
+      "text": "Sao Paulo",
+      "confidence": 0.968703031539917
+    },
+    {
+      "text": "C",
+      "confidence": 0.4432143568992615
+    },
+    {
+      "text": "HEREOF NUMBERED I-26 AMO THOSE TERMS AND CONDETIDNS CONTAINED IN THE CAURIER'S APPLICABLE TARBFE) ANd THe",
+      "confidence": 0.8857852220535278
+    },
+    {
+      "text": "1 container",
+      "confidence": 0.9995934963226318
+    },
+    {
+      "text": "carryingvepad (me claune 19) Whwe the ball of leding i non-egotabale the Camer may ghas delinvery of the Cood to the",
+      "confidence": 0.7461196780204773
+    },
+    {
+      "text": "Date of Issue of B/L",
+      "confidence": 0.9936045408248901
+    },
+    {
+      "text": "samed cuirsignee upon reasanable pepof of idensity and without requxring surrender of an origlinal bill of lading. Where the bl",
+      "confidence": 0.8840016722679138
+    },
+    {
+      "text": "Number & Sequence of Original B(s)/L",
+      "confidence": 0.9871677756309509
+    },
+    {
+      "text": "Crc u nb boh hat c dawh Mechatund",
+      "confidence": 0.5010249018669128
+    },
+    {
+      "text": "ofladng is rgobable, the Merchant is abapesd Iy sumender ons original, suy endorad, in oncharge for the Coda. The",
+      "confidence": 0.6850348114967346
+    },
+    {
+      "text": "2018-11-22",
+      "confidence": 0.9999892115592957
+    },
+    {
+      "text": "a  dC",
+      "confidence": 0.4604465961456299
+    },
+    {
+      "text": "e a a t Ca cp ih th yll    t Goaga  a",
+      "confidence": 0.5081996321678162
+    },
+    {
+      "text": "THREE/3",
+      "confidence": 0.9998388886451721
+    },
+    {
+      "text": "h bll of lading, aemy local catoma or prnlegen to the conary notowthatande rg, the Fanchant egroes to be bound by all",
+      "confidence": 0.8186848163604736
+    },
+    {
+      "text": "Terms atd Corchtons staterd huren ehethar wntter, pented, starped",
+      "confidence": 0.8138454556465149
+    },
+    {
+      "text": "dfor incorpomated on the face or nevomes side inereof, as",
+      "confidence": 0.7528029084205627
+    },
+    {
+      "text": "Shipped on Board Date (Local Time)",
+      "confidence": 0.9965086579322815
+    },
+    {
+      "text": "I eThESs WeRE th nunber of argnal bs of Ladi satedon this side have Bee signed ndwererer one ognel",
+      "confidence": 0.6472616195678711
+    },
+    {
+      "text": "tully as it they were all signed bry the Hercthent.",
+      "confidence": 0.9130020141601562
+    },
+    {
+      "text": "Declared Value (see clause 7.3)",
+      "confidence": 0.9880976676940918
+    },
+    {
+      "text": "Bill of Lading has been surreadered aay others shell be vokd.",
+      "confidence": 0.797890305519104
+    },
+    {
+      "text": "2018-11-11",
+      "confidence": 0.9999748468399048
+    },
+    {
+      "text": "MAERSK",
+      "confidence": 0.9945729374885559
+    },
+    {
+      "text": "Maersk Brasil (Brasmar) Ltda",
+      "confidence": 0.9841336607933044
+    },
+    {
+      "text": "As Agent(s) for the Carner",
+      "confidence": 0.9487858414649963
+    },
+    {
+      "text": "This transport document has one or more numbered pages",
+      "confidence": 0.9858570694923401
+    },
+    {
+      "text": "Paulo Prol Medeiros",
+      "confidence": 0.9998310208320618
+    },
+    {
+      "text": "CPF: 048.900.588-85",
+      "confidence": 0.9985290169715881
+    }
+  ],
+  "extracted": {
+    "shipper": {
+      "name": "",
+      "address": []
+    },
+    "consignee": {
+      "name": "",
+      "address": []
+    },
+    "bill_info": {
+      "VOYAGE": "NO",
+      "PORT OF LOADING": "Port of Discharge",
+      "PORT OF DISCHARGE": "Place of Delivery. Applicable only when document used as Multimodal Transport B/L. (see clause 1)"
+    },
+    "cargo": [
+      "SSZ716110",
+      "0608354E17",
+      "TEL: 853-83941168",
+      "27.608,270KGS",
+      "TOTAL NW:25.994,000KGS",
+      "TOTAL GW:27.608,270KGS",
+      "SEAL AGENCY:ML-BR5030894",
+      "SEAL SIF: 009883/SIF 1215",
+      "RE.18/1251426-004",
+      "SD.2161045085/0",
+      "NCM.02071400",
+      "NALADI.020758",
+      "MNBU3977737 ML-BR5030894 40 REEF 9'6 1,716 CARTONS 27.608,270 KGS 45.2500"
+    ]
+  }
+}

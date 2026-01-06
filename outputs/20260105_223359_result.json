@@ -1,0 +1,382 @@
+{
+  "filename": "20260105_223359_Maersk-No._720753508.png",
+  "total_lines": 87,
+  "average_confidence": 0.9599813418141727,
+  "texts": [
+    {
+      "text": "MAERSK",
+      "confidence": 0.9990555644035339
+    },
+    {
+      "text": "NON-NEGOTIABLE WAYBILL",
+      "confidence": 0.9926639199256897
+    },
+    {
+      "text": "SCAC",
+      "confidence": 0.9990665912628174
+    },
+    {
+      "text": "MAEU",
+      "confidence": 0.9998083114624023
+    },
+    {
+      "text": "B/LNo. 720753508",
+      "confidence": 0.9520372748374939
+    },
+    {
+      "text": "LINYI FLYING CARPET TRADING CO., LTD",
+      "confidence": 0.9505242109298706
+    },
+    {
+      "text": "Booking No.",
+      "confidence": 0.9928648471832275
+    },
+    {
+      "text": "ADD:ROOM A-1807, FUYOU BUILDING,",
+      "confidence": 0.9926770925521851
+    },
+    {
+      "text": "720753508",
+      "confidence": 0.9999348521232605
+    },
+    {
+      "text": "LIUQING STREET,SHANGHAI ROAD AND",
+      "confidence": 0.9992727637290955
+    },
+    {
+      "text": "Export references",
+      "confidence": 0.9999439120292664
+    },
+    {
+      "text": "Svc Contract",
+      "confidence": 0.9987604022026062
+    },
+    {
+      "text": "MENGHE ROAD,LANSHAN DISTRICT, LINYI",
+      "confidence": 0.9979165196418762
+    },
+    {
+      "text": "299253769",
+      "confidence": 0.9983125329017639
+    },
+    {
+      "text": "SHANDONG CHINA*",
+      "confidence": 0.999879777431488
+    },
+    {
+      "text": "n",
+      "confidence": 0.47473230957984924
+    },
+    {
+      "text": "As principal, where \"care of\", \"c/o\", or other variants used.)",
+      "confidence": 0.9813573360443115
+    },
+    {
+      "text": "PT BESTCHROMA WORKS INDONESIA",
+      "confidence": 0.9986868500709534
+    },
+    {
+      "text": "JALAN KAMAL MUARA BLOK G NOMOR 17",
+      "confidence": 0.9758060574531555
+    },
+    {
+      "text": "RT. 007 RW. 001,KAMAL MUARA,",
+      "confidence": 0.9894012212753296
+    },
+    {
+      "text": "PENJARINGAN, KOTA ADM. JAKARTA",
+      "confidence": 0.985159158706665
+    },
+    {
+      "text": "UTARA,DKI JAKARTA INDONESIA**",
+      "confidence": 0.9980018138885498
+    },
+    {
+      "text": "nths cnc, the iene ots cnc ds so s  beal nds",
+      "confidence": 0.5794684886932373
+    },
+    {
+      "text": "Ce",
+      "confidence": 0.5137439370155334
+    },
+    {
+      "text": "all  entied to hane the Consinee t any time be delivery  the go providede vs",
+      "confidence": 0.6174106597900391
+    },
+    {
+      "text": "Not ify Party (see cl ause 22)",
+      "confidence": 0.9662152528762817
+    },
+    {
+      "text": "SAME AS CONSIGNEE",
+      "confidence": 0.9701389074325562
+    },
+    {
+      "text": "the Carrier reasona bl e notice in writing.",
+      "confidence": 0.9621855020523071
+    },
+    {
+      "text": "Delivery will be made tothe Consignee or his authorised agent on production of reasonable proof of",
+      "confidence": 0.9141257405281067
+    },
+    {
+      "text": "dentitynd in the case f an agen, reasona ble proof of authority)without productin of this waybil.",
+      "confidence": 0.7574693560600281
+    },
+    {
+      "text": "The Carrier shall be under no liability whatsoever for misdelivery unless caused by the Carier's",
+      "confidence": 0.9521550536155701
+    },
+    {
+      "text": "negligence.",
+      "confidence": 0.9998184442520142
+    },
+    {
+      "text": "Onward inland routing (Nbt part of Carriage as de fined in cl ause 1. For accou nt and risk of Mer chant)",
+      "confidence": 0.9674840569496155
+    },
+    {
+      "text": "Vessel",
+      "confidence": 0.9999690651893616
+    },
+    {
+      "text": "Voyage No.",
+      "confidence": 0.966103196144104
+    },
+    {
+      "text": "Place of Recei pt. Ap plicabl e only when document used as Multimoda l Waybill",
+      "confidence": 0.981631338596344
+    },
+    {
+      "text": "HANSA BITBURG",
+      "confidence": 0.970241904258728
+    },
+    {
+      "text": "514S",
+      "confidence": 0.9608428478240967
+    },
+    {
+      "text": "Port of Load ing",
+      "confidence": 0.9989963173866272
+    },
+    {
+      "text": "QINGDAO, CHINA",
+      "confidence": 0.9904352426528931
+    },
+    {
+      "text": "Port of D schar ge",
+      "confidence": 0.9591986536979675
+    },
+    {
+      "text": "JAKARTA, INDONESIA",
+      "confidence": 0.997654378414154
+    },
+    {
+      "text": "Place of Delivery. Applicabl e only when document used as Multimodal Transport B/L. (see clause1)",
+      "confidence": 0.9455873370170593
+    },
+    {
+      "text": "PARTICULARS FURNISHED BY SHIPPER",
+      "confidence": 0.9953752756118774
+    },
+    {
+      "text": "Ki nd of Packa ges; Descr iption of goods; Marks and Numbers; Container Nb./Seal No.",
+      "confidence": 0.9446699023246765
+    },
+    {
+      "text": "Weight",
+      "confidence": 0.9999620318412781
+    },
+    {
+      "text": "Measurement",
+      "confidence": 0.9999439716339111
+    },
+    {
+      "text": "55200.000 KGS",
+      "confidence": 0.999308168888092
+    },
+    {
+      "text": "36.6000 CBM",
+      "confidence": 0.9819082617759705
+    },
+    {
+      "text": "2 containers said to contain 4100 PACKAGES",
+      "confidence": 0.9983506202697754
+    },
+    {
+      "text": "ALUMINIUM COMPOSITE PANEL",
+      "confidence": 0.9932235479354858
+    },
+    {
+      "text": "HS CODE:760612",
+      "confidence": 0.9974716901779175
+    },
+    {
+      "text": "*TEL:+86 18553906251",
+      "confidence": 0.9992717504501343
+    },
+    {
+      "text": "**TAX ID : 0278 2049 7901 6000",
+      "confidence": 0.983214795589447
+    },
+    {
+      "text": "TELP : 081181187521",
+      "confidence": 0.9753293395042419
+    },
+    {
+      "text": "N/M",
+      "confidence": 0.9992817044258118
+    },
+    {
+      "text": "SUDU7570750 ML-CN2002614 20 DRY 8'6 2050 PACKAGES 27600.000 KGS 18.3000",
+      "confidence": 0.994202196598053
+    },
+    {
+      "text": "CBM",
+      "confidence": 0.9999520182609558
+    },
+    {
+      "text": "MRKU7415384 ML-CN2002615 20 DRY 8'6 2050 PACKAGES 27600.000 KGS 18.3000",
+      "confidence": 0.9805088043212891
+    },
+    {
+      "text": "CBM",
+      "confidence": 0.9998576641082764
+    },
+    {
+      "text": "The Merchant(s) warrant and represent that this shipment and/or Goods will comply at all",
+      "confidence": 0.9941074848175049
+    },
+    {
+      "text": "times with European Union, United Stat es and United Nations sanctions and/or export",
+      "confidence": 0.996547520160675
+    },
+    {
+      "text": "control laws (Sanctions Laws), and that this shipment and/or Goods do not involve,",
+      "confidence": 0.9914776086807251
+    },
+    {
+      "text": "Above particulars as declared by Shipper, but without responsibility of or representation by Carrier.",
+      "confidence": 0.9221251606941223
+    },
+    {
+      "text": "Freight & Charges",
+      "confidence": 0.9856231808662415
+    },
+    {
+      "text": "Rate",
+      "confidence": 0.9999376535415649
+    },
+    {
+      "text": "Unit",
+      "confidence": 0.9999226331710815
+    },
+    {
+      "text": "Currency",
+      "confidence": 0.9997398853302002
+    },
+    {
+      "text": "Prepaid",
+      "confidence": 0.9445129632949829
+    },
+    {
+      "text": "Collect",
+      "confidence": 0.9999813437461853
+    },
+    {
+      "text": "Carrier's Re cei pt. Total number of containers or",
+      "confidence": 0.9823828935623169
+    },
+    {
+      "text": "Place of Issue of Waybil",
+      "confidence": 0.9826483726501465
+    },
+    {
+      "text": "packa ges received by Carrier.",
+      "confidence": 0.9885432124137878
+    },
+    {
+      "text": "Qingdao",
+      "confidence": 0.9752386212348938
+    },
+    {
+      "text": "Shipped, as far as ascer tained by reason able means of checking, in appar ent good or der and condition",
+      "confidence": 0.9702343344688416
+    },
+    {
+      "text": "2 containers",
+      "confidence": 0.9966714978218079
+    },
+    {
+      "text": "unless otherwise stated herein the total number or quantity of Containers or other packages or units",
+      "confidence": 0.9770050048828125
+    },
+    {
+      "text": "Shipped on Board Da te ( Local Time)",
+      "confidence": 0.9421904683113098
+    },
+    {
+      "text": "ind cated in the box opposite entitled \"Carrier's Rece ipt",
+      "confidence": 0.9533005356788635
+    },
+    {
+      "text": "Dat e Issue of Waybill",
+      "confidence": 0.962261438369751
+    },
+    {
+      "text": "2025- 04-07",
+      "confidence": 0.9766952991485596
+    },
+    {
+      "text": "2025-04-07",
+      "confidence": 0.999900221824646
+    },
+    {
+      "text": "Declared Value Ch arges (see clause 7.3 of the Maersk Bill of",
+      "confidence": 0.986723005771637
+    },
+    {
+      "text": "Ladi ng) for Declar ed Value of US$",
+      "confidence": 0.9479325413703918
+    },
+    {
+      "text": "Signed for the Car rier Maersk A/S",
+      "confidence": 0.9677714109420776
+    },
+    {
+      "text": "This transport document has one or more num bered pages",
+      "confidence": 0.9875180125236511
+    },
+    {
+      "text": "As A",
+      "confidence": 0.9988136887550354
+    }
+  ],
+  "extracted": {
+    "shipper": {
+      "name": "",
+      "address": []
+    },
+    "consignee": {
+      "name": "dentitynd in the case f an agen, reasona ble proof of authority)without productin of this waybil.",
+      "address": [
+        "negligence.",
+        "Onward inland routing (Nbt part of Carriage as de fined in cl ause 1. For accou nt and risk of Mer chant)"
+      ]
+    },
+    "bill_info": {
+      "VOYAGE": "NO"
+    },
+    "cargo": [
+      "B/LNo. 720753508",
+      "720753508",
+      "299253769",
+      "55200.000 KGS",
+      "HS CODE:760612",
+      "*TEL:+86 18553906251",
+      "TELP : 081181187521",
+      "SUDU7570750 ML-CN2002614 20 DRY 8'6 2050 PACKAGES 27600.000 KGS 18.3000",
+      "MRKU7415384 ML-CN2002615 20 DRY 8'6 2050 PACKAGES 27600.000 KGS 18.3000"
+    ]
+  }
+}

@@ -29,15 +29,9 @@ def process_all_bills(image_folder, output_json):
                 'texts': texts,
                 # 预留标注字段
                 'labels': {
-                    'shipper_name': '',
-                    'shipper_address': [],
-                    'consignee_name': '',
-                    'consignee_address': [],
+                    'shipper': [],
+                    'consignee': [],
                     'bl_no': '',
-                    'oti_no': '',
-                    'ref_no': '',
-                    'ein_no': '',
-                    'tel': '',
                     'goods_description': []
                 }
             })

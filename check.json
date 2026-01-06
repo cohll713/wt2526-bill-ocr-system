@@ -1,0 +1,3285 @@
+{
+  "bills_of_lading": [
+    {
+      "file_name": "acs-No. OH23040018.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "",
+                "quantity": 20,
+                "package_type": "PALLET(S)",
+                "description": "SHIPPER'S LOAD & COUNT : 40HC X 1 STC: 20 PALLET(S) 20 PALLETS (1080 CASES) / 19458 KGS (TRN- 2023-015) TORANI FLAVORING SYRUP, HS CODE# 210690 AES ITN#: X20230417072832",
+                "measurement": 0,
+                "weight": 19458
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "FFAU3699949",
+                "seal_number": "41749369"
+              }
+            ],
+            "ship_date": "2023-04-23",
+            "booking_number": "RICDC5647600",
+            "place_of_departure": "OAKLAND, CA (UNITED STATES)",
+            "place_of_receipt": "OAKLAND, CA (UNITED STATES)",
+            "place_of_loading": "OAKLAND, CA (UNITED STATES)",
+            "place_of_delivery": "HỌ CHI MINH CITY (VIETNAM )",
+            "company_name": "Alliance Cargo System Inc.",
+            "measurement": "42,897.55 CBM",
+            "number_of_packages": 20,
+            "bill_of_lading__number": "OH- 23040018",
+            "delivery_agent_company_name": "TRUNG TIN TRANSPORT DELIVERY CO., LTD",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "A7/ 214A NATIONAL HIGHWAY 50, HAMLET 1, PHONG PHU COMMUNE, BINH CHANH DISTRICT, HO CHI MINH CITY, VIETNAM",
+            "delivery_agent_telephone": "+ 84-353513470",
+            "shipper_company_name": "R. TORRE & COMPANY",
+            "shipper_name": "",
+            "shipper_address": "2000 MARINA BOULEVARD SAN LEANDRO, CA 94577, UNITED STATES",
+            "shipper_telephone": "650-624-2813",
+            "total_gross_weight_value": "19,458.00",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "LY GIA VIÊN CO",
+            "consignee_name": "",
+            "consignee_address": "NO. 9F STREET 30 TAN QUY DONG RA TAN PHONG WARD DISTRICT 7 HỌ CHI MINH CITY, 700000, VIETNAM",
+            "notify_party_company_name": "SAME AS CONSIGNEE",
+            "notify_party_name": "Same as consignee",
+            "notify_party_address": "Same as consignee",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "ONE SWAN 023W",
+            "vessel_address": "",
+            "consignee_telephone": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "bealand.No. 205607737.jpg",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "MARBRE TAZA BEIGE BRILLANT",
+                "quantity": 10,
+                "package_type": "PACKAGES",
+                "description": "TLLU2429773 ML-MA0253481 20 DRY 8'6",
+                "measurement": 0,
+                "weight": 19380
+              },
+              {
+                "marks": "",
+                "quantity": 10,
+                "package_type": "PACKAGES",
+                "description": "MSKU5527941 ML-MA0253466 20 DRY 8'6",
+                "measurement": 0,
+                "weight": 19340
+              },
+              {
+                "marks": "",
+                "quantity": 10,
+                "package_type": "PACKAGES",
+                "description": "MSKU5456690 ML-MA0253494 20 DRY 8'6",
+                "measurement": 0,
+                "weight": 19300
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "TLLU2429773",
+                "seal_number": "MLMA0253481"
+              },
+              {
+                "container_number": "MSKU5527941",
+                "seal_number": "MLMA0253466"
+              },
+              {
+                "container_number": "MSKU5456690",
+                "seal_number": "MLMA0253494"
+              }
+            ],
+            "ship_date": "2020-10-13",
+            "booking_number": "BN205607737",
+            "place_of_departure": "Casablanca",
+            "place_of_receipt": "",
+            "place_of_loading": "Casablanca",
+            "place_of_delivery": "Kungaelv",
+            "company_name": "Sealand Europe AS",
+            "measurement": "",
+            "number_of_packages": 30,
+            "bill_of_lading__number": "205607737",
+            "delivery_agent_company_name": "MAERSK",
+            "delivery_agent_name": "Lison's",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "BRAHEMS VVS AB",
+            "shipper_name": "",
+            "shipper_address": "SIGNALGATAN 4 - 442 40 KUNGALV SWEDEN",
+            "shipper_telephone": "0046708923332",
+            "total_gross_weight_value": "58020.000",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "MEDAOUI COMMERCE",
+            "consignee_name": "",
+            "consignee_address": "DOUAR LETATMA SIDI MOUSSA BEN ALI MOHAMMEDIA MOROCCO",
+            "notify_party_company_name": "BRAHEMS VVS AB",
+            "notify_party_name": "",
+            "notify_party_address": "SIGNALGATAN 4   442 40 KUNGALV SWEDEN",
+            "notify_party_telephone": "0046708923332",
+            "notify_party_email": "",
+            "vessel_name": "CIELO DI RABAT",
+            "vessel_address": "",
+            "consignee_telephone": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "bealand-No. 596661826.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "N/M",
+                "quantity": 85,
+                "package_type": "PALLETS",
+                "description": "5 containers said to contain SOLAR MODULE ON BOARD FREIGHT PREPAID L/CNUMBER TF2010801047/DNG L/CDATE 200417",
+                "measurement": 242.2,
+                "weight": 58998.5
+              },
+              {
+                "marks": "CRSU9113961 MI-CN5252",
+                "quantity": 0,
+                "package_type": "",
+                "description": "DR96",
+                "measurement": 573800,
+                "weight": 1388
+              },
+              {
+                "marks": "MRKU6112634 ML-CN1540184 DSG LLETS",
+                "quantity": 0,
+                "package_type": "",
+                "description": "",
+                "measurement": 470.503,
+                "weight": 1388
+              },
+              {
+                "marks": "MRKU8276642 ML-CN4942020 40 DRY 9'6 20 PALLETS",
+                "quantity": 20,
+                "package_type": "PALLETS",
+                "description": "",
+                "measurement": 57,
+                "weight": 13882
+              },
+              {
+                "marks": "MRKU2618250 ML-CN494532G 40 DRY 9'6 20 PALLETS",
+                "quantity": 20,
+                "package_type": "PALLETS",
+                "description": "",
+                "measurement": 57,
+                "weight": 13982
+              },
+              {
+                "marks": "MSKUB279129 ML-CN4942102",
+                "quantity": 0,
+                "package_type": "",
+                "description": "40 DRY 9'6 20 PALLETS FREIGHT PREPAID",
+                "measurement": 0,
+                "weight": 0
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "CRSU9113961",
+                "seal_number": "MI-CN5252"
+              },
+              {
+                "container_number": "MRKU6112634",
+                "seal_number": "ML-CN1540184"
+              },
+              {
+                "container_number": "MRKU8276642",
+                "seal_number": "ML-CN4942020"
+              },
+              {
+                "container_number": "MRKU2618250",
+                "seal_number": "ML-CN494532G"
+              },
+              {
+                "container_number": "MSKUB279129",
+                "seal_number": "ML-CN4942102"
+              }
+            ],
+            "ship_date": "2020-05-06",
+            "booking_number": "596661826",
+            "place_of_departure": "NINGBO PORT IN CHINA",
+            "place_of_receipt": "",
+            "place_of_loading": "NINGBO PORT IN CHINA",
+            "place_of_delivery": "DANANG PORT, VIETNAM",
+            "company_name": "Maersk",
+            "measurement": "242.2000 CBM",
+            "number_of_packages": 85,
+            "bill_of_lading__number": "596661826",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "JINKOSOLAR CO., LTD",
+            "shipper_name": "",
+            "shipper_address": "NO.1 JINKO ROAD SHANGRAO ECONOMIC DEVELOPMENT ZONE, JIANGXI PROVINCE, CHINA",
+            "shipper_telephone": "+84 90488579",
+            "total_gross_weight_value": "58998.500",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "TECHCOMBANK",
+            "consignee_name": "",
+            "consignee_address": "DA NANG BRANCH",
+            "notify_party_company_name": "CONG TY TNHH THIET KE TU VAN VA XAY LAP 504",
+            "notify_party_name": "",
+            "notify_party_address": "TO 16, P. HOA AN, Q.CAM LE, TP. DA NANG, VIET NAM",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "MCC SHENZHEN",
+            "vessel_address": "",
+            "consignee_telephone": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "cma-No. SGHIR203569.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "UESU4803380 SEAL HP17506 CONTAINER NO. RHEX5688",
+                "quantity": 100,
+                "package_type": "BOXES",
+                "description": "1 x 40RH FROZEN GIANT TIGER PRAWN NET WEIGHT 10 MTS FROZEN WHITELEG SHRIMPS NET WEIGHT 15 MTS .\nPACKED IN VACUUM BAGS WITH EACH CONSISTING OF 500 GRAMS OF FROZEN SHRIMP.\nTHE PACKED VACUUM BAGS ARE PACKED IN STYROFOAM BOXES WHICH WILL BE LOADED INTO 40RH CONTAINERS .\nFREIGHT PREPAID .",
+                "measurement": 72,
+                "weight": 26000
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "UESU4803380",
+                "seal_number": "HP17506"
+              }
+            ],
+            "ship_date": "",
+            "booking_number": "",
+            "place_of_departure": "CAT LAI PORT, VIETNAM",
+            "place_of_receipt": "",
+            "place_of_loading": "CAT LAI PORT, VIETNAM",
+            "place_of_delivery": "HIROSHIMA PORT, JAPAN",
+            "company_name": "CMA CGM",
+            "measurement": "72.0",
+            "number_of_packages": 100,
+            "bill_of_lading__number": "SGHIR203569",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "HAPLUS OCEAN PRODUCTS COMPANY LIMITED",
+            "shipper_name": "",
+            "shipper_address": "NO.8 NGUYEN HUU CANH STREET, WARD 22, BINHTHANH DISTRICT, HỌ CHI MINH CITY.",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "26000.0",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "10",
+            "total_net_weight_unit": "MTS",
+            "consignee_company_name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE, BRANCH BINHTHANH DISTRICT – HỌ CHI MINH CITY.",
+            "consignee_name": "",
+            "consignee_address": "",
+            "notify_party_company_name": "IZANAMI SEAFOOD IMPORTS COMPANY LIMITED",
+            "notify_party_name": "",
+            "notify_party_address": "9ŌTEMACHI, NAKA WARD, HIROSHIMA, 730-0051, JAPAN",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "CNC NEPTUNE",
+            "vessel_address": "",
+            "consignee_telephone": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "cordelia-No. CSX23SHKMUN017829.pdf",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "N/M",
+                "quantity": 7,
+                "package_type": "PACKAGES",
+                "description": "2 X D20 CONTAINERS SAID TO CONTAIN COLD ROLLED STAINLESS STEEL COIL GRADE J3 HS CODE: 72193590 14 DAYS FREE TIME AT DESTINSATION 2 X D20 RECEIVED FOR SHIPMENT FREIGHT PREPAID CY/CY FCL/FCL",
+                "measurement": 6.48,
+                "weight": 27392
+              },
+              {
+                "marks": "N/M",
+                "quantity": 6,
+                "package_type": "PACKAGES",
+                "description": "2 X D20 CONTAINERS SAID TO CONTAIN COLD ROLLED STAINLESS STEEL COIL GRADE J3 HS CODE: 72193590 14 DAYS FREE TIME AT DESTINSATION 2 X D20 RECEIVED FOR SHIPMENT FREIGHT PREPAID CY/CY FCL/FCL",
+                "measurement": 6.08,
+                "weight": 26114
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "TGCU2288744",
+                "seal_number": "CSX136470"
+              },
+              {
+                "container_number": "TGCU2288934",
+                "seal_number": "CSX136479"
+              }
+            ],
+            "ship_date": "2023-03-29",
+            "booking_number": "",
+            "place_of_departure": "SHEKOU, CHINA",
+            "place_of_receipt": "SHEKOU, CHINA",
+            "place_of_loading": "SHEKOU, CHINA",
+            "place_of_delivery": "MUNDRA, INDIA",
+            "company_name": "CORDELIA CONTAINER SHIPPING LINE",
+            "measurement": "6.480",
+            "number_of_packages": 13,
+            "bill_of_lading__number": "CSX23SHKMUN017829",
+            "delivery_agent_company_name": "EMINENT SHIPPING",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "FIRST FLOOR, PLOT NO.133. SECTOR NO.8, GANDHIDHAM, KUTCH, GUJARAT- 370201 GANDHIDHAM, INDIA, INDIA",
+            "delivery_agent_telephone": "912836296696",
+            "shipper_company_name": "FOSHAN WEN ZHI YUAN TRADING CO., LTD.",
+            "shipper_name": "",
+            "shipper_address": "ROOM D, UNIT 2109, BUILDING 2, THRIVEUNITE IFC, 1ST SHI LONG SOUTH ROAD, GUICHENG, NANHAI DISTRICT, FOSHAN, CHINA",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "27392.0000",
+            "total_gross_weight_unit": "KG",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "S.S ENTERPRISES",
+            "consignee_name": "",
+            "consignee_address": "ADD: HOUSE NO 24/ 25,1ST FLOOR , BLOCK B, POCKET 6, ROHINI SECTOR11, NORTH WEST DELHI, DELHL, 110085",
+            "notify_party_company_name": "GREEN POINT PTE.LTD.",
+            "notify_party_name": "",
+            "notify_party_address": "ADD: OCBC BANK 65 CHULIA STREETOCBC CENTER SINGAPORE 049513:",
+            "notify_party_telephone": "+65 9014 7647",
+            "notify_party_email": "DOCS@ GREENPOINTLTD",
+            "vessel_name": "GFS GISELLE/ 2304W",
+            "vessel_address": "",
+            "consignee_telephone": ""
+          },
+          {
+            "line_items": null,
+            "container_line_item_info": null,
+            "ship_date": "",
+            "booking_number": "",
+            "place_of_departure": "",
+            "place_of_receipt": "",
+            "place_of_loading": "",
+            "place_of_delivery": "",
+            "company_name": "Carrier",
+            "measurement": "",
+            "number_of_packages": 0,
+            "bill_of_lading__number": "",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "",
+            "shipper_name": "",
+            "shipper_address": "",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "",
+            "total_gross_weight_unit": "",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "",
+            "consignee_name": "",
+            "consignee_address": "",
+            "notify_party_company_name": "",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "",
+            "vessel_address": "",
+            "consignee_telephone": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "csl-No.  CSX23SHKMUN017829.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "7 PACKAGES",
+                "quantity": 0,
+                "package_type": "PACKAGES",
+                "description": "2 X D20 CONTAINERS SAID TO CONTAIN COLD ROLLED STAINLESS STEEL COIL GRADE J3 HS CODE: 72193590 14 DAYS FREE TIME AT DESTINSATION 2 XD20 N/M RECEIVED FOR SHIPMENT FREIGHT PREPAID CY/ CY FCL/ FCL",
+                "measurement": 6.48,
+                "weight": 27392
+              },
+              {
+                "marks": "6 PACKAGES",
+                "quantity": 0,
+                "package_type": "PACKAGES",
+                "description": "",
+                "measurement": 6.08,
+                "weight": 26114
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "TGCU2288744",
+                "seal_number": "CSX136470"
+              },
+              {
+                "container_number": "TGCU2288934",
+                "seal_number": "CSX136479"
+              }
+            ],
+            "ship_date": "2023-03-29",
+            "booking_number": "",
+            "place_of_departure": "SHEKOU,CHINA",
+            "place_of_receipt": "SHEKOU,CHINA",
+            "place_of_loading": "SHEKOU,CHINA",
+            "place_of_delivery": "MUNDRA,INDIA",
+            "company_name": "CORDELIA CONTAINER SHIPPING LINE",
+            "measurement": "6.480",
+            "number_of_packages": 13,
+            "bill_of_lading__number": "CSX23SHKMUN017829",
+            "delivery_agent_company_name": "EMINENT SHIPPING Agent SERVICES LLP",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "FIRST FLOOR, PLOT NO. 133. SECTOR NO.8, GANDHIDHAM KUTCH, GUJARAT- 370201 GANDHIDHAM, INDIA, INDIA",
+            "delivery_agent_telephone": "912836296696",
+            "shipper_company_name": "FOSHAN WEN ZHI YUAN TRADING CO.,LTD.",
+            "shipper_name": "",
+            "shipper_address": "ROOM D, UNIT 2109, BUILDING 2, THRIVEUNITE IFC, 1ST SHI LONG SOUTH ROAD, GUICHENG, NANHAI DISTRICT, FOSHAN, CHINA",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "27392.0000",
+            "total_gross_weight_unit": "KG",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "S.S ENTERPRISES",
+            "consignee_name": "",
+            "consignee_address": "ADD: HOUSE NO 24/ 25,1ST FLOOR , BLOCK B, POCKET 6, ROHINI SECTOR11, NORTH WEST DELHI, DELHL, 110085",
+            "notify_party_company_name": "GREEN POINT PTE. LTD.",
+            "notify_party_name": "",
+            "notify_party_address": "ADD: OCBC BANK 65 CHULIA STREETOCBC CENTER SINGAPORE 049513:",
+            "notify_party_telephone": "+65 9014 7647",
+            "notify_party_email": "DOCS@ GREENPOINTLTD",
+            "vessel_name": "GFS GISELLE/ 2304W",
+            "vessel_address": "",
+            "consignee_telephone": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "daco-No. HPBKK18o7061.pdf",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "N/M",
+                "quantity": 1200,
+                "package_type": "Package(s)",
+                "description": "6 x 40HC CONTAINER TELECOMMUNICATION EQUIPMENT ''FREIGHT PREPAID'' LC NUMBER : LI22B07431 & LC ISSUE DATE : 220627 SHIPMENT NUMBER : 1213201047 INVOICE NUMBER : 106910851 CONTRACT NUMBER : 03/VIETTEL-NSN/2022 DATED 10 JUNE, 2022 SHIPPED ON BOARD SITC CHULAI DATED 09.07.2022 AT SHANGHAI,CHINA",
+                "measurement": 236.037,
+                "weight": 44412.9
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "BMOU6503283",
+                "seal_number": "SITA770966"
+              },
+              {
+                "container_number": "DFSU7234196",
+                "seal_number": "SITA772496"
+              },
+              {
+                "container_number": "SITU9151601",
+                "seal_number": "SITA773443"
+              }
+            ],
+            "ship_date": "2022-07-09",
+            "booking_number": "",
+            "place_of_departure": "SHANGHAI, CHINA",
+            "place_of_receipt": "SHANGHAI, CHINA",
+            "place_of_loading": "SHANGHAI, CHINA",
+            "place_of_delivery": "CAT LAI SEAPORT, VIETNAM",
+            "company_name": "DANMAR LINES",
+            "measurement": "236.037 M3",
+            "number_of_packages": 1200,
+            "bill_of_lading__number": "SZVB27229",
+            "delivery_agent_company_name": "DHL GLOBAL FORWARDING (VIETNAM) CORPORATION",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "ETOWN- 2 TOWER 364 CONG HOA STREET WARD 13 TAN BINH DISTRICT HỌ CHI MINH CITY 700000 VIỆT NAM.",
+            "delivery_agent_telephone": "+84 28 3812 3888",
+            "shipper_company_name": "NOKIA SOLUTIONS AND NETWORKS OY",
+            "shipper_name": "",
+            "shipper_address": "KARAKAARI 7, 02610 ESPOO, FINLAND",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "44412.900",
+            "total_gross_weight_unit": "KG",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "VIETTEL GROUP",
+            "consignee_name": "",
+            "consignee_address": "LOT. D26 , CAU GIAY NEW URBAN AREA, YEN HOA WARD , CAU GIAY DISTRICT, HANOI CITY, VIETNAM",
+            "notify_party_company_name": "VIETTEL GROUP",
+            "notify_party_name": "",
+            "notify_party_address": "LOT. D26, CAU GIAY NEW URBAN AREA, YEN HOA WARD, CAU GIAY DISTRICT, HANOI CITY, VIETNAM",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "SITC CHULAI",
+            "vessel_address": "",
+            "consignee_telephone": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "delta-No. TN020819.pdf",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "FCL/FCL CYCY",
+                "quantity": 134000,
+                "package_type": "PCS",
+                "description": "3x20'DC container said to contain 134,000 PCS ALUMINUM CUP",
+                "measurement": null,
+                "weight": 67000
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "EMCU 858340 5",
+                "seal_number": "1908200"
+              },
+              {
+                "container_number": "EMCU 960977 8",
+                "seal_number": "0898147"
+              },
+              {
+                "container_number": "EMCU 959420 9",
+                "seal_number": "1029183"
+              }
+            ],
+            "ship_date": "2023-05-27",
+            "booking_number": "",
+            "place_of_departure": "Hamburg Port, Germany",
+            "place_of_receipt": "Hamburg Port, Germany",
+            "place_of_loading": "Hamburg Port, Germany",
+            "place_of_delivery": "Ho Chi Minh Port, Vietnam",
+            "company_name": "DELTA INTERNATIONAL LOGISTICS CO., LTD",
+            "measurement": null,
+            "number_of_packages": 134000,
+            "bill_of_lading__number": "TN020819",
+            "delivery_agent_company_name": "EVERGREEN MARINE Co.Ltd",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "MÜLLER + PARTNER",
+            "shipper_name": "Mrs. Barbara Voelker",
+            "shipper_address": "Friedrichstrasse 130 C 10117 Berlin/Germany",
+            "shipper_telephone": "004930308820 / 004930330889260",
+            "total_gross_weight_value": "67.000",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "GENIE CANDLE MFG",
+            "consignee_name": "Mrs. Nguyen Thi Cam Ha",
+            "consignee_address": "125 TON DUC THANG STREET, DONG DA DIST, HANOI, VIETNAM",
+            "consignee_telephone": "0084435739098",
+            "notify_party_company_name": "SAME AS CONSIGNEE",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "EVER ACE",
+            "vessel_address": "1908-202N",
+            "consignee_telephone": "0084435739098"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "foppiani-No. FSL-CGP-00125.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "MAIN MARK NEW COME ON SRL (19 ALTAYENSTONE)",
+                "quantity": 120,
+                "package_type": "CTNS",
+                "description": "T-SHIRT, 100% COTTON SLUB S/J 160 GSM STYLE: ATS1, ATS2, ATS3, ATS4, ATS5, ATS6, ATS7, ATS8, ATS9, ATS0 HS CODE: 61091000 CAT: 4 MBL: YMLUM562097047",
+                "measurement": 14.10,
+                "weight": 2052.00
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "YMMU4019676 / 40ST",
+                "seal_number": "YMLL640735"
+              }
+            ],
+            "ship_date": "2017-02-26",
+            "booking_number": "",
+            "place_of_departure": "CHITTAGONG",
+            "place_of_receipt": "CHITTAGONG",
+            "place_of_loading": "CHITTAGONG",
+            "place_of_delivery": "LA SPEZIA, ITALY",
+            "company_name": "Foppiani Shipping & Logistics",
+            "measurement": "14.10 CBM",
+            "number_of_packages": 120,
+            "bill_of_lading__number": "FSL-CGP-00125",
+            "delivery_agent_company_name": "FOPPIANI SHIPPING & LOGISTICS",
+            "delivery_agent_name": "SAMUELE SANDRETTI",
+            "delivery_agent_address": "VIA CHEMNITZ 4 - MACROLOTTO 59100 PRATO, ITALY",
+            "delivery_agent_telephone": "+390574 729523 / +390574701007",
+            "shipper_company_name": "TEXTILLERY LTD.",
+            "shipper_name": "",
+            "shipper_address": "826 BANGABONDHU SHAROK, TANGABARI, ASHULIA, SAVAR, DHAKA-1341, BANGLADESH",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "2052.00",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "SOUTHEAST BANK LTD.",
+            "consignee_name": "TO THE ORDER OF",
+            "consignee_address": "AGARGAON BRANCH, DHAKA, BANGLADESH",
+            "consignee_telephone": "",
+            "notify_party_company_name": "NEW COME ON F.LLI PELINGA SRL",
+            "notify_party_name": "",
+            "notify_party_address": "VIA A. VOLTA 69, 61037 MONDOLFO (PU) / ITALY",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "AL QIBLA",
+            "vessel_address": "V-1708W",
+            "consignee_telephone": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "ham-No. 0MEX005751.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "CAIU7153507 Seal-Numbers CEM180180559 Tare: 3750 KG Size:40' Type:HC Cnt.Ld.:FCLFCL",
+                "quantity": 245,
+                "package_type": "Package",
+                "description": "TELEVISIONS HS CODE:852872,",
+                "measurement": 60.696,
+                "weight": 4998.000
+              },
+              {
+                "marks": "CXDU2395298 Seal-Numbers 0180534 Tare: 3700 KG Size:40' Type:HC Cnt.Ld.:FCLFCL",
+                "quantity": 178,
+                "package_type": "Package",
+                "description": "TELEVISIONS HS CODE:852872,",
+                "measurement": 39.567,
+                "weight": 4108.000
+              },
+              {
+                "marks": "HASU5058505 Seal-Numbers 0230745 Tare: 3860 KG Size:40' Type:HC Cnt.Ld.:FCLFCL",
+                "quantity": 166,
+                "package_type": "Package",
+                "description": "TELEVISIONS HS CODE:852872,",
+                "measurement": 41.125,
+                "weight": 3386.400
+              },
+              {
+                "marks": "MRKU5741102 Seal-Numbers 0180579 Tare: 3810 KG",
+                "quantity": 121,
+                "package_type": "Package",
+                "description": "TELEVISIONS",
+                "measurement": 30.786,
+                "weight": 2926.000
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "CAIU7153507",
+                "seal_number": "CEM180180559"
+              },
+              {
+                "container_number": "CXDU2395298",
+                "seal_number": "0180534"
+              },
+              {
+                "container_number": "HASU5058505",
+                "seal_number": "0230745"
+              },
+              {
+                "container_number": "MRKU5741102",
+                "seal_number": "0180579"
+              }
+            ],
+            "ship_date": "2020-03-14",
+            "booking_number": "0MEX005751",
+            "place_of_departure": "",
+            "place_of_receipt": "",
+            "place_of_loading": "MANZANILLO MX",
+            "place_of_delivery": "BUENAVENTURA CO",
+            "company_name": "Hamburg Süd",
+            "measurement": null,
+            "number_of_packages": 710,
+            "bill_of_lading__number": "SUDU20297ALUS0FK",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "PANTOS LOGISTICS MEXICO S.A. DE C.V.",
+            "shipper_name": "",
+            "shipper_address": "TORRE VAO II CALLE DAVID ALFARO SIQUEIROS NO.104 PISO 11A COL VALLE OTE SAN PEDRO GARZA GARCIA N.L. CP 66269 RFC PLM060302ADA",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "15418.400",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "PANTOS LOGISTICS COLOMBIA S.A.S ACI",
+            "consignee_name": "",
+            "consignee_address": "COD 571 CRA 11 A N. 98 50 OFICINA 704 NIT 900.497.857-2 Phone: +57 (1) 5185449 BOGOTA-COLOMBIA AT: SELENE.CAMPOS@PANTOS.COM",
+            "consignee_telephone": "+57 (1) 5185449",
+            "notify_party_company_name": "PANTOS LOGISTICS COLOMBIA S.A.S ACI",
+            "notify_party_name": "",
+            "notify_party_address": "COD 571 CRA 11 A N. 98 50 OFICINA 704 NIT 900.497.857-2 Phone: +57 (1) 5185449 BOGOTA-COLOMBIA AT: SELENE.CAMPOS@PANTOS.COM",
+            "notify_party_telephone": "+57 (1) 5185449",
+            "notify_party_email": "SELENE.CAMPOS@PANTOS.COM",
+            "vessel_name": "SKAGEN MAERSK",
+            "vessel_address": "007 S",
+            "consignee_telephone": "+57 (1) 5185449"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "hapagLloyd-No. HLCULIV130219209.pdf",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "HOTHI, HARYANA",
+                "quantity": 152,
+                "package_type": "PACKAGES",
+                "description": "USED HOUSEHOLD & PERSONAL EFFECTS *SLAC = Shipper's Load, Stow, Weight and Count",
+                "measurement": 25,
+                "weight": 2500
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "HLXU 2382861",
+                "seal_number": "MLGB 2683941"
+              }
+            ],
+            "ship_date": "2013-02-27",
+            "booking_number": "",
+            "place_of_departure": "8 OBERON CLOSE CV34 6XF WARWICK GREAT BRITAIN",
+            "place_of_receipt": "8 OBERON CLOSE CV34 6XF WARWICK GREAT BRITAIN",
+            "place_of_loading": "TILBURY, ESSEX",
+            "place_of_delivery": "DELHI",
+            "company_name": "Hapag-Lloyd Aktiengesellschaft",
+            "measurement": "25 CBM",
+            "number_of_packages": 152,
+            "bill_of_lading__number": "HLCULIV130219209",
+            "delivery_agent_company_name": "HAPAG-LLOYD (UK) LTD.",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "MRS RAJWINDER HOTHI & MR MANISH BHATT",
+            "shipper_name": "",
+            "shipper_address": "C/O; SIMPSONS REMOVALS & STORAGE UNIT 2 TUPTON WAY, HOLMEWOOD INDUSTRIAL ESTATE, CHESTERFIELD, DERBYSHIRE S42 5BX GB",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "2500",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "MRS RAJWINDER HOTHI & MR MANISH BHATT",
+            "consignee_name": "",
+            "consignee_address": "C/O; EMERALD RELOCATIONS NO 12 SIXTH STREET, BABA NAGAR VILLVAKKAM, CHENNAI INDIA 600049",
+            "consignee_telephone": "91 94458 47282",
+            "notify_party_company_name": "EMERALD RELOCATIONS",
+            "notify_party_name": "",
+            "notify_party_address": "NO 12 SIXTH STREET, BABA NAGAR VILLVAKKAM, CHENNAI INDIA 600049",
+            "notify_party_telephone": "91 94458 47282",
+            "notify_party_email": "BLR@EMERALDRELOCATIONS.COM",
+            "vessel_name": "RIO DE LA PLATA",
+            "vessel_address": "3208",
+            "consignee_telephone": "91 94458 47282"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "hmm-No. JKTM59538301.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "SHIPPER NAME: PT.INDOLIBERTY TEXTILES DESCRIPTION: 90 PACKAGES = 30 PALLETS AND 60 CARTONS NE 30/2 NRY SC 5050012874, BD PO NO 4500199856, LOT NO: K17A GOODS NE 30/2 RAYON 100% RING SPUN NON WAX NET WEIGHT: HS CODE : 5510.12.00 486.8593 KGS SC 5050012874, BD PO NO 4500199856, GROSS WEIGHT: GOODS NE 20/1 PV 65/35 RING SPUN WAX HS CODE : 5509.51.00 522.3234 KGS ORIGIN OF PRODUCT: NET WEIGHT : 20,734.65 KGS JAKARTA GROSS WEIGHT : 22,046.32 KGS INDONESIA",
+                "quantity": 90,
+                "package_type": "PACKAGES",
+                "description": "\"SHIPPER'S LOAD, COUNT, SEALED & WEIGHT S.T.C.\" 1 X 40'H DC CONTAINER 30 PALLETS AND 60 CARTONS SC 5050012874, BD PO NO 4500199856, GOODS NE 30/2 RAYON 100% RING SPUN NON WAX HS CODE : 5510.12.00 SC 5050012874, BD PO NO 4500199856, GOODS NE 20/1 PV 65/35 RING SPUN WAX HS CODE : 5509.51.00",
+                "measurement": 60.0000,
+                "weight": 22046.320
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "DFSU6667458",
+                "seal_number": "192308662"
+              }
+            ],
+            "ship_date": "2023-05-22",
+            "booking_number": "JKTM59538301",
+            "place_of_departure": "TG PRIOK JAKARTA INDONESIA",
+            "place_of_receipt": "TG PRIOK JAKARTA INDONESIA",
+            "place_of_loading": "TG PRIOK JAKARTA INDONESIA",
+            "place_of_delivery": "SANTOS, BRAZIL",
+            "company_name": "HMM",
+            "measurement": "60.0000 CBM",
+            "number_of_packages": 90,
+            "bill_of_lading__number": "JKTM59538301",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "PT. INDOLIBERTY TEXTILES",
+            "shipper_name": "",
+            "shipper_address": "MENARA BATAVIA LEVEL 16 JL. K.H. MAS MANSYUR KAV. 126 JAKARTA 10220 - INDONESIA TAX ID : 01.070.911.1-057.000",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "22046.320",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "20734.65",
+            "total_net_weight_unit": "KGS",
+            "consignee_company_name": "BEKAERTDESLEE BRAZIL INDUSTRIA E COMERCIO DE ARTIGOS TEXEIS LTDA",
+            "consignee_name": "",
+            "consignee_address": "CENTRO EMPRESARIAL GIORDANO AVENIDA AMELIO GAZETTA, 3567 13380-290 CITY OF NOVA ODESSA SAO PAULO STATE BRAZIL#",
+            "consignee_telephone": "",
+            "notify_party_company_name": "1ST. BEKAERTDESLEE BRAZIL INDUSTRIA E COMERCIO DE ARTIGOS TEXEIS LTDA",
+            "notify_party_name": "",
+            "notify_party_address": "CENTRO EMPRESARIAL GIORDANO AVENIDA AMELIO GAZETTA, 3567 13380-290 CITY OF NOVA ODESSA ##",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "HYUNDAI SHANGHAI V",
+            "vessel_address": "0140W",
+            "consignee_telephone": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "house-No. BFTP09714961.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "BE FORWARD, Dar es Salaam",
+                "quantity": 1,
+                "package_type": "UNIT",
+                "description": "USED HONDA Fit Hybrid CHASSIS: GP4-1007807 Ref No: BM578311 1 UNIT INTRANSIT TO Zimbabwe VIA Dar es Salaam",
+                "measurement": 10.044,
+                "weight": 1435.000
+              }
+            ],
+            "container_line_item_info": [],
+            "ship_date": "2022-10-12",
+            "booking_number": "",
+            "place_of_departure": "",
+            "place_of_receipt": "YOKOHAMA",
+            "place_of_loading": "HITACHINAKA",
+            "place_of_delivery": "Dar es Salaam",
+            "company_name": "BE FORWARD",
+            "measurement": "10.044 cbm",
+            "number_of_packages": 1,
+            "bill_of_lading__number": "BFTP09714961",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "BE FORWARD CO.,LTD.",
+            "shipper_name": "",
+            "shipper_address": "4-20-2 FUDA CHOFU-SHI TOKYO, 182-0024 JAPAN",
+            "shipper_telephone": "+81 42 440 3440",
+            "total_gross_weight_value": "1435.000",
+            "total_gross_weight_unit": "Kg",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "GEORGE CHINGORE MATARUKA",
+            "consignee_name": "GEORGE CHINGORE MATARUKA",
+            "consignee_address": "SABI VALLEY PRIMARY SCHOOL, CHIPANGAYI MUTARE ZIMBABWE",
+            "consignee_telephone": "+263779670247",
+            "notify_party_company_name": "SAME AS CONSIGNEE",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "ftmndidi@gmail.com",
+            "vessel_name": "HOEGH BRASILIA",
+            "vessel_address": "107",
+            "consignee_telephone": "+263779670247"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "infiniti-No. E4F08N_318.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "CONTAINER / SEAL NO. MSKU 047040-0 / 40HC ML-ID0717993",
+                "quantity": 1,
+                "package_type": "40HC CONTAINER",
+                "description": "1 40HC CONTAINER STC : SOLAR MODULE MODEL : GS-M144-435-FAB2 MATERIAL SOLAR CELL MANUFACTURE BY PT ALI SOLAR CELL, INDONESIA INVOICE NO : NUSA 20240627001",
+                "measurement": 54.09,
+                "weight": 19722.00
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "MSKU 047040-0",
+                "seal_number": "ML-ID0717993"
+              }
+            ],
+            "ship_date": "2024-06-29",
+            "booking_number": "",
+            "place_of_departure": "BATU AMPAR, BATAM",
+            "place_of_receipt": "BATU AMPAR, BATAM",
+            "place_of_loading": "BATU AMPAR, BATAM",
+            "place_of_delivery": "TANJUNG PELEPAS",
+            "company_name": "INFINITI MARINE",
+            "measurement": "54.09 M3",
+            "number_of_packages": 1,
+            "bill_of_lading__number": "E4F08N/318",
+            "delivery_agent_company_name": "INFINITI MARINE PTE LTD",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "PT. IDN SOLAR TECH",
+            "shipper_name": "",
+            "shipper_address": "KOMPLEK KABIL INDONESIA ESTATE BLOK A NO.19B, BATAM INDONESIA NPWP NO. 93.321.898.2-215.000",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "19722.00",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "LENERGY POWER INC.",
+            "consignee_name": "",
+            "consignee_address": "1249 S DIAMOND BAR BLVD 255, DIAMOND BAR, CALIFORNIA 91765",
+            "consignee_telephone": "",
+            "notify_party_company_name": "SAME AS CONSIGNEE",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "INFINITI 5",
+            "vessel_address": "E4F08N",
+            "consignee_telephone": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "kmtc-No. KMTCXGG2505266.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "N/M",
+                "quantity": 4868,
+                "package_type": "CARTONS",
+                "description": "\"SHIPPER'S LOAD, COUNT & SEAL\" \"SAID TO CONTAIN\" 4X40'RH 4868CARTONS FRESH PEAR HS CODE:0808.30 CARGO IS STOWED IN REFRIGERATED CONTAINER(S) SET AT THE SHIPPER'S REQUESTED CARRYING TEMPERATURE OF - DEGREES OF CELSIUS (+0C) VENTILATION: 25CBM/HOUR",
+                "measurement": 200.0000,
+                "weight": 87404.000
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "BMOU9237865",
+                "seal_number": "CE126389"
+              },
+              {
+                "container_number": "BMOU9239868",
+                "seal_number": "CE210060"
+              },
+              {
+                "container_number": "CAIU5531613",
+                "seal_number": "CE210101"
+              },
+              {
+                "container_number": "SEGU9590360",
+                "seal_number": "CE126381"
+              }
+            ],
+            "ship_date": "2023-09-23",
+            "booking_number": "CN05434968",
+            "place_of_departure": "",
+            "place_of_receipt": "",
+            "place_of_loading": "XINGANG,CHINA",
+            "place_of_delivery": "",
+            "company_name": "Korea Marine Transport Co., Ltd.",
+            "measurement": "200.0000 CBM",
+            "number_of_packages": 4868,
+            "bill_of_lading__number": "KMTCXGG2505266",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "BOTOU PANGLONG FRUIT PRODUCTS RESPONSIBILITY CO.,LTD.",
+            "shipper_name": "",
+            "shipper_address": "WANGWU TOWN BOTOU CITY HEBEI PROVINCE,CHINA",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "87404.000",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "CV.ALAM BUAH ABADI",
+            "consignee_name": "",
+            "consignee_address": "TEGAL REJO NO.28 BLOK.-NO.- RT.000 RW.0 URUTSEWU AMPEL KAB. BOYOLALI JAWA TENGAH INDONESIA NPWP :61.094.752.5-527.000",
+            "consignee_telephone": "",
+            "notify_party_company_name": "SAME AS CONSIGNEE",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "SUNNY IRIS",
+            "vessel_address": "2314E",
+            "consignee_telephone": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Maersk-No .591153724.pdf",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "N/M N/M",
+                "quantity": 71,
+                "package_type": "PACKAGES",
+                "description": "1 Container Said to Contain 71 PACKAGES ALUMINIUM EXTRUSIONS CONNECTION PARTS PLASTIC COVER U CHANNEL SAY SEVENTY-ONE PACKAGES ONLY. SHIPPER'S LOAD, STOW, WEIGHT AND COUNT FREIGHT PREPAID CY/CY",
+                "measurement": 34.5110,
+                "weight": 15907.140
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "MAEU4230312",
+                "seal_number": "ML-CN4499538"
+              }
+            ],
+            "ship_date": "2019-12-30",
+            "booking_number": "591153724",
+            "place_of_departure": "Shanghai",
+            "place_of_receipt": "",
+            "place_of_loading": "Shanghai",
+            "place_of_delivery": "",
+            "company_name": "Maersk A/S",
+            "measurement": "34.5110 CBM",
+            "number_of_packages": 71,
+            "bill_of_lading__number": "591153724",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "THESAN USA CORP.",
+            "shipper_name": "",
+            "shipper_address": "1221 BRICKELL AVE. SUITE 1160 33131 MIAMI, FLORIDA - USA",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "15907.140",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "THESAN COLOMBIA SAS",
+            "consignee_name": "",
+            "consignee_address": "NIT. 901.140.195-6 Cra. 21 #86-81 BOGOTA COLOMBIA",
+            "consignee_telephone": "",
+            "notify_party_company_name": "THESAN COLOMBIA SAS",
+            "notify_party_name": "",
+            "notify_party_address": "NIT. 901.140.195-6 Cra. 21 #86-81 BOGOTA COLOMBIA",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "SVENDBORG MAERSK",
+            "vessel_address": "952E",
+            "consignee_telephone": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Maersk-No. 21033750.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "MSCKU9702636 ML-CN5270760",
+                "quantity": 7500,
+                "package_type": "BALES",
+                "description": "1 Container Said to Contain 7500 BALES 01 X 40 CNTR STC 5000 BALES OF TOP QUALITY WOMEN SHOES 2500 BALES OF TOP QUALITY MEN TENNIS -SHOES TOTAL OF ITEMS : 7500 BALES TOTAL NET WEIGHT: 67829 KGS TOTAL GROSS WEIGHT: 68000 KGS SHIPPED LOAD,STOW,WEIGHT AND COUNT FREIGHT PREPAID CY/CY APPLICABLE FREE TIMES 14 DAYS COMBINED (DETENTION & DEMURRAGE) AT (PORT OF DISCHARGE / PLACE OF DELIVERY).",
+                "measurement": 98.000,
+                "weight": 68000.000
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "MSCKU9702636",
+                "seal_number": "ML-CN5270760"
+              }
+            ],
+            "ship_date": "2021-04-12",
+            "booking_number": "210330750",
+            "place_of_departure": "Hong Kong",
+            "place_of_receipt": "",
+            "place_of_loading": "Hong Kong Port",
+            "place_of_delivery": "",
+            "company_name": "Maersk Line A/S",
+            "measurement": "98.000 CBM",
+            "number_of_packages": 7500,
+            "bill_of_lading__number": "21033750",
+            "delivery_agent_company_name": "AIRWAY EXPRESS CO LTD",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "Maersk Hong Kong",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "HONGKONG ANGUANG FREIGHT FORWARDER CO., LIMITED",
+            "shipper_name": "",
+            "shipper_address": "FLAT 9, 7/F FONDA INDUSTRIAL BUILDING 37-39 AU PUI WAN STREET, FOTAN, SHATIN, NT, HK",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "68000.000",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "67829",
+            "total_net_weight_unit": "KGS",
+            "consignee_company_name": "EGCA-BATIMENT",
+            "consignee_name": "",
+            "consignee_address": "PO.BOX. 5391 DJAMENA-TCHAD",
+            "consignee_telephone": "",
+            "notify_party_company_name": "SAME AS CONSIGNE",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "MSC MARIA ELENA",
+            "vessel_address": "121W",
+            "consignee_telephone": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Maersk-No. 217077365.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "",
+                "quantity": 1200,
+                "package_type": "cartons",
+                "description": "1 x 40' Reefer Container said to contain 1200 cartons NET WEIGHT: 6600.00 KGS GROSS WEIGHT: 7200.00 KGS MAINTENANCE TEMPERATURE: 2°C SHIPPER SEAL: FREIGHT PREPAID CY/CY",
+                "measurement": 60.000,
+                "weight": 7200.00
+              }
+            ],
+            "container_line_item_info": [],
+            "ship_date": "2022-03-26",
+            "booking_number": "217077365",
+            "place_of_departure": "Ho Chi Minh City, Vietnam",
+            "place_of_receipt": "",
+            "place_of_loading": "HOCHIMINH, VIETNAM",
+            "place_of_delivery": "",
+            "company_name": "MAERSK",
+            "measurement": "60.000 CBM",
+            "number_of_packages": 1200,
+            "bill_of_lading__number": "217077365",
+            "delivery_agent_company_name": "Maersk Deutschland A/S & Co.KG",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "IFR Import and Export",
+            "shipper_name": "",
+            "shipper_address": "Lô 01-1A, khu phố 6, Thủ Đức, Thành phố Hồ Chí Minh 744459",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "7200.00",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "6600.00",
+            "total_net_weight_unit": "KGS",
+            "consignee_company_name": "COCO MART-KINGXX CO., LTD",
+            "consignee_name": "",
+            "consignee_address": "39400 Cheongnam Building, Gangnam-daero, Seocho-gu, Seoul, Republic of Korea",
+            "consignee_telephone": "",
+            "notify_party_company_name": "SAME AS CONSIGNEE",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "GALAN1",
+            "vessel_address": "217N",
+            "consignee_telephone": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Maersk-No. 228832134.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "N/M",
+                "quantity": 1400,
+                "package_type": "CARTONS",
+                "description": "2 containers said to contain 1400 CARTONS 10 CTNS OF CLOTHES 11 CTNS OF SHOES 7 CTNS OF SOFA 730 CTNS OF MOTOCYCLE SPARE PARTS 642 CTNS OF AUTO SPARE PARTS ECTN NO:CN101-104560-10 MRKU9998357 ML-CN2691846 20 DRY 8'6 600 CARTONS 28000.000 KGS 28.0000 CBM PONU8112213 ML-CN2553099 40 DRY 9'6 800 CARTONS 28000.000 KGS 68.0000 CBM SHIPPER'S LOAD, STOW, WEIGHT AND COUNT This shipment is subject to compliance with Maersk policy on shipments from Russia and Belarus (available on Maersk.com) and UN, EU and US sanctions and export control laws, including US and EU sanctions laws applicable to Russia and Belarus. By proceeding, the Shipper represents that this booking is in no way violating Maersk's policy on shipments from Russia and Belarus, that the shipment does not involve, nor shall it involve, in either context directly or indirectly, in any way any entity or person subject to sanctions, including any entity or person subject to sanctions relating to Russia and/or Belarus and that this booking does not include any items prohibited by sanctions for exports from Russia and/or",
+                "measurement": 96.0000,
+                "weight": 56000.000
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "MRKU9998357",
+                "seal_number": "ML-CN2691846"
+              },
+              {
+                "container_number": "PONU8112213",
+                "seal_number": "ML-CN2553099"
+              }
+            ],
+            "ship_date": "2023-07-13",
+            "booking_number": "228832136,228832134",
+            "place_of_departure": "NANSHA",
+            "place_of_receipt": "",
+            "place_of_loading": "NANSHA",
+            "place_of_delivery": "",
+            "company_name": "MAERSK",
+            "measurement": "96.0000 CBM",
+            "number_of_packages": 1400,
+            "bill_of_lading__number": "228832134",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "YUNSHENG TRADING CO.,LTD",
+            "shipper_name": "",
+            "shipper_address": "",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "56000.000",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "SOCIETE K-D GROUPE",
+            "consignee_name": "",
+            "consignee_address": "ADD:B.P 185 POINTE-NOIRE REPUBLIQUE DE CONGO TEL:00242 0550 22868 /00242 0640 18565",
+            "consignee_telephone": "00242 0550 22868 /00242 0640 18565",
+            "notify_party_company_name": "SAME AS CONSIGNEE",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "APL HOUSTON",
+            "vessel_address": "326W",
+            "consignee_telephone": "00242 0550 22868 /00242 0640 18565"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "MAERSK-No. 243140829.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "BACKPACK **CALI-COLOMBIA ML",
+                "quantity": 442,
+                "package_type": "CARTONS",
+                "description": "1 Container Said to Contain 442 CARTONS BACKPACK **CALI-COLOMBIA ML MRKU3191687 ML-CN7665845 40 DRY 9'6 442 CARTONS 16439.000 KGS 68.0000 CBM SHIPPER'S LOAD, STOW, WEIGHT AND COUNT FREIGHT PREPAID The Merchant(s) warrant and represent that this shipment and/or Goods will comply at all times with European Union, United States and United Nations sanctions and/or export control laws (Sanctions Laws), and that this shipment and/or Goods do not involve, whether directly or indirectly, any entity or person identified, or owned or controlled by any such entity or person identified, on the U.S. Treasury Departments Office of Foreign Asset Control (OFAC) list of Specially Designated Nationals and Blocked Persons, or any other similar list maintained by the European Union, or as promulgated by the United Nations Security Council (Designated Person). If, in the Carriers reasonable opinion, this shipment and/or Goods are in violation of the Carriers policy on Russia [https://www.maersk.com/news/articles/2022/02/24/russia-ukraine-situation-update], Sanctions Laws or involves any Designated Person, the shipment and/or Goods will be returned to the origin at Carriers sole and unfettered discretion, and the Merchant(s) shall",
+                "measurement": 68.0000,
+                "weight": 16439.000
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "MRKU3191687",
+                "seal_number": "ML-CN7665845"
+              }
+            ],
+            "ship_date": "2024-09-04",
+            "booking_number": "243140829",
+            "place_of_departure": "Shanghai",
+            "place_of_receipt": "",
+            "place_of_loading": "NINGBO, CHINA",
+            "place_of_delivery": "",
+            "company_name": "MAERSK",
+            "measurement": "68.0000 CBM",
+            "number_of_packages": 442,
+            "bill_of_lading__number": "243140829",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "TOP GEAR SHIPPING (SHENZHEN) CO. LTD.",
+            "shipper_name": "",
+            "shipper_address": "",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "16439.000",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "TRADE & BUSINESS S.A.S",
+            "consignee_name": "",
+            "consignee_address": "CODIGO AC: 769 NIT: 900.066.219-4 TEL: 602-4896060 ADDRESS:AVENIDA 4NTE NO.37 AN 29,**",
+            "consignee_telephone": "602-4896060",
+            "notify_party_company_name": "SAME AS CONSIGNEE",
+            "notify_party_name": "001014- 88714",
+            "notify_party_address": "MARIA FLORLIEA - SEAD",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "MAERSK YUKON",
+            "vessel_address": "425E",
+            "consignee_telephone": "602-4896060"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Maersk-No. 252867682.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "",
+                "quantity": 2,
+                "package_type": "UNITS",
+                "description": "1 Container Said to Contain 2 UNITS TOYOTA LAND CRUISER PICK UP CHASSIS: JTERV71J1U8011052 COLOR: WHITE YEAR: 2019 TOYOTA LAND CRUISER PICK UP CHASSIS: JTERV71J8U8004839 COLOR: WHITE YEAR: 2019 Final Destination \"MITCHELL COTTS CFS SHIMANZI OFFICE (MIT) MOMBASA\" for stripping on CONSIGNEE risk and account. MRKUS791783 ML-ML4348454 40 DRY 9'6 2 UNITS 4400.00 KGS 95.000 CBM SHIPPER'S LOAD, STOW, WEIGHT AND COUNT FREIGHT PREPAID The Merchant(s) warrant and represent that this shipment and/or Goods will comply at all times with European Union, United States and United Nations sanctions and/or export control laws (Sanctions Laws), and that this shipment and/or Goods do not involve, whether directly or indirectly, any entity or person identified, or owned or controlled by any",
+                "measurement": 95.000,
+                "weight": 4400.00
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "MRKUS791783",
+                "seal_number": "ML-ML4348454"
+              }
+            ],
+            "ship_date": "2025-04-28",
+            "booking_number": "252867682",
+            "place_of_departure": "Jebel Ali",
+            "place_of_receipt": "",
+            "place_of_loading": "Jebel Ali",
+            "place_of_delivery": "",
+            "company_name": "MAERSK",
+            "measurement": "95.000 CBM",
+            "number_of_packages": 2,
+            "bill_of_lading__number": "252867682",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "KBM INTERNATIONAL TRADING",
+            "shipper_name": "",
+            "shipper_address": "BUILDING A2, JAFZA BUSINESS PARK SILICON OASIS, PO BOX 53703- DUBAI UNITED ARAB EMIRATES",
+            "shipper_telephone": "+97150632903",
+            "total_gross_weight_value": "4400.00",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "FMKE AUTO TRADING LTD",
+            "consignee_name": "",
+            "consignee_address": "MO: AVE, NEXT TO LAXMI HOUSE PO BOX 90729-80107 MOMBASA, KENYA PIN: R05173328IQ",
+            "consignee_telephone": "(+254) 712 319565",
+            "notify_party_company_name": "",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "BMKEmonmbasa@gmail.com",
+            "vessel_name": "MAERSK BOSTON",
+            "vessel_address": "617W",
+            "consignee_telephone": "(+254) 712 319565"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Maersk-No. 255623927.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "",
+                "quantity": 3,
+                "package_type": "Package",
+                "description": "1 Container Said to Contain 3 Package 10 CONTAINER 40 HC OPEN TOP CONTENIENDO: 33 ENREDADOS DE MADERA Y 02 CAJAS DE MADERA CON: 03 CJ RELLENO DE CONTACTO TIPO W20, MARCA ALPINA ARMADA, PARA TORRE DE ENFRIAMIENTO DE AGUA MODEL PPU-84/4 4 CAMADAS 02 CJ ELIMINADOR DE GOTAS, MARCA ALPINA, EN PVC, CON 35MM, PARA TORRE DE ENFRIAMIENTO DE AGUA MODEL PPU-84/4 4 CAMADAS CLEAN ON BOARD SHIPPED ON BOARD FREIGHT PREPAID FACTURA COMERCIAL NR.: SE/69.825",
+                "measurement": 50.6900,
+                "weight": 2115.000
+              }
+            ],
+            "container_line_item_info": [],
+            "ship_date": "2025-07-14",
+            "booking_number": "255623927",
+            "place_of_departure": "Sao Paulo",
+            "place_of_receipt": "",
+            "place_of_loading": "Santos, SP, Brazil",
+            "place_of_delivery": "",
+            "company_name": "MAERSK",
+            "measurement": "50.6900 CBM",
+            "number_of_packages": 3,
+            "bill_of_lading__number": "255623927",
+            "delivery_agent_company_name": "Maersk Brasil (Brasmar) Ltda",
+            "delivery_agent_name": "Carolina de Oliveira Caligiuri",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "ALPINA EQUIPAMENTOS INDUSTRIAIS LTDA.",
+            "shipper_name": "",
+            "shipper_address": "ESTRADA MARCO POLO, 940 09844-150 - SAO BERNARDO DO CAMPO SAO PAULO - BRASIL CNPJ: 55.257.034/0001-58",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "2115.000",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "COMPLEJO METALURGICO ALTONORTE S.A.",
+            "consignee_name": "",
+            "consignee_address": "PANAMERICANA NORTE KM 1.348 COMUNA ANTOFAGASTA - CHILE RUT: 88.325.600-2 CONTATO: RODOLFO FLOREZ PHONE: +51544700018 EMAIL: RODOLFO.FLOREZ@GLENCORE.COM.PE",
+            "consignee_telephone": "+51544700018",
+            "notify_party_company_name": "COMPLEJO METALURGICO ALTONORTE S.A.",
+            "notify_party_name": "",
+            "notify_party_address": "PANAMERICANA NORTE KM 1.348 COMUNA ANTOFAGASTA - CHILE RUT: 88.325.600-2 CONTATO: RODOLFO FLOREZ PHONE: +51544700018",
+            "notify_party_telephone": "+51544700018",
+            "notify_party_email": "RODOLFO.FLOREZ@GLENCORE.COM.PE",
+            "vessel_name": "MAERSK ACADIA",
+            "vessel_address": "528W",
+            "consignee_telephone": "+51544700018"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Maersk-No. 273125974.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "NO SHIPPING MARK",
+                "quantity": 119,
+                "package_type": "PACKAGES",
+                "description": "14 containers said to contain 119 PACKAGES STEEL STRIP HS CODE:7210.49 NO SHIPPING MARK MSKU7936065 ML-CN4573736 20 DRY 8'6 8 PACKAGES 22500.000 KGS 20.0500 CBM TRHU1132588 ML-CN4081015 20 DRY 8'6 11 PACKAGES 22500.000 KGS 20.0000 CBM MRKU6671376 ML-CN4581553 20 DRY 8'6 7 PACKAGES 22500.000 KGS 20.0500 CBM MSKU3581305 ML-CN4981008 20 DRY 8'6 11 PACKAGES 22500.000 KGS 20.0500 CBM MRKU7895112 ML-CN4073731 20 DRY 8'6 12 PACKAGES 22500.000 KGS 20.0500 CBM MRKU9911505 ML-CN4081567 20 DRY 8'6 8 PACKAGES 22500.000 KGS 20.0500 CBM MSKU7289150 ML-CN4073739 20 DRY 8'6 10 PACKAGES 22500.000 KGS 20.0500 CBM",
+                "measurement": 280.0000,
+                "weight": 315000.000
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "MSKU7936065",
+                "seal_number": "ML-CN4573736"
+              },
+              {
+                "container_number": "TRHU1132588",
+                "seal_number": "ML-CN4081015"
+              },
+              {
+                "container_number": "MRKU6671376",
+                "seal_number": "ML-CN4581553"
+              },
+              {
+                "container_number": "MSKU3581305",
+                "seal_number": "ML-CN4981008"
+              },
+              {
+                "container_number": "MRKU7895112",
+                "seal_number": "ML-CN4073731"
+              },
+              {
+                "container_number": "MRKU9911505",
+                "seal_number": "ML-CN4081567"
+              },
+              {
+                "container_number": "MSKU7289150",
+                "seal_number": "ML-CN4073739"
+              }
+            ],
+            "ship_date": "2024-01-25",
+            "booking_number": "273125974",
+            "place_of_departure": "Qingdao",
+            "place_of_receipt": "",
+            "place_of_loading": "XINGANG, CHINA",
+            "place_of_delivery": "",
+            "company_name": "MAERSK",
+            "measurement": "280.0000 CBM",
+            "number_of_packages": 119,
+            "bill_of_lading__number": "273125974",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "SHENZHEN CHUANGFUGANG COMMERCE CO.,LTD",
+            "shipper_name": "",
+            "shipper_address": "SHENZHEN LUOHU DISTRICT HUANGBEI STREET SHENNAN EAST ROAD WENHUA BUILDING EAST BLOCK 15C CHINA",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "315000.000",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "CEBU FOREVERSTEEL FORMING CORP.",
+            "consignee_name": "",
+            "consignee_address": "SITIO PAMUTUNGAN ILIHAN LILOAN CEBU CEBU 6002 PHILIPPINES",
+            "consignee_telephone": "",
+            "notify_party_company_name": "SAME AS CONSIGNEE",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "ARISTOTINA",
+            "vessel_address": "402S",
+            "consignee_telephone": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Maersk-No. 565107057.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "HCJE/17851",
+                "quantity": 5490,
+                "package_type": "J. CANS",
+                "description": "1Containers said to contain 5490 J. CANS SHIPPING MARKS HCJE/17851 FREIGHT PAYYABLE AT SURABAYA-INDONESIE, IDN NUMBER OF J. CANS 5490 DISRIBUTION AS PER PURCHASE ORDER THE GOODS HAVE BEEN SHIPPED ON BY THE NIMINATED LINER AS ADVISED BY THE APPLICANT IN A CERTIFIED FORMAT WITH THE RNA SEAL MSKU1395641 40 DRY 9'6 5490 J. CANS 137.250 KGS Shipper Seal : 1KT229414 SHIPPER'S LOAD, STOW, WEIGHT AND COUNT FREIGHT COLLECT CY/CY",
+                "measurement": 21000.000,
+                "weight": 137.250
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "MSKU1395641",
+                "seal_number": "1KT229414"
+              }
+            ],
+            "ship_date": "2022-07-29",
+            "booking_number": "785695428",
+            "place_of_departure": "INDONESIE",
+            "place_of_receipt": "POINTE-NOIRE",
+            "place_of_loading": "SURABAYA",
+            "place_of_delivery": "POINTE-NOIRE",
+            "company_name": "MAERSK LINE",
+            "measurement": "21000.000",
+            "number_of_packages": 5490,
+            "bill_of_lading__number": "565107057",
+            "delivery_agent_company_name": "MAERSK HONG KONG S.A.",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "PREMIER TOP TRADING LIMITED",
+            "shipper_name": "",
+            "shipper_address": "FLAT/RM 9/F LEE MAY BUILDING 788 NATHAN ROAD KL HONG KONG",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "137.250",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "SOCIETE FOOD MARKET",
+            "consignee_name": "",
+            "consignee_address": "36 AVENUE DE FRANCE POTO POTO BRAZZAVILLE - CONGO",
+            "consignee_telephone": "",
+            "notify_party_company_name": "SOCIETE FOOD MARKET",
+            "notify_party_name": "",
+            "notify_party_address": "36 AVENUE DE FRANCE POTO POTO BRAZZAVILLE - CONGO",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "FOLEGANDROS",
+            "vessel_address": "V. 133N",
+            "consignee_telephone": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Maersk-No. 592800119.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "01 TO 236",
+                "quantity": 236,
+                "package_type": "PACKAGES",
+                "description": "1 Container Said to Contain 236 PACKAGES 1X20' CONTAINER TWO HUNDRED THIRTY SIX PACKAGES OF POLISHED GRANITE SLABS 2CM INV. NO: SG-25/19-20 DT 16.03.2020 IEC NO :AAOCS8316G S.BILL NO :.2221560 DT 18.03.2020 HS CODE :68022399 TOTAL NET WT : 27000.000 KGS FREIGHT PREPAID 01 TO 236 PONU2113608 ML-IN2806774 20 DRY 8'6 236 PACKAGES 28000.000 KGS 20.0000 CBM Shipper Seal : SBA6627 Customs Seal : NA SHIPPER'S LOAD, STOW, WEIGHT AND COUNT The place of issuance of this document shall be deemed to be the Maersk line India Pvt Ltd office located either in the same State or the nearest state with respect to the above referenced cargo pick-up / drop-off location",
+                "measurement": 20.0000,
+                "weight": 28000.000
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "PONU2113608",
+                "seal_number": "ML-IN2806774"
+              }
+            ],
+            "ship_date": "2020-03-20",
+            "booking_number": "592800119",
+            "place_of_departure": "New Delhi",
+            "place_of_receipt": "",
+            "place_of_loading": "Krishnapatnam",
+            "place_of_delivery": "",
+            "company_name": "MAERSK",
+            "measurement": "20.0000 CBM",
+            "number_of_packages": 236,
+            "bill_of_lading__number": "592800119",
+            "delivery_agent_company_name": "Maersk Line India Pvt Ltd",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "STAR GALAXY GRANITE PVT LTD",
+            "shipper_name": "",
+            "shipper_address": "PLOT 285, INDUSTRIAL GROWTH CENTER GUNDALAPALLI ONGOLE GST: 37AAOCS8316G1ZY",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "28000.000",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "TO ORDER",
+            "consignee_name": "",
+            "consignee_address": "",
+            "consignee_telephone": "",
+            "notify_party_company_name": "R K TRADING AND SERVICE IMPORT AND EXPORT CO LTD",
+            "notify_party_name": "",
+            "notify_party_address": "NO-399/20' NGUYEN AN NINH STREET DONG TAN QUARTER DI AN WARD DI AN TOWN BINH DUONG PROVINCE VIETNAM Zip Code : 824600 Telephone : 0904644673 Email Id : nguyenengamturk@gmail.com VAT : 3702761755",
+            "notify_party_telephone": "0904644673",
+            "notify_party_email": "nguyenengamturk@gmail.com",
+            "vessel_name": "NORTHERN PROMOTION",
+            "vessel_address": "013E",
+            "consignee_telephone": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Maersk-No. 720753508.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "N/M",
+                "quantity": 4100,
+                "package_type": "PACKAGES",
+                "description": "2 containers said to contain 4100 PACKAGES ALUMINIUM COMPOSITE PANEL HS CODE:760612 *TEL:+86 18553906251 **TAX ID : 0278 2049 7901 6000 TELP : 081181187521 N/M SUDU7570750 ML-CN2002614 20 DRY 8'6 2050 PACKAGES 27600.000 KGS 18.3000 CBM MRKU7415384 ML-CN2002615 20 DRY 8'6 2050 PACKAGES 27600.000 KGS 18.3000 CBM The Merchant(s) warrant and represent that this shipment and/or Goods will comply at all times with European Union, United States and United Nations sanctions and/or export control laws (Sanctions Laws), and that this shipment and/or Goods do not involve,",
+                "measurement": 36.6000,
+                "weight": 55200.000
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "SUDU7570750",
+                "seal_number": "ML-CN2002614"
+              },
+              {
+                "container_number": "MRKU7415384",
+                "seal_number": "ML-CN2002615"
+              }
+            ],
+            "ship_date": "2025-04-07",
+            "booking_number": "720753508",
+            "place_of_departure": "Qingdao",
+            "place_of_receipt": "",
+            "place_of_loading": "QINGDAO, CHINA",
+            "place_of_delivery": "",
+            "company_name": "MAERSK",
+            "measurement": "36.6000 CBM",
+            "number_of_packages": 4100,
+            "bill_of_lading__number": "720753508",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "LINYI FLYING CARPET TRADING CO.,LTD",
+            "shipper_name": "",
+            "shipper_address": "ADD:ROOM A-1807, FUYOU BUILDING, LIUQING STREET,SHANGHAI ROAD AND MENGHE ROAD,LANSHAN DISTRICT, LINYI SHANDONG CHINA*",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "55200.000",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "PT BESTCHROMA WORKS INDONESIA",
+            "consignee_name": "",
+            "consignee_address": "JALAN KAMAL MUARA BLOK G NOMOR 17 RT. 007 RW. 001,KAMAL MUARA, PENJARINGAN, KOTA ADM. JAKARTA UTARA,DKI JAKARTA INDONESIA**",
+            "consignee_telephone": "",
+            "notify_party_company_name": "SAME AS CONSIGNEE",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "HANSA BITBURG",
+            "vessel_address": "545E",
+            "consignee_telephone": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Maersk-No. 855230418.jpg",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "",
+                "quantity": 275,
+                "package_type": "BAGS",
+                "description": "1 Container Said to Contain 275 BAGS OF 70 KG. NET BOLIVIA WASHED ARABICA COFFEE PRIMERA ORGANIC, CROP 2007 ICO 113-2 INVOICE COMERCIAL No. 0055 POSICION ARANCELARIA: 09011190 000 FCA 1191550957 MSKU3962723 MLSA2500590 20 DRY 8'6 275 BAGS 19470.00 KGS SHIPPER'S LOAD; STOW; WEIGHT AND COUNT",
+                "measurement": "",
+                "weight": 19470.00
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "MSKU3962723",
+                "seal_number": "MLSA2500590"
+              }
+            ],
+            "ship_date": "2007-09-25",
+            "booking_number": "855230418",
+            "place_of_departure": "UNITED STATES",
+            "place_of_receipt": "",
+            "place_of_loading": "ARICA",
+            "place_of_delivery": "",
+            "company_name": "MAERSK LINE",
+            "measurement": "",
+            "number_of_packages": 275,
+            "bill_of_lading__number": "855230418",
+            "delivery_agent_company_name": "DEL MAR SHIPPING SRL",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "A.I.P.E.P. ASOCIACION INTEGRAL DE PRODUCTORES ECOLOGICOS DE PUNO",
+            "shipper_name": "",
+            "shipper_address": "JR. JOSE PABLO RIOS 2926 EL ALTO TEL / FAX 2-846310",
+            "shipper_telephone": "2-846310",
+            "total_gross_weight_value": "19470.00",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "COOPERATIVE COFFEES, INC.",
+            "consignee_name": "",
+            "consignee_address": "302 W. LAMAR ST. SUITE E AMERICUS, GA 31709 USA TEL. +1-229-924-3035 FAX +1-229-924-6250 ATTN: BILL HARRIS",
+            "consignee_telephone": "+1-229-924-3035",
+            "notify_party_company_name": "COOPERATIVE COFFEES",
+            "notify_party_name": "",
+            "notify_party_address": "302 W LAMAR STREET SUITE E AMERICUS, GA 31709 USA TEL (229) 924-3035 ATTN: BILL HARRIS",
+            "notify_party_telephone": "(229) 924-3035",
+            "notify_party_email": "",
+            "vessel_name": "MAERSK RIO GRANDE",
+            "vessel_address": "0764",
+            "consignee_telephone": "+1-229-924-3035"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "MAERSK-No. 953074879.pdf",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "TZA10-0000012984",
+                "quantity": 2,
+                "package_type": "vehicles",
+                "description": "Vehicle Ref and Type270743 Toyota Land Cruiser 200 Station Wagon GX V8 Tw in TD 8 seats Automatic (Alarm, Climate Ctrl, Cool Box, R. Rail) Chassis No.JTMHV09J-X04160007 Year of Manuf.2014 Engine No.1VD-0273330 Grand Total Weight(Kg)2668.07 19.3m3\n\nVehicle Ref and Type270744 Toyota Land Cruiser 200 Station Wagon GX V8 Tw in TD 8 seats Automatic (Alarm, Climate Ctrl, Cool Box, R. Rail) Chassis No.JTMHV09J-004160078 Year of Manuf.2014 Engine No.1VD-0273447 Grand Total Weight(Kg)2668.07 19.3m3\n\nShipping Marks: TZA10-0000012984\n\nAccessories Included",
+                "measurement": 38.600,
+                "weight": 5336.140
+              },
+              {
+                "marks": "TZA10-0000012984",
+                "quantity": 1,
+                "package_type": "vehicles",
+                "description": "Vehicle Ref and Type271640 Toyota Land Cruiser 200 Station Wagon GX V8 Tw in TD 8 seats Automatic (Alarm, Climate Ctrl, Cool Box, R. Rail) Chassis No.JTMHV09J-004161733 Year of Manuf.2014 Engine No.1VD-0275814 Grand Total Weight(Kg)2668.07 19.3m3\n\nShipping Marks: TZA10-0000012984\n\nAccessories Included",
+                "measurement": 19.300,
+                "weight": 2668.070
+              },
+              {
+                "marks": "TZA10-0000012984",
+                "quantity": 1,
+                "package_type": "vehicles",
+                "description": "Vehicle Ref and Type268896 Toyota Land Cruiser 200 Station Wagon STD V8 T win TD 9 seats Manual (Airbags, Air Conditioning, Roof Rack) Chassis No.JTMHV03J-904144648 Year of Manuf.2014 Engine No.1VD-0257314 Grand Total Weight(Kg)2692.57 19.3m3\n\nShipping Marks: TZA10-0000012984\n\nAccessories Included",
+                "measurement": 19.300,
+                "weight": 2692.570
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "MSKU6537219",
+                "seal_number": "270743, 270744"
+              },
+              {
+                "container_number": "MSKU7315896",
+                "seal_number": "271640"
+              },
+              {
+                "container_number": "PONU0470714",
+                "seal_number": ""
+              }
+            ],
+            "ship_date": "2015-02-27",
+            "booking_number": "953074879",
+            "place_of_departure": "Algeciras",
+            "place_of_receipt": "",
+            "place_of_loading": "Algeciras",
+            "place_of_delivery": "Dar es Salaam",
+            "company_name": "MAERSK LINE",
+            "measurement": "77.200 CBM",
+            "number_of_packages": 4,
+            "bill_of_lading__number": "953074879",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "TMT",
+            "shipper_name": "",
+            "shipper_address": "40 DEVILS TOWER ROAD, P.O.BOX 176, GIBRALTAR",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "10696.780",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "UNDP - Tanzania",
+            "consignee_name": "",
+            "consignee_address": "6th Floor International House Shaaban Robert St. Garden Avenue P.O. Box 9182 Dar Es Salaam Tanzania Attn: Fina Masaro Tel: (+255) 22-211-2576 email: yvnah.samo@undp.org email: fina.masaro@undp.org",
+            "consignee_telephone": "(+255) 22-211-2576",
+            "notify_party_company_name": "Same as consignee",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "MAERSK WISCONSIN",
+            "vessel_address": "",
+            "consignee_telephone": "(+255) 22-211-2576"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "MAERSK-No. 953074879.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "TZA10-0000012984",
+                "quantity": 2,
+                "package_type": "vehicles",
+                "description": "Vehicle Ref and Type270743 Toyota Land Cruiser 200 Station Wagon GX V8 Tw in TD 8 seats Automatic (Alarm, Climate Ctrl, Cool Box, R. Rail) Chassis No.JTMHV09J-X04160007 Year of Manuf.2014 Engine No.1VD-0273330 Grand Total Weight(Kg)2668.07 19.3m3\n\nVehicle Ref and Type270744 Toyota Land Cruiser 200 Station Wagon GX V8 Tw in TD 8 seats Automatic (Alarm, Climate Ctrl, Cool Box, R. Rail) Chassis No.JTMHV09J-004160078 Year of Manuf.2014 Engine No.1VD-0273447 Grand Total Weight(Kg)2668.07 19.3m3\n\nShipping Marks: TZA10-0000012984\n\nAccessories Included",
+                "measurement": 38.600,
+                "weight": 5336.140
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "",
+                "seal_number": ""
+              }
+            ],
+            "ship_date": "2015-02-27",
+            "booking_number": "953074879",
+            "place_of_departure": "Algeciras",
+            "place_of_receipt": "",
+            "place_of_loading": "Algeciras",
+            "place_of_delivery": "Dar es Salaam",
+            "company_name": "MAERSK LINE",
+            "measurement": "38.600 CBM",
+            "number_of_packages": 2,
+            "bill_of_lading__number": "953074879",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "TME",
+            "shipper_name": "",
+            "shipper_address": "40 DEVILS TOWER ROAD, P.O.BOX 176, GIBRALTAR",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "5336.140",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "UNDP - Tanzania",
+            "consignee_name": "",
+            "consignee_address": "6th Floor International House Shaaban Robert St. Garden Avenue P.O. Box 9182 Dar Es Salaam Tanzania Attn: Fina Masaro Tel: (+255) 22-211-2576 email: yvnah.samo@undp.org email: fina.masaro@undp.org",
+            "consignee_telephone": "(+255) 22-211-2576",
+            "notify_party_company_name": "Same as consignee",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "MAERSK WISCONSIN",
+            "vessel_address": "1505",
+            "consignee_telephone": "(+255) 22-211-2576"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "MAERSK-No. 953164087.pdf",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "TZA10-0000012993",
+                "quantity": 2,
+                "package_type": "vehicles",
+                "description": "Vehicle Ref and Type271527 Toyota Land Cruiser 76 Hardtop 10 seater, 5 do or (Airbags, Air Conditioning, Roof Rack) Chassis No.JTEEB71J-507027486 Year of Manuf.2014 Engine No.1HZ-0812276 Grand Total Weight(Kg)2246.33 16.3m3\n\nVehicle Ref and Type271528 Toyota Land Cruiser 76 Hardtop 10 seater, 5 do or (Airbags, Air Conditioning, Roof Rack) Chassis No.JTEEB71J-907027468 Year of Manuf.2014 Engine No.1HZ-0812016 Grand Total Weight(Kg)2246.33 16.3m3\n\nAccessories Included\n\nShipping Marks: TZA10-0000012993",
+                "measurement": 32.600,
+                "weight": 4492.660
+              },
+              {
+                "marks": "TZA10-0000012993",
+                "quantity": 1,
+                "package_type": "vehicle",
+                "description": "Vehicle Ref and Type271526 Toyota Land Cruiser 76 Hardtop 10 seater, 5 do or (Airbags, Air Conditioning, Roof Rack) Chassis No.JTEEB71J-407027477 Year of Manuf.2014 Engine No.1HZ-0812207 Grand Total Weight(Kg)2246.33 16.3m3\n\nAccessories Included\n\nShipping Marks: TZA10-0000012993",
+                "measurement": 16.300,
+                "weight": 2246.330
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "MRKU0447013",
+                "seal_number": "271527, 271528"
+              },
+              {
+                "container_number": "MRKU9517913",
+                "seal_number": "271526"
+              }
+            ],
+            "ship_date": "2015-03-12",
+            "booking_number": "953164087",
+            "place_of_departure": "",
+            "place_of_receipt": "",
+            "place_of_loading": "Algeciras",
+            "place_of_delivery": "Dar es Salaam",
+            "company_name": "MAERSK LINE",
+            "measurement": "48.900 CBM",
+            "number_of_packages": 3,
+            "bill_of_lading__number": "953164087",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "TME",
+            "shipper_name": "",
+            "shipper_address": "40 DEVILS TOWER ROAD, P.O.BOX 176, GIBRALTAR",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "6738.990",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "UNDP - Tanzania",
+            "consignee_name": "",
+            "consignee_address": "6th Floor International House Shaaban Robert St. Garden Avenue P.O. Box 9182 Dar Es Salaam Tanzania Attn: Fina Masaro Tel: (+255) 22-211-2576 email: yvnah.samo@undp.org Email: fina.masaro@undp.org",
+            "consignee_telephone": "(+255) 22-211-2576",
+            "notify_party_company_name": "Same as consignee",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "SEA LAND RACER",
+            "vessel_address": "1505",
+            "consignee_telephone": "(+255) 22-211-2576"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "MAERSK-No. 953164182.pdf",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "TZA10-0000012984",
+                "quantity": 2,
+                "package_type": "vehicles",
+                "description": "Vehicle Ref and Type271521 Toyota Land Cruiser 76 Hardtop 10 seater, 5 do or (Airbags, Air Conditioning, Roof Rack) Chassis No.JTEEB71J-007027492 Year of Manuf.2014 Engine No.1HZ-0812335 Grand Total Weight(Kg)2241.37 16.3m3\n\nVehicle Ref and Type271522 Toyota Land Cruiser 76 Hardtop 10 seater, 5 do or (Airbags, Air Conditioning, Roof Rack) Chassis No.JTEEB71J-307027498 Year of Manuf.2014 Engine No.1HZ-0812360 Grand Total Weight(Kg)2241.37 16.3m3\n\nAccessories Included\n\nShipping Marks: TZA10-0000012984",
+                "measurement": 32.600,
+                "weight": 4482.740
+              },
+              {
+                "marks": "TZA10-0000012984",
+                "quantity": 1,
+                "package_type": "vehicles",
+                "description": "Vehicle Ref and Type271520 Toyota Land Cruiser 76 Hardtop 10 seater, 5 do or (Airbags, Air Conditioning, Roof Rack) Chassis No.JTEEB71J-007027380 Year of Manuf.2014 Engine No.1HZ-0811438 Grand Total Weight(Kg)2241.37 16.3m3\n\nAccessories Included\n\nShipping Marks: TZA10-0000012984",
+                "measurement": 16.300,
+                "weight": 2241.370
+              },
+              {
+                "marks": "TZA10-0000012984",
+                "quantity": 2,
+                "package_type": "vehicles",
+                "description": "Vehicle Ref and Type271523 Toyota Land Cruiser 76 Hardtop 10 seater, 5 do or (Airbags, Air Conditioning, Roof Rack) Chassis No.JTEEB71J-207027428 Year of Manuf.2014 Engine No.1HZ-0811886 Grand Total Weight(Kg)2241.37\n\nVehicle Ref and Type271524 Toyota Land Cruiser 76 Hardtop 10 seater, 5 do or (Airbags, Air Conditioning, Roof Rack) Chassis No.JTEEB71J-307027468 Year of Manuf.2014 Engine No.1HZ-0812130 Grand Total Weight(Kg)2241.37\n\n16.3m3\n\nAccessories Included\n\nShipping Marks: TZA10-0000012984",
+                "measurement": 32.600,
+                "weight": 4482.740
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "MRKU0255160",
+                "seal_number": "271521, 271522"
+              },
+              {
+                "container_number": "MRKU6799433",
+                "seal_number": "271520"
+              },
+              {
+                "container_number": "MSKU6402358",
+                "seal_number": "271523, 272424"
+              }
+            ],
+            "ship_date": "2015-03-12",
+            "booking_number": "953164182",
+            "place_of_departure": "Algeciras",
+            "place_of_receipt": "",
+            "place_of_loading": "Algeciras",
+            "place_of_delivery": "Dar es Salaam",
+            "company_name": "MAERSK LINE",
+            "measurement": "81.500 CBM",
+            "number_of_packages": 5,
+            "bill_of_lading__number": "953164182",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "TMC",
+            "shipper_name": "",
+            "shipper_address": "40 DEVILS TOWER ROAD, P.O.BOX 176, GIBRALTAR",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "11206.850",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "UNDP - Tanzania",
+            "consignee_name": "",
+            "consignee_address": "6th Floor International House Shaaban Robert St. Garden Avenue P.O. Box 9182 Dar Es Salaam Tanzania Attn: Fina Masaro Tel: (+255) 22-211-2576 email: yvnah.samo@undp.org Email: fina.masaro@undp.org",
+            "consignee_telephone": "(+255) 22-211-2576",
+            "notify_party_company_name": "Same as consignee",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "SEA LAND RACER",
+            "vessel_address": "1505",
+            "consignee_telephone": "(+255) 22-211-2576"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Maersk-No. 956537323.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "BEAU237102",
+                "quantity": 1782,
+                "package_type": "CARTONS",
+                "description": "1 Container Said to Contain 18 PALLETS, 1782 CARTONS \"SHIPPER'S PACK LOAD COUNT & SEAL\" \"FREIGHT PREPAID\" SAY: 1 CONTAINER ONLY\n\nFROZEN HEAD OFF, GUT OFF, TAIL OFF PANGASIUS NET WEIGHT: 17820.00 KGS GROSS WEIGHT: 18801.00 KGS MAINTENANCE TEMPERATURE -18 C\n\nFLC/FLC BEAU237102 40 REEF 9'6, 18 PALLETS, 1982 CARTONS 18801.000 KGS Temperature: -18.0C Shipper Seal : KD250803",
+                "measurement": 42.768,
+                "weight": 18801.00
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "BEAU237102",
+                "seal_number": "KD250803"
+              }
+            ],
+            "ship_date": "2023-10-23",
+            "booking_number": "956537323",
+            "place_of_departure": "CAI LAI PORT, VIETNAM",
+            "place_of_receipt": "",
+            "place_of_loading": "CAI LAI PORT, VIETNAM",
+            "place_of_delivery": "ROTTERDAM PORT, NETHERLANDS",
+            "company_name": "MAERSK LINE",
+            "measurement": "42.768 CBM",
+            "number_of_packages": 1782,
+            "bill_of_lading__number": "956537323",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "BENTRE AQUAPRODUCT IMPORT AND EXPORT JSC",
+            "shipper_name": "",
+            "shipper_address": "HAMLET 9, TAN THACH, CHAU THANH DISTRICT, BEN TRE, VIET NAM",
+            "shipper_telephone": "(+84275) 3860265 / (+84275) 3860346",
+            "total_gross_weight_value": "18801.00",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "17820.00",
+            "total_net_weight_unit": "KGS",
+            "consignee_company_name": "SEACON PRODUCTION B.V. - PROCESSING FACTORY",
+            "consignee_name": "",
+            "consignee_address": "FORDEDIJP 1, 8321 MK URK, NETHERLANDS PHONE: +31 (0) 527680680 FAX: +31 (0) 527680680 info@seaconproduction.nl",
+            "consignee_telephone": "+31 (0) 527680680",
+            "notify_party_company_name": "SEACON PRODUCTION B.V. - PROCESSING FACTORY",
+            "notify_party_name": "",
+            "notify_party_address": "FORDEDIJP 1, 8321 MK URK, NETHERLANDS PHONE: +31 (0) 527680680 FAX: +31 (0) 527680680 info@seaconproduction.nl",
+            "notify_party_telephone": "+31 (0) 527680680",
+            "notify_party_email": "info@seaconproduction.nl",
+            "vessel_name": "NIMIOTTE MAERSK",
+            "vessel_address": "3445",
+            "consignee_telephone": "+31 (0) 527680680"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Maersk-No. SSZ716110.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "01X40' STC:",
+                "quantity": 1716,
+                "package_type": "CARTONS",
+                "description": "1 Container Said to Contain 1,716 CARTONS\n\n01X40' STC:\n1.716 CARTONS CONTAINING:\n832 CARTONS WITH: FROZEN CHICKEN LEG BONELESS, IN UNIFORM NET WEIGHT 12KG CARTONS, BIG FRANGO BRAND. 334 CARTONS WITH: FROZEN CHICKEN LEG BONELESS, IN UNIFORM NET WEIGHT 15KG CARTONS, BIG FRANGO BRAND. 100 CARTONS WITH: FROZEN WHOLE CHICKEN WINGS, IN UNIFORM NET WEIGHT 20KG CARTONS, BIG FRANGO BRAND. 150 CARTONS WITH: FROZEN WHOLE CHICKEN DRUMETTES, IN UNIFORM NET WEIGHT 20KG CARTONS, BIG FRANGO BRAND. 150 CARTONS WITH: FROZEN WHOLE CHICKEN DRUMETTES, IN UNIFORM NET WEIGHT 20KG CARTONS, BIG FRANGO BRAND. 100 CARTONS WITH: FROZEN WHOLE CHICKEN LEGS, IN UNIFORM NET WEIGHT 20KG CARTONS, BIG FRANGO BRAND.\n\nTOTAL NW:25.994,000KGS\nTOTAL GW:27.608,270KGS\nSHIPPED ON BOARD, DECLARED 'CLEAN' BY SHIPPER FREIGHT AS PER AGREEMENT\n\nSEAL AGENCY:ML-BR5030894\nSEAL SIF: 009883/SIF 1215\nPROCESS NR. 1961/2018\nRE.18/1251426-004\nSD.2161045085/0\nNCM.02071400\nNALADI.020758\n\nBRAZIL/BIG FRANGO\n\nMNBU3977737 ML-BR5030894 40 REEF 9'6 1,716 CARTONS 27.608,270 KGS 45.2500",
+                "measurement": 45.2500,
+                "weight": 27608.270
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "MNBU3977737",
+                "seal_number": "ML-BR5030894"
+              }
+            ],
+            "ship_date": "2018-11-11",
+            "booking_number": "SSZ716110",
+            "place_of_departure": "ITAJAI SC BRAZIL",
+            "place_of_receipt": "",
+            "place_of_loading": "ITAJAI SC BRAZIL",
+            "place_of_delivery": "HONG KONG",
+            "company_name": "MAERSK LINE",
+            "measurement": "45.2500 CBM",
+            "number_of_packages": 1716,
+            "bill_of_lading__number": "SSZ716110",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "AGRICOLA JANDELLE S/A",
+            "shipper_name": "",
+            "shipper_address": "ROD. BR 369, KM 178 86.600-000 ROLANDIA / PR / BRAZIL CNPJ: 24.101.569/0003-41",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "27608.270",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "25994.000",
+            "total_net_weight_unit": "KGS",
+            "consignee_company_name": "DAIRY LAND",
+            "consignee_name": "",
+            "consignee_address": "RUA DO DR. LOURENCO PEREIRA MARQUES PONTE CAIS NO C6C PORTO JNTERIOR, MACAU, CHINA",
+            "consignee_telephone": "",
+            "notify_party_company_name": "DAIRY LAND",
+            "notify_party_name": "",
+            "notify_party_address": "RUA DO DR. LOURENCO PEREIRA MARQUES PONTE CAIS NO C6C PORTO INTERIOR, MACAU, CHINA",
+            "notify_party_telephone": "853-83941168",
+            "notify_party_email": "",
+            "vessel_name": "MAERSK LA PAZ",
+            "vessel_address": "8J8E",
+            "consignee_telephone": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Maersk-No. YMLUS565428652.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "",
+                "quantity": 1000,
+                "package_type": "CARTONS",
+                "description": "1 Container SHIPPER'S LOAD, STOWAGE AND COUNT\n\n1000 CARTONS\n\nAlaska lobster\n\nHS CODE: 03061710\nFREE TIME 24 DET AT DESTINATION\n\nTEL: (+84) 123 456 789",
+                "measurement": 60.000,
+                "weight": 1234.000
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "",
+                "seal_number": ""
+              }
+            ],
+            "ship_date": "2024-02-28",
+            "booking_number": "5565428650",
+            "place_of_departure": "CAT LAI VNCLI",
+            "place_of_receipt": "CAT LAI",
+            "place_of_loading": "CAT LAI VNCLI",
+            "place_of_delivery": "LARVIK",
+            "company_name": "MAERSK",
+            "measurement": "60.000 CBM",
+            "number_of_packages": 1000,
+            "bill_of_lading__number": "YMLU8963529852",
+            "delivery_agent_company_name": "Maersk Deutschland A/S & Co.KG",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "135 NAM KY KHOI NGHIA, BEN THANH WARD, DISTRICT 1, HO CHI MINH CITY, VIETNAM",
+            "shipper_name": "",
+            "shipper_address": "135 NAM KY KHOI NGHIA, BEN THANH WARD, DISTRICT 1, HO CHI MINH CITY, VIETNAM",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "1234.000",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "NORWEGIAN SEAFOOD COUNCIL CO. LTD.STORTORGET 1, 9008 TROMSO, NORWAY",
+            "consignee_name": "",
+            "consignee_address": "STORTORGET 1, 9008 TROMSO, NORWAY",
+            "consignee_telephone": "",
+            "notify_party_company_name": "SAME AS CONSIGNEE",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "DALIAN EXPRESS",
+            "vessel_address": "206P",
+            "consignee_telephone": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "msc-No. MEDUN8763181.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "N/M",
+                "quantity": 687,
+                "package_type": "Package(s)",
+                "description": "687 Package(s) of PE FITTINGS LIGHTINGS GATE VALVES FUSE MACHINE AIR PUMPS\n\nTotal Items: 687\n\nFreight Prepaid",
+                "measurement": 68.000,
+                "weight": 26000.000
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "MSCU7268413",
+                "seal_number": "FX13964945"
+              }
+            ],
+            "ship_date": "2020-08-20",
+            "booking_number": "17TDSZSZN51287A",
+            "place_of_departure": "Ningbo",
+            "place_of_receipt": "XXXXXXXXXXXXXXXX",
+            "place_of_loading": "Ningbo",
+            "place_of_delivery": "XXXXXXXXXXXXXXXX",
+            "company_name": "MEDITERRANEAN SHIPPING COMPANY S.A.",
+            "measurement": "68.000 cu. m",
+            "number_of_packages": 687,
+            "bill_of_lading__number": "MEDUN8763181",
+            "delivery_agent_company_name": "MSC Mozambique",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "AVENIDA VLADIMIR LENINE NO.2835 MAPUTO MOZAMBIQUE PREDIO 32 ANDARES - AVENIDA DA INDEPENDENCIA, 2755 4TH FLOOR - SUITES 416 & 419 P.O. BOX 4078 Maputo",
+            "delivery_agent_telephone": "+258 21 302 159 / +258 21 302 154",
+            "shipper_company_name": "YAOU IMPORT AND EXPORT CO.,LTD",
+            "shipper_name": "",
+            "shipper_address": "RM1101, 11/F, SUN TO BLDG, NO.139 CONNAUGHT RD CENTRAL HONGKONG.",
+            "shipper_telephone": "9085-20459074 / 0085-2975 4830",
+            "total_gross_weight_value": "26000.000",
+            "total_gross_weight_unit": "kgs",
+            "total_net_weight_value": "3.940",
+            "total_net_weight_unit": "kgs",
+            "consignee_company_name": "PANLEEN,LDA",
+            "consignee_name": "",
+            "consignee_address": "AV. VLADIMIR LENINE NO.2835 MAPUTO MOZAMBIQUE",
+            "consignee_telephone": "MOB:00258-843964310",
+            "notify_party_company_name": "PANLEEN,LDA",
+            "notify_party_name": "",
+            "notify_party_address": "AV. VLADIMIR LENINE NO.2835 MAPUTO MOZAMBIQUE",
+            "notify_party_telephone": "MOB:00258-843964310 / FAX:+258 21024049",
+            "notify_party_email": "",
+            "vessel_name": "MSC IVANA",
+            "vessel_address": "FK033A"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "msc-No. MEDUX3667029.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "AMINO MOULDING COMPOUND G.WEIGHT: N.WEIGHT: LOT NO. MADE IN CHINA",
+                "quantity": 1129,
+                "package_type": "Package(s)",
+                "description": "1129 Package(s) of UREA MOULDING COMPOUND(RECYCLED) GLAZING POWDER MELAMINE PAPER MOULD STAINLESS STEEL TABLEWARE SHIPPER:FURTHER DECLARES\"CARGO IN TRANSIT TO BOLIVIA\", ON-CARRIAGE ARRANGED BY MERCHANTS UNDER THEIR RESPONSIBILITY AND AT THEIR COSTS AND RISKS\"\n\nNon Operating Reefer\n\nTotal items: 1129",
+                "measurement": 68.000,
+                "weight": 26023.000
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "MEDU9736103",
+                "seal_number": "FJ15836432"
+              }
+            ],
+            "ship_date": "2022-08-01",
+            "booking_number": "1811XZ2FWD0008",
+            "place_of_departure": "Xiamen, China",
+            "place_of_receipt": "XXXXXXXXXXXXXXXX",
+            "place_of_loading": "XIAMEN,CHINA",
+            "place_of_delivery": "XXXXXXXXXXXXXXXX",
+            "company_name": "MEDITERRANEAN SHIPPING COMPANY S.A.",
+            "measurement": "68.000 cu. m",
+            "number_of_packages": 1129,
+            "bill_of_lading__number": "MEDUX3032956",
+            "delivery_agent_company_name": "MSC CHILE S.A.SAN MARTIN 191 OFICINA A",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "SAN MARTIN 191 OFICINA A Iquique, Chile",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "NO.101-202 JINBANG ROAD XIAMEN CHINA",
+            "shipper_name": "",
+            "shipper_address": "NO.101-202 JINBANG ROAD XIAMEN CHINA",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "26023.000",
+            "total_gross_weight_unit": "kgs",
+            "total_net_weight_value": "4.360",
+            "total_net_weight_unit": "kgs",
+            "consignee_company_name": "COCHABAMBA-BOLIVIA",
+            "consignee_name": "",
+            "consignee_address": "COCHABAMBA-BOLIVIA",
+            "consignee_telephone": "",
+            "notify_party_company_name": "COCHABAMBA -BOLIVIA",
+            "notify_party_name": "",
+            "notify_party_address": "COCHABAMBA -BOLIVIA",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "KUALA LUMPUR EXPRESS",
+            "vessel_address": "2231E"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "No. 223256391.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "F25",
+                "quantity": 194,
+                "package_type": "CARTONS",
+                "description": "1 Container Said to Contain 194 CARTONS\n\nSOFT TOYS, PAPER TAG &TOY SLIME\n\nF25\n\nMSKU3203286 ML-CN1250803 20 DRY 8'6 194 CARTONS 3560.000 KGS 28.0000 CBM SHIPPER'S LOAD, STOW, WEIGHT AND COUNT\n\nFREIGHT PREPAID\n\nCY/CY",
+                "measurement": 28.0000,
+                "weight": 3560.000
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "MSKU3203286",
+                "seal_number": ""
+              }
+            ],
+            "ship_date": "2022-12-19",
+            "booking_number": "223256391",
+            "place_of_departure": "NINGBO",
+            "place_of_receipt": "",
+            "place_of_loading": "NINGBO",
+            "place_of_delivery": "COLOMBO",
+            "company_name": "MAEU",
+            "measurement": "28.0000 CBM",
+            "number_of_packages": 194,
+            "bill_of_lading__number": "223256391",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "QILEI IMPORT AND EXPORT CO., LIMITED",
+            "shipper_name": "",
+            "shipper_address": "FLAT A112, 1/F, LEE KA INDUSTRIAL AREA BUILDING, 8NG FONG STREET, SAN PO KONG, KOWLOON, HONG KONG.",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "3560.000",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "RAZA CEYLON COMMODITIES PVT LTD",
+            "consignee_name": "",
+            "consignee_address": "NO. 546/4,GALLE ROAD, COLOMBO 03.SRI LANKA",
+            "consignee_telephone": "",
+            "notify_party_company_name": "SAME AS CONSIGNEE",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "ESTELLE MAERSK",
+            "vessel_address": "251W"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "No. 238691719.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "",
+                "quantity": 155,
+                "package_type": "PACKAGES",
+                "description": "1 Container Said to Contain 155 PACKAGES\n\nFITNESS EQUIPMENT\n\nBIGMUSCLE\nFITNESS\nEQUIPMENT\n\nCAAU5698418 ML-CN6098372 40 DRY 9'6 155 PACKAGES 14110.000 KGS 65.0000 CBM\nSHIPPER'S LOAD, STOW, WEIGHT AND COUNT\n\nFREIGHT PREPAID\n\nThe Merchant(s) warrant and represent that this shipment and/or Goods will comply at all times with European Union, United States and United Nations sanctions and/or export control laws (Sanctions Laws), and that this shipment and/or Goods do not involve, whether directly or indirectly, any entity or person identified, or owned or controlled by any such entity or person identified, on the U.S. Treasury Departments Office of Foreign Asset Control (OFAC) list of Specially Designated Nationals and Blocked Persons, or any other similar list maintained by the European Union, or as promulgated by the United Nations Security Council (Designated Person). If, in the Carriers reasonable opinion, this shipment and/or Goods are in violation of the Carriers policy on Russia [https://www.maersk.com/news/articles/2022/02/24/russia-ukraine-situation-update],",
+                "measurement": 65.0000,
+                "weight": 14110.000
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "CAAU5698418",
+                "seal_number": ""
+              }
+            ],
+            "ship_date": "2024-05-03",
+            "booking_number": "238691719",
+            "place_of_departure": "XINGANG,TIANJIN PORT, CHINA",
+            "place_of_receipt": "",
+            "place_of_loading": "XINGANG,TIANJIN PORT, CHINA",
+            "place_of_delivery": "MANZANILLO (MX)",
+            "company_name": "MAEU",
+            "measurement": "65.0000 CBM",
+            "number_of_packages": 155,
+            "bill_of_lading__number": "238691719",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "SHANDONG BIGMUSCLE INTERNATIONAL TRADING CO.,LTD.",
+            "shipper_name": "",
+            "shipper_address": "ADDRESS: 2-1-101 ROOM, SOUTH OF DONGCAO, MENSHAN ROAD, SONGGUANTUN STREET, TIANQU DISTRICT, DEZHOU, SHANDONG, CHINA.",
+            "shipper_telephone": "+86-13153467252",
+            "total_gross_weight_value": "14110.000",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "Recibe Antonio hilario pena Carretera Federal Playa del Carmen, Cancun. Lote 20 Colonia Pescadores 77580, Puerto Morelos, Q.R., Mexico RFC: GGM191016E55",
+            "consignee_name": "",
+            "consignee_address": "Recibe Antonio hilario pena Carretera Federal Playa del Carmen, Cancun. Lote 20 Colonia Pescadores 77580, Puerto Morelos, Q.R., Mexico RFC: GGM191016E55",
+            "consignee_telephone": "",
+            "notify_party_company_name": "SAME AS CONSIGNEE",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "MAERSK CAMPTON",
+            "vessel_address": "418W"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "No. 244311158.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "N/M",
+                "quantity": 1750,
+                "package_type": "CARTONS",
+                "description": "1 Container Said to Contain 1750 CARTONS\n\nSHOES\n\nCARGO TRANSIT TO LUSAKA-ONWARDS UNDER CONSIGNEE'S ARRANGEMENT RISK, COST AND RESPONSIBILITY, CARRIER'S LIABILITY CEASES AT PORT OF DISCHARGE\n\nN/M\n\nPONU7856740 ML-CN8299601 40 DRY 9'6 1750 CARTONS 21870.000 KGS 65.0680 CBM\nSHIPPER'S LOAD, STOW, WEIGHT AND COUNT\n\nFREIGHT PREPAID\n\nThe Merchant(s) warrant and represent that this shipment and/or Goods will comply at all times with European Union, United States and United Nations sanctions and/or export control laws (Sanctions Laws), and that this shipment and/or Goods do not involve, whether directly or indirectly, any entity or person identified, or owned or controlled by any such entity or person identified, on the U.S. Treasury Departments Office of Foreign Asset Control (OFAC) list of Specially Designated Nationals and Blocked Persons, or any other similar list maintained by the European Union, or as promulgated by the United Nations",
+                "measurement": 65.0680,
+                "weight": 21870.000
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "PONU7856740",
+                "seal_number": ""
+              }
+            ],
+            "ship_date": "2024-09-14",
+            "booking_number": "244311158",
+            "place_of_departure": "YANTIAN,CHINA",
+            "place_of_receipt": "",
+            "place_of_loading": "YANTIAN,CHINA",
+            "place_of_delivery": "Dar Es Salaam,Tanzania",
+            "company_name": "MAEU",
+            "measurement": "65.0680 CBM",
+            "number_of_packages": 1750,
+            "bill_of_lading__number": "244311158",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "HUIZHOU SHENGYU SHOES CO.,LTD",
+            "shipper_name": "",
+            "shipper_address": "NO.1,JINHUA THIRD ROAD, JIQHENG COMMUNITY, JILONG TOWN, HUIDONG COUNTY",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "21870.000",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "FUMUMBI INVESTMENT COMPANY ZAMBIA LIMITED",
+            "consignee_name": "",
+            "consignee_address": "3651/14 CHAWAMA LUSAKA LUSAKA PROVINCE PHONE:+260966938888 TPIN:2929994964 Email:1525778S937@163.COM",
+            "consignee_telephone": "+260966938888",
+            "notify_party_company_name": "SAME AS CONSIGNEE",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "MAERSK MC-KINNEY MOLLER",
+            "vessel_address": "435W"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "No. 247512761.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "",
+                "quantity": 1858,
+                "package_type": "CARTONS",
+                "description": "1 Container Said to Contain 1858 CARTONS\n\n1858 CARTONS FROZEN CHICKEN THREE JOINT WING - UNSIZED -N.C.M.:0207.14.13 NW 27870.000 kgs / GW 28789.710 kgs\n\nSTOWED IN A REEFER CONTAINER SET AT SHIPPERS REQUESTED CARRIAGE TEMPERATURE OF -22\nFREIGHT AS PER AGREEMENT/\nDECLARED \" \" /FREIGHT PREPAID ABROAD /\n\nRUC: 4BR018387232000000000000165471E24\n/\n\nAS PER SHIPPER\n\nMNBU9042994 ML-BR2467021 40 REEF 9'6 1858 CARTONS 28789.710 KGS 40.0000 CBM\nTemperature: -22.0 C\nVeterinarian Seal : 149340 SIF104\nSHIPPER'S LOAD, STOW, WEIGHT AND COUNT",
+                "measurement": 40.0000,
+                "weight": 28789.710
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "MNBU9042994",
+                "seal_number": "149340 SIF104"
+              }
+            ],
+            "ship_date": "2024-12-08",
+            "booking_number": "720522528",
+            "place_of_departure": "ITAPOA BRAZIL",
+            "place_of_receipt": "",
+            "place_of_loading": "ITAPOA BRAZIL",
+            "place_of_delivery": "YANTIAN,CHINA",
+            "company_name": "MAEU",
+            "measurement": "40.0000 CBM",
+            "number_of_packages": 1858,
+            "bill_of_lading__number": "247512761",
+            "delivery_agent_company_name": "Maersk Brasil (Brasmar) Ltda",
+            "delivery_agent_name": "Carolina de Oliveira Caligiuri",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "BRF S.A. Rua Jorge",
+            "shipper_name": "",
+            "shipper_address": "Tzachel,,475,Fazenda ITAJAI,88301-600 Brazil - 047 3249 4100 C.N.P.J. 01.838.723/0169-88 A.E.O. TIN CODE BR0183872300012?",
+            "shipper_telephone": "047 3249 4100",
+            "total_gross_weight_value": "28789.710",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "27870.000",
+            "total_net_weight_unit": "kgs",
+            "consignee_company_name": "JIANGSU AMIYA INVESTMENT CO.,LTD.",
+            "consignee_name": "",
+            "consignee_address": "5A01, BLOCK 7, NO. 23 HUASHEN AVENUE, YUHUATAI DISTRICT..., NANJING, JIANGSU PROVINCE, USCI: 91320115302339?8X5 CHINA - JIE CAI - USCC 913201153023397BX5",
+            "consignee_telephone": "",
+            "notify_party_company_name": "JIANGSU AMIYA INVESTMENT CO.,LTD.",
+            "notify_party_name": "",
+            "notify_party_address": "5A01, BLOCK 7, NO. 23 HUASHEN AVENUE, YUHUATAI DISTRICT..., NANJING, JIANGSU PROVINCE, USCI: 91320115302339?8X5 China - JIE CAI - USCC 913201153023397BX5",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "MAERSK LINS",
+            "vessel_address": "449E"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "No. 273709852.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "N/M",
+                "quantity": 500,
+                "package_type": "PACKAGES",
+                "description": "1 Container Said to Contain 500 PACKAGES\n\nRUBBER SLIPPERS\nKIDS SCHOOL BAGS\nKIDS BOWLS\n\nN/M\n\nCAAU6550889 ML-CN5658002 40 DRY 9'6 500 PACKAGES 13500.000 KGS 68.0000 CBM\nSHIPPER'S LOAD, STOW, WEIGHT AND COUNT\n\nFREIGHT PREPAID\n\nThe Merchant(s) warrant and represent that this shipment and/or Goods will comply at all times with European Union, United States and United Nations sanctions and/or export control laws (Sanctions Laws), and that this shipment and/or Goods do not involve, whether directly or indirectly, any entity or person identified, or owned or controlled by any such entity or person identified, on the U.S. Treasury Departments Office of Foreign Asset Control (OFAC) list of Specially Designated Nationals and Blocked Persons, or any other similar list maintained by the European Union, or as promulgated by the United Nations Security Council (Designated Person). If, in the Carriers reasonable opinion, this shipment and/or Goods are in violation of the Carriers policy on Russia",
+                "measurement": 68.0000,
+                "weight": 13500.000
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "CAAU6550889",
+                "seal_number": ""
+              }
+            ],
+            "ship_date": "2024-03-11",
+            "booking_number": "273709852",
+            "place_of_departure": "NANSHA,CHINA",
+            "place_of_receipt": "",
+            "place_of_loading": "NANSHA,CHINA",
+            "place_of_delivery": "Tema,Ghana",
+            "company_name": "MAEU",
+            "measurement": "68.0000 CBM",
+            "number_of_packages": 500,
+            "bill_of_lading__number": "273709852",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "WAYKONG (HK) TRADING CO., LIMITED",
+            "shipper_name": "",
+            "shipper_address": "",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "13500.000",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "GBH LOGISTICS VENTURES",
+            "consignee_name": "",
+            "consignee_address": "TAIFA LANE 2 DAVI BOOK SHOP TEL:0302438866/0244726684",
+            "consignee_telephone": "0302438866/0244726684",
+            "notify_party_company_name": "SAME AS CONSIGNEE",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "MAERSK ENSHI",
+            "vessel_address": "409W"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "No. 591153724.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "N/M",
+                "quantity": 71,
+                "package_type": "PACKAGES",
+                "description": "1 Container Said to Contain 71 PACKAGES\n\nALUMINUM EXTRUSIONS\nCONNECTION PARTS\nPLASTIC COVER\nU CHANNEL\nSAY SEVENTY-ONE PACKAGES ONLY.\nMARKS AND NOS:\nN/M\n\nN/M\n\nMAEU4230312 ML-CN4499538 40 OPEN 9'6 71 PACKAGES 15907.140 KGS 34.5110 CBM\nSHIPPER'S LOAD, STOW, WEIGHT AND COUNT\n\nFREIGHT PREPAID\n\nCY/CY\n\nOutward Forwarders reference H60201912390",
+                "measurement": 34.5110,
+                "weight": 15907.140
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "MAEU4230312",
+                "seal_number": ""
+              }
+            ],
+            "ship_date": "2019-12-30",
+            "booking_number": "591153724",
+            "place_of_departure": "Shanghai",
+            "place_of_receipt": "",
+            "place_of_loading": "Shanghai",
+            "place_of_delivery": "Buenaventura",
+            "company_name": "MAEU",
+            "measurement": "34.5110 CBM",
+            "number_of_packages": 71,
+            "bill_of_lading__number": "591153724",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "THESAN USA CORP.",
+            "shipper_name": "",
+            "shipper_address": "1221 BRICKELL AVE. SUITE 1160 33131 MIAMI, FLORIDA - USA",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "15907.140",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "THESAN COLOMBIA SAS",
+            "consignee_name": "",
+            "consignee_address": "NIT. 901.140.195-6 Cra. 21 #86-81 BOGOTA COLOMBIA",
+            "consignee_telephone": "",
+            "notify_party_company_name": "THESAN COLOMBIA SAS",
+            "notify_party_name": "",
+            "notify_party_address": "NIT. 901.140.195-6 Cra. 21 #86-81 BOGOTA COLOMBIA",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "SVENDBORG MAERSK",
+            "vessel_address": "952E"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "No. COSU634443593012.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "TECNOLITE HS-B220712 MARINE WINDOW MADE IN CHINA FSCU5714376/CR89369O",
+                "quantity": 2,
+                "package_type": "PACKAGES",
+                "description": "MARINE WINDOW\n\n2PACKAGES\n\nWOODEN BOX\nNCM:7308.30.00\nOCEAN FREIGHT:USD 100.00\n\n***\nATTN: BRUNO AKIRA-MATSUDA\nEMAIL:BRUNO.MATSUDA@TECNOLITE.COM.BR\nTEL: (11) 4417 4477\n\nCFS-CFS\nFREIGHT PREPAID",
+                "measurement": 1.17,
+                "weight": 780
+              }
+            ],
+            "container_line_item_info": [],
+            "ship_date": "2022-09-30",
+            "booking_number": "",
+            "place_of_departure": "SANTOS, BRAZIL",
+            "place_of_receipt": "",
+            "place_of_loading": "SHANGHAI, CHINA",
+            "place_of_delivery": "SANTOS, BRAZIL",
+            "company_name": "QINGDAO HYDSHIPPING INTERNATIONAL LOGISTICS CO.,LTD COMBINEDTRANSPORT",
+            "measurement": "1.17 CBM",
+            "number_of_packages": 2,
+            "bill_of_lading__number": "C05U63444369301Z",
+            "delivery_agent_company_name": "SOUTH CARGO DO BRASIL TRANSPORTES INTERNACIONAIS LTDA",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "AV. ENGENHEIRO LUIZ CARLOS BERRINI, 1600 -ANDAR 13-CONJ 131/132 CIDADE MONOGES-CEP: 04671-000 TEL:55 11 2602-6000 CNPJ: 22.863.181/0001-12",
+            "delivery_agent_telephone": "55 11 2602-6000",
+            "shipper_company_name": "CHONGQING HI-SEA MARINE EQUIPMENT IMPORT & EXPORT CO. LTD.",
+            "shipper_name": "",
+            "shipper_address": "ADDRESS:15-1, JINSHAN MATRIX A, SAIDI ROAD, LIANGJIANG NEW AREA,CHONGQING, CHINA, 401122",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "780",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "TECNOLITE PRODUTOS TECNICOS LTDA",
+            "consignee_name": "",
+            "consignee_address": "ADDRESS: RUA SUELI APARECIDA LEITE NOGUEIRA. NO 800 - CEP: 12946-379-PINIIEIRINHO-ATIBAIA-SP CNPJ 01.017.274/0001-66***",
+            "consignee_telephone": "",
+            "notify_party_company_name": "SAME AS CONSIGNEE",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "XIN FU ZHOU/075#",
+            "vessel_address": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "No. QTSGN2107156.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "LCL/LCL-CFS/CFS",
+                "quantity": 1,
+                "package_type": "PKG",
+                "description": "PART OF CONTAINER :\n\nOUTSOLE MOLD SPW046\nPACKING: 40 pcs , NET WEIGHT: 2,510 KGs",
+                "measurement": null,
+                "weight": 2539.0000
+              }
+            ],
+            "container_line_item_info": [],
+            "ship_date": "2021-09-21",
+            "booking_number": "",
+            "place_of_departure": "SHANGHAI",
+            "place_of_receipt": "HAIPHONG, VIETNAM",
+            "place_of_loading": "HAIPHONG, VIETNAM",
+            "place_of_delivery": "SHANGHAI",
+            "company_name": "QUANTERM LOGISTICS (VIETNAM) Co., LTD",
+            "measurement": "",
+            "number_of_packages": 1,
+            "bill_of_lading__number": "QTSGN2107156",
+            "delivery_agent_company_name": "SHANGHAI MAGNET GLOBAL LOGISTICS CO.,LTD.",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "11/F, BUILDING A, BAODI PLAZA, NO.688 DA LIAN ROAD, SHANGHAI",
+            "delivery_agent_telephone": "86-21-80122031 / 86-21-80121666",
+            "shipper_company_name": "PEGASUS GLOBAL LOGISTICS - HANOI BRANCH",
+            "shipper_name": "",
+            "shipper_address": "61 PHAM TUAN TAI, CO NHUE 1 WARD, BAC TU LIEM DISTRICT, HA NOI CITY TAX CODE : 0313367292002 TEL : 024 73013030 / MOBILE : 0346000686",
+            "shipper_telephone": "024 73013030 / 0346000686",
+            "total_gross_weight_value": "2539.0000",
+            "total_gross_weight_unit": "Kgs",
+            "total_net_weight_value": "2510",
+            "total_net_weight_unit": "KGs",
+            "consignee_company_name": "KSL LOGISTICS CO.,LIMITED",
+            "consignee_name": "ESTELLE",
+            "consignee_address": "B2802, XINTIAN CBC, 2# STREET SHIXIA NORTH, FUTIAN DISTRICT, SHENZHEN",
+            "consignee_telephone": "0755-83200147",
+            "notify_party_company_name": "SAME AS CONSIGNEE",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "OP1@KSLLOGISTICS.COM",
+            "vessel_name": "GLORY FORTUNE",
+            "vessel_address": "2136N"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "No. WH-00023.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "MASRI BRO. (IN DIAMAND) ALEXANDRIA C/NO.: 1~366 MADE IN TAIWAN R.O.C",
+                "quantity": 366,
+                "package_type": "CARTONS",
+                "description": "THREE FIVES BRAND STAINLESS STEEL SERVER SET 366 CARTONS CREDIT NO. MAS-ADLC02 \"FREIGHT PREPAID\" SHIPPER'S LOAD & COUNT SAY TOTAL ONE (1) CONTAINNER ONLY",
+                "measurement": 25,
+                "weight": 7283.4
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "FSCU3828192012",
+                "seal_number": ""
+              }
+            ],
+            "ship_date": "2021-05-09",
+            "booking_number": "",
+            "place_of_departure": "ALEXANDRIA, EGYPT",
+            "place_of_receipt": "KEELUNG, TAIWAN",
+            "place_of_loading": "KEELUNG, TAIWAN",
+            "place_of_delivery": "ALEXANDRIA, EGYPT",
+            "company_name": "WAN HAI LINES LTD",
+            "measurement": "25 CBM",
+            "number_of_packages": 366,
+            "bill_of_lading__number": "WH-12345",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "Taipei Andersen International Trade Corp.",
+            "shipper_name": "",
+            "shipper_address": "5F., No.30, Sinshih St., Beitou District, Taipei 112, Taiwan",
+            "shipper_telephone": "09861627192",
+            "total_gross_weight_value": "7283.4",
+            "total_gross_weight_unit": "kgs",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "To order of shipper",
+            "consignee_name": "",
+            "consignee_address": "",
+            "consignee_telephone": "",
+            "notify_party_company_name": "MASRI BRO. CO. LTD.",
+            "notify_party_name": "",
+            "notify_party_address": "P.O. BOX: 14/5873, ALEXANDRIA, EGYPT",
+            "notify_party_telephone": "0219112575",
+            "notify_party_email": "",
+            "vessel_name": "DONGFENG V.513",
+            "vessel_address": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "No. WSHA7090299.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "N/M",
+                "quantity": 222,
+                "package_type": "PACKAGES",
+                "description": "FREIGHT PREPAID\n\nDescription of Goods\n\nECO SOLVENT PRINTER\nPRINTING MATERIAL\nCUTTING PLOTTER\nROLL UP\nDOOR STAND\nLASER TUBE\nCARGO IN TRANSIT TO BOLIVIA FOR ACCOUNT AND RISK OF THE INTEREST OF THE CARGO",
+                "measurement": 23.65,
+                "weight": 9391
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "20GP/FCGU2963067/K1076800/Z22PACKAGES/9391KGS/23.65CBM",
+                "seal_number": ""
+              }
+            ],
+            "ship_date": "2017-09-06",
+            "booking_number": "",
+            "place_of_departure": "ARICA",
+            "place_of_receipt": "SHANGHAI",
+            "place_of_loading": "SHANGHAI",
+            "place_of_delivery": "ARICA",
+            "company_name": "WORLDWIDE LOGISTICS CO.,LTD.",
+            "measurement": "23.65 CBM",
+            "number_of_packages": 222,
+            "bill_of_lading__number": "WSHA7090299",
+            "delivery_agent_company_name": "BLUE LINE INTERNATIONAL FREIGHT FORWARDER S.R.L.",
+            "delivery_agent_name": "MARCO PORTILLO",
+            "delivery_agent_address": "AV. BANZER 5TO. ANILLO,SANTA CRUZ-BOLIVIA",
+            "delivery_agent_telephone": "59 13 3410533 / 59 13 3410534",
+            "shipper_company_name": "FUNSUN DEVELOPMENT LIMITED",
+            "shipper_name": "",
+            "shipper_address": "ADD:ROOM C115,BUILDING C2,NO 689 GUANGHUA ROAD,MINHANG DISTRICT SHANGHAI",
+            "shipper_telephone": "0086 13764391431",
+            "total_gross_weight_value": "9391",
+            "total_gross_weight_unit": "KGs",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "VISCARRA SRL",
+            "consignee_name": "LEGAL REPRESENTATIVE CESAR FERNANDO VILLARROEL",
+            "consignee_address": "VISCARRA IDENTITY CARD 3436324 LEGAL ADDRESS CALLE PROVENIR 1054 ZONA AMOR DE DIOS CIUDAD EL ALTO-LA PAZ BOLIVIA",
+            "consignee_telephone": "",
+            "notify_party_company_name": "SAME AS CONSIGNEE",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "TIANJIN",
+            "vessel_address": "Voy.No.003E"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "No.250704747.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "N/M",
+                "quantity": 2112,
+                "package_type": "PACKAGES",
+                "description": "2 containers said to contain 2112 PACKAGES\n\nKITCHENWARE\nHS CODE: 7323.91\n\nN/M\n\nMRSU4765680 ML-CN0380262 40 DRY 9'6 1052 PACKAGES 27457.200 KGS 55.9300 CBM\nTCNU5236611 ML-CN4684436 40 DRY 9'6 1060 PACKAGES 27666.000 KGS 56.3500 CBM\nSHIPPER'S LOAD, STOW, WEIGHT AND COUNT\n\nFREIGHT PREPAID\n\nThe Merchant(s) warrant and represent that this shipment and/or Goods will comply at all times with European Union, United States and United Nations sanctions and/or export control laws (Sanctions Laws), and that this shipment and/or Goods do not involve, whether directly or indirectly, any entity or person identified, or owned or controlled by any such entity or person identified, on the U.S. Treasury Departments Office of Foreign Asset Control (OFAC) list of Specially Designated Nationals and Blocked Persons, or any other similar list maintained by the European Union, or as promulgated by the United Nations Security Council (Designated Person). If, in the Carriers reasonable opinion, this shipment and/or Goods are in violation of the Carriers policy on Russia",
+                "measurement": 112.2800,
+                "weight": 55123.200
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "MRSU4765680",
+                "seal_number": ""
+              },
+              {
+                "container_number": "TCNU5236611",
+                "seal_number": ""
+              }
+            ],
+            "ship_date": "2025-03-04",
+            "booking_number": "250704747",
+            "place_of_departure": "SHEKOU",
+            "place_of_receipt": "",
+            "place_of_loading": "SHEKOU",
+            "place_of_delivery": "CIKARANG DRY PORT, INDONESIA",
+            "company_name": "MAEU",
+            "measurement": "112.2800 CBM",
+            "number_of_packages": 2112,
+            "bill_of_lading__number": "250704747",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "NINGBO XIANGYING IMPORT & EXPORT CO.LTD",
+            "shipper_name": "",
+            "shipper_address": "ROOM (4-15)(4-16)NO39-5,XINGNING ROAD, YINZHOU DISTRICT, ZHEJIANG PROVINCE,CHINA",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "55123.200",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "PT. JAYA BANGUN DIRGANTARA",
+            "consignee_name": "",
+            "consignee_address": "NPWP : 0965 9996 5904 8000 JL. SUNTER PERMAI RAYA, RUKO NIRWANA SUNTER ASRI TAHAP III BLOK J-1 NO. 16 KEL. PAPANGGO KEC. TANJUNG PRIOK JAKARTA UTARA TEL: +62 21 65303918 FAX: +62 21 65303918",
+            "consignee_telephone": "+62 21 65303918",
+            "notify_party_company_name": "SAME AS CONSIGNEE",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "ERASMUS CHIEF",
+            "vessel_address": "510S"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "one-No. ONEYBNDC01356600.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "NO MARKS",
+                "quantity": 432,
+                "package_type": "BOXES",
+                "description": "1X20' S.T.C.:\n432 BOX OF MACE\nPACKING: CARTON BOX\nHS CODE: 09082100\nGW: 4,730.40 KGS\nNW: 4,320.00 KGS\n\nSH>\nMEDAN,\nINDONESIA 20118",
+                "measurement": 20.000,
+                "weight": 4730.40
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "BMOU152932",
+                "seal_number": "ID*61667A"
+              }
+            ],
+            "ship_date": "2022-07-17",
+            "booking_number": "BNDC01356600",
+            "place_of_departure": "NHAVA SHEVA, INDIA",
+            "place_of_receipt": "PANJANG, INDONESIA",
+            "place_of_loading": "PANJANG, INDONESIA",
+            "place_of_delivery": "NHAVA SHEVA, INDIA",
+            "company_name": "OCEAN NETWORK EXPRESS",
+            "measurement": "20.000 CBM",
+            "number_of_packages": 432,
+            "bill_of_lading__number": "ONE1BNDC01356600",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "CV. KAHAKA INTERNATIONAL",
+            "shipper_name": "",
+            "shipper_address": "JL. BANTENG KOMP. TAMAN IMPIAN INDAH BLOK H NO. 8, KEL. DWI KORA, KEC. MEDAN HELVETIA, SH>",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "4730.40",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "4320.00",
+            "total_net_weight_unit": "KGS",
+            "consignee_company_name": "BIO INGREDIENTS LLP",
+            "consignee_name": "",
+            "consignee_address": "NO. 127, MARS-B COSMO CITY, SAYLI, SILVASSA, U.T OF DADRA AND NAGAR HAVELI 396230, INDIA CN>",
+            "consignee_telephone": "",
+            "notify_party_company_name": "BIO INGREDIENTS LLP",
+            "notify_party_name": "",
+            "notify_party_address": "NO. 127, MARS-B COSMO CITY, SAYLI, SILVASSA, U.T OF DADRA AND NAGAR HAVELI 396230, INDIA NP>",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "CLEMENS SCHULTE",
+            "vessel_address": "014W"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "one-No. ONEYMNGV00104400.pdf",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "",
+                "quantity": 2556,
+                "package_type": "LOGS",
+                "description": "MADERA DE TECA EN ROLLO\n\nOCEAN FREIGHT PREPAID\n\nTCLU6498820 / NI00174680 / 390 LOGS /FCL / FCL/40HQ/19810.000KGS/23.865M3\nSEGU4356529 / NI00174677 / 503 LOGS /FCL / FCL/40HQ/26640.000KGS/24.202M3\nTEMU6835152 / NI00174678 / 323 LOGS /FCL / FCL/40HQ/27740.000KGS/23.470M3\nTCLU7943811 / NI00174679 / 479 LOGS /FCL / FCL/40HQ/25070.000KGS/22.878M3\nTCLU1573685 / NI00174676 / 400 LOGS /FCL / FCL/40HQ/28040.000KGS/23.246M3\nTRLU7160760 / NI00174638 / 461 LOGS /FCL / FCL/40HQ/27860.000KGS/22.956M3",
+                "measurement": 140.617,
+                "weight": 155160.000
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "TCLU6498820",
+                "seal_number": "NI00174680"
+              },
+              {
+                "container_number": "SEGU4356529",
+                "seal_number": "NI00174677"
+              },
+              {
+                "container_number": "TEMU6835152",
+                "seal_number": "NI00174678"
+              },
+              {
+                "container_number": "TCLU7943811",
+                "seal_number": "NI00174679"
+              },
+              {
+                "container_number": "TCLU1573685",
+                "seal_number": "NI00174676"
+              },
+              {
+                "container_number": "TRLU7160760",
+                "seal_number": "NI00174638"
+              }
+            ],
+            "ship_date": "2019-01-24",
+            "booking_number": "MNGV00104400",
+            "place_of_departure": "CORINTO",
+            "place_of_receipt": "CORINTO",
+            "place_of_loading": "CHENNAI",
+            "place_of_delivery": "COTONOU",
+            "company_name": "OCEAN NETWORK EXPRESS",
+            "measurement": "140.617 CBM",
+            "number_of_packages": 2556,
+            "bill_of_lading__number": "ONEYMNGV00104400",
+            "delivery_agent_company_name": "",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "J. L. GRIFFITH SUCESORES, S. A.",
+            "shipper_name": "",
+            "shipper_address": "DE LA ROTONDA CRISTO REY, 100 MTS AL ESTE, PLAZA LUCILA. CORINTO",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "155160.000",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "GT TIMBER LLC",
+            "consignee_name": "",
+            "consignee_address": "18111 GLENLYON DRIVE,RICHMOND, TX 77407 SREE GANESH TIMBER DEPOT 1",
+            "consignee_telephone": "-409-225-0451",
+            "notify_party_company_name": "GT TIMBER LLC",
+            "notify_party_name": "",
+            "notify_party_address": "18111 GLENLYON DRIVE,RICHMOND, TX 77407 SREE GANESH TIMBER DEPOT 1",
+            "notify_party_telephone": "-409-225-0451",
+            "notify_party_email": "",
+            "vessel_name": "NYK MARIA / NYK LYRA",
+            "vessel_address": "579W / 853W"
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "ptv-No. PTVBUS22124510.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "",
+                "quantity": 36,
+                "package_type": "PALLETS",
+                "description": "\"SHIPPER'S LOAD & COUNT\"\nSAID TO CONTAIN :\nONE (01)X20'DV'-\n36 PALLETS\nPOLYESTER HIGH TENACITY FILAMENT YARN\n150OD/144F AA GRADE\n\nCIF BUSAN, KOREA\nORIGIN VIETNAM",
+                "measurement": 20.000,
+                "weight": 11457.00
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "SECU3954064",
+                "seal_number": "MS2256244"
+              }
+            ],
+            "ship_date": "2022-12-13",
+            "booking_number": "",
+            "place_of_departure": "HOCHIMINH PORT, VIET NAM",
+            "place_of_receipt": "",
+            "place_of_loading": "HOCHIMINH PORT IN VIETNAM",
+            "place_of_delivery": "BUSAN, KOREA",
+            "company_name": "NAMSUNG SHIPPING VIETNAM CO., LTD",
+            "measurement": "20.000 CBM",
+            "number_of_packages": 36,
+            "bill_of_lading__number": "PTVBUS22124510",
+            "delivery_agent_company_name": "HYOSUNG CORPORATION",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "3F, HYOSUNG HARRINGTON SQUARE A, 92, MAPO-DAERO, MAPO-GU, SEOUL, KOREA 04168",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "HYOSUNG DONG NAI CO., LTD",
+            "shipper_name": "",
+            "shipper_address": "N3 STREET, NHON TRACH 5 INDUSTRIAL ZONE, NHON TRACH DISTRICT, DONG NAI PROVINCE, VIETNAM",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "11457.00",
+            "total_gross_weight_unit": "KGS",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "HYOSUNG ADVANCED MATERIALS CORPORATION",
+            "consignee_name": "",
+            "consignee_address": "TECHNICAL YARN PERFORMANCE UNIT\n119, MAPO-DAERO, MAPO-GU\nSEOUL, KOREA 121-720",
+            "consignee_telephone": "",
+            "notify_party_company_name": "SAME AS CONSIGNEE",
+            "notify_party_name": "",
+            "notify_party_address": "",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "PANCON BRIDGE V.2215W",
+            "vessel_address": ""
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "shipco-No. 81516539.png",
+      "detail": {
+        "documents": [
+          {
+            "line_items": [
+              {
+                "marks": "+PT.INDAH\nKIAT PULP AND\nPAPER TEK\n\n+INVOICE\nNUMBER\n1434856-01\nDATED JUN 29,\n2022\n\nPURCHASE\nORDER NUMBER\nPRW-41098746",
+                "quantity": 1,
+                "package_type": "CRATE",
+                "description": "PALLETS SLAC\n1 CRATE SHIPPER'S LOAD AND COUNT\nGOODS NAME: 1 EACH GEAR BOX\n\nPO NO : PRW-41098746\nCOUNTRY OF ORIGIN : UNITED STATES\n\nSHIPMENT TERMS : CFR JAKARTA\n\n(INCOTERMS 2010)\n\nH.S. CODE : 8483.40\n\nINVOICE NUMBER 1434856-01 INVOICE\nDATE 06/29/2022",
+                "measurement": 13.420,
+                "weight": 196.211
+              }
+            ],
+            "container_line_item_info": [
+              {
+                "container_number": "TCNU6735908",
+                "seal_number": "1134881"
+              }
+            ],
+            "ship_date": "",
+            "booking_number": "81516539",
+            "place_of_departure": "JAKARTA",
+            "place_of_receipt": "SHEBOYGAN,WISCONSIN",
+            "place_of_loading": "NORFOLK,VA",
+            "place_of_delivery": "JAKARTA",
+            "company_name": "SHIPCO TRANSPORT",
+            "measurement": "13.420 Cbf / 0.380 Cbm",
+            "number_of_packages": 1,
+            "bill_of_lading__number": "81516539",
+            "delivery_agent_company_name": "PT.BAKHTERA FREIGHT WORLDWIDE",
+            "delivery_agent_name": "",
+            "delivery_agent_address": "KOMP.MUTIARA TAMAN PALEM BLOK B7/20\nJL.KAMAL RAYA OUTER RING ROAD CENGKARENG\nJAKARTA 11730-INDONESIA\nID TAX : 02.589.575.6-034.00",
+            "delivery_agent_telephone": "",
+            "shipper_company_name": "EMO TRANS, INC. - BWI",
+            "shipper_name": "",
+            "shipper_address": "AS AGENT FOR EM LINES LTD\n9851 BROKEN LAND PKWY\nSUITE 301\nCOLUMBIA, MD 21046",
+            "shipper_telephone": "",
+            "total_gross_weight_value": "196.211",
+            "total_gross_weight_unit": "Lbs / 89.000 Kgs",
+            "total_net_weight_value": "",
+            "total_net_weight_unit": "",
+            "consignee_company_name": "PT.INDAH KIAT PULP AND PAPER TBK",
+            "consignee_name": "",
+            "consignee_address": "GEDUNG SINAR MAS LAND PLAZA, MENARA 2 LT.9\nJL.MH.THAMRIN NO.51 GONDANGDIA MENTENG ,KOTA ADM\nJAKARTA PUSAT DKI JAKARTA\nID TAX : 01.000.566.8-092.000",
+            "consignee_telephone": "",
+            "notify_party_company_name": "PT.BAKHTERA FREIGHT WORLDWIDE",
+            "notify_party_name": "",
+            "notify_party_address": "KOMP.MUTIARA TAMAN PALEM BLOK B7/20\nJL.KAMAL RAYA OUTER RING ROAD CENGKARENG\nJAKARTA 11730-INDONESIA\nID TAX : 02.589.575.6-034.00",
+            "notify_party_telephone": "",
+            "notify_party_email": "",
+            "vessel_name": "MAERSK SANTANA 230W",
+            "vessel_address": ""
+          }
+        ]
+      }
+    }
+  ]
+}
