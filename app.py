@@ -1,12 +1,19 @@
-from flask import Flask, render_template, request, jsonify, send_file
+from flask import Flask, render_template, request, jsonify, send_file, send_from_directory
+from flask_cors import CORS
 from paddleocr import PaddleOCR
 import os
 from werkzeug.utils import secure_filename
 import json
 from datetime import datetime
 import re
+import uuid
+from dotenv import load_dotenv
+
+load_dotenv()
 
 app = Flask(__name__)
+CORS(app)
+
 
 # 配置
 app.config['UPLOAD_FOLDER'] = 'uploads'
@@ -159,112 +166,182 @@ def upload_file():
         return jsonify({'error': f'处理失败: {str(e)}'}), 500
 
 def extract_bill_info(texts):
-    """从识别的文字中提取关键信息"""
+    """使用 HKBU GenAI (Gemini 2.5 Pro) 提取提单关键信息"""
+    import requests
+    import json
+    import os
+    from dotenv import load_dotenv
     
-    info = {
-        'shipper': {'name': '', 'address': []},
-        'consignee': {'name': '', 'address': []},
-        'bill_info': {},
-        'cargo': []
-    }
+    # 加载环境变量
+    load_dotenv()
     
-    # 标志变量
-    in_shipper_section = False
-    in_consignee_section = False
-    shipper_lines = []
-    consignee_lines = []
+    API_URL = os.getenv('API_URL', 'https://genai.hkbu.edu.hk/api/v0/rest/deployments/gemini-2.5-pro/chat/completions?api-version=v1')
+    API_KEY = os.getenv('API_KEY', 'efd90a7f-da6b-4bc3-af47-52344b6ee95b')
     
-    for i, text in enumerate(texts):
-        if not text or not isinstance(text, str):  # ✅ 添加安全检查
-            continue
-            
-        text_upper = text.upper().strip()
-        
-        # ===== 识别发货人区域 =====
-        if 'SHIPPER' in text_upper and 'EXPORTER' in text_upper:
-            in_shipper_section = True
-            in_consignee_section = False
-            shipper_lines = []
-            continue
-        
-        # ===== 识别收货人区域 =====
-        if 'CONSIGNEE' in text_upper:
-            in_consignee_section = True
-            in_shipper_section = False
-            consignee_lines = []
-            continue
-        
-        # ===== 收集发货人信息 =====
-        if in_shipper_section:
-            if any(keyword in text_upper for keyword in ['B/L NO', 'CONSIGNEE', 'NOTIFY', 'VESSEL', 'PORT OF']):
-                in_shipper_section = False
-            else:
-                if not any(skip in text_upper for skip in ['S/O NO', 'OTT NO', 'REF#', 'EIN#', 'TEL:', 'FAX:']):
-                    shipper_lines.append(text.strip())
-        
-        # ===== 收集收货人信息 =====
-        if in_consignee_section:
-            if any(keyword in text_upper for keyword in ['NOTIFY', 'VESSEL', 'PORT OF', 'CONTAINER']):
-                in_consignee_section = False
-            else:
-                if not any(skip in text_upper for skip in ['NOT NEGOTIABLE', 'UNLESS']):
-                    consignee_lines.append(text.strip())
-        
-        # ===== 提取提单信息字段 =====
-        
-        # B/L NO
-        if 'B/L NO' in text_upper:
-            if i + 1 < len(texts) and texts[i + 1]:  # ✅ 添加安全检查
-                next_text = texts[i + 1].strip()
-                if re.match(r'^[A-Z]{2}[-\s]?\d+', next_text, re.IGNORECASE):
-                    info['bill_info']['B/L NO'] = next_text
-            elif ':' in text:
-                parts = text.split(':', 1)
-                if len(parts) > 1 and parts[1].strip():  # ✅ 添加安全检查
-                    info['bill_info']['B/L NO'] = parts[1].strip()
-        
-        # 直接识别提单号
-        if re.match(r'^OH[-\s]?\d+', text, re.IGNORECASE):
-            info['bill_info']['B/L NO'] = text.strip()
-        
-        # 船名
-        if 'VESSEL' in text_upper and 'VOY' not in text_upper:
-            if ':' in text:
-                parts = text.split(':', 1)
-                if len(parts) > 1 and parts[1].strip():  # ✅ 添加安全检查
-                    info['bill_info']['VESSEL'] = parts[1].strip()
-        
-        # 航次
-        if 'VOYAGE' in text_upper or 'VOY' in text_upper:
-            match = re.search(r'VOY[A-Z]*[:\s]+([A-Z0-9]+)', text_upper)
-            if match:
-                info['bill_info']['VOYAGE'] = match.group(1)
-        
-        # 装货港
-        if 'PORT OF LOADING' in text_upper:
-            if i + 1 < len(texts) and texts[i + 1]:  # ✅ 添加安全检查
-                info['bill_info']['PORT OF LOADING'] = texts[i + 1].strip()
-        
-        # 卸货港
-        if 'PORT OF DISCHARGE' in text_upper:
-            if i + 1 < len(texts) and texts[i + 1]:  # ✅ 添加安全检查
-                info['bill_info']['PORT OF DISCHARGE'] = texts[i + 1].strip()
-        
-        # 货物描述
-        if any(keyword in text_upper for keyword in ['PALLETS', 'CASES', 'KGS', 'HS CODE']) or re.search(r'\d{6}', text):
-            if text.strip() and text not in info['cargo']:  # ✅ 添加安全检查
-                info['cargo'].append(text.strip())
+    # 合并所有OCR文本
+    full_text = "\n".join([str(t) for t in texts if t])
     
-    # 处理发货人和收货人信息
-    if shipper_lines:
-        info['shipper']['name'] = shipper_lines[0] if shipper_lines else ''
-        info['shipper']['address'] = shipper_lines[1:] if len(shipper_lines) > 1 else []
-    
-    if consignee_lines:
-        info['consignee']['name'] = consignee_lines[0] if consignee_lines else ''
-        info['consignee']['address'] = consignee_lines[1:] if len(consignee_lines) > 1 else []
-    
-    return info
+    # 构建提示词
+    prompt = f"""你是一个专业的提单数据提取助手。请从以下OCR识别的海运提单文本中提取关键信息。
+
+OCR文本：
+{full_text}
+
+请提取以下信息并以JSON格式返回（如果某字段未找到，请返回空字符串）：
+{{
+    "shipper_name": "发货人公司名称",
+    "shipper_address": "发货人完整地址（保持原始格式，多行用\\n分隔）",
+    "consignee_name": "收货人公司名称",
+    "consignee_address": "收货人完整地址（保持原始格式，多行用\\n分隔）",
+    "bl_number": "提单号（如OH-123456）",
+    "vessel": "船名",
+    "voyage": "航次",
+    "port_of_loading": "装货港",
+    "port_of_discharge": "卸货港",
+    "place_of_delivery": "交货地点",
+    "cargo_description": "货物描述（保持原始格式，多行用\\n分隔）",
+    "container_info": "集装箱号和类型",
+    "gross_weight": "毛重",
+    "measurement": "体积"
+}}
+
+重要提示：
+1. 只返回JSON格式的数据，不要有任何额外的解释或说明文字
+2. 确保JSON格式正确，可以被直接解析
+3. 如果某个字段在文本中没有找到，返回空字符串 ""
+4. 保持地址和货物描述的原始换行格式"""
+
+    try:
+        # 构建请求
+        headers = {
+            'Content-Type': 'application/json',
+            'api-key': API_KEY
+        }
+        
+        payload = {
+            "messages": [
+                {
+                    "role": "system",
+                    "content": "你是一个专业的提单数据提取助手，只返回有效的JSON格式数据，不包含任何markdown标记或额外说明。"
+                },
+                {
+                    "role": "user",
+                    "content": prompt
+                }
+            ],
+            "temperature": 0,  # 降低随机性
+            "max_tokens": 2000,
+            "top_p": 1
+        }
+        
+        print('📡 正在调用 HKBU GenAI API...')
+        
+        # 发送请求
+        response = requests.post(
+            API_URL,
+            headers=headers,
+            json=payload,
+            timeout=30  # 30秒超时
+        )
+        
+        # 检查响应状态
+        if response.status_code != 200:
+            print(f'❌ API 请求失败: {response.status_code}')
+            print(f'错误信息: {response.text}')
+            raise Exception(f'API返回错误: {response.status_code}')
+        
+        # 解析响应
+        response_data = response.json()
+        print('✅ API 调用成功')
+        
+        # 提取LLM返回的内容
+        result_text = response_data['choices'][0]['message']['content'].strip()
+        
+        print(f'📝 LLM 原始返回:\n{result_text}\n')
+        
+        # 清理返回内容（移除可能的markdown代码块标记）
+        if result_text.startswith('```'):
+            # 移除markdown代码块
+            lines = result_text.split('\n')
+            result_text = '\n'.join(lines[1:-1])  # 去掉第一行和最后一行
+            if result_text.startswith('json'):
+                result_text = result_text[4:].strip()
+        
+        # 解析JSON
+        result = json.loads(result_text)
+        
+        print('✅ JSON 解析成功')
+        print(f'📊 提取到的数据:\n{json.dumps(result, ensure_ascii=False, indent=2)}\n')
+        
+        # 转换为系统需要的格式
+        info = {
+            'shipper': {
+                'name': result.get('shipper_name', ''),
+                'address': [line.strip() for line in result.get('shipper_address', '').split('\n') if line.strip()]
+            },
+            'consignee': {
+                'name': result.get('consignee_name', ''),
+                'address': [line.strip() for line in result.get('consignee_address', '').split('\n') if line.strip()]
+            },
+            'bill_info': {
+                'B/L NO': result.get('bl_number', ''),
+                'VESSEL': result.get('vessel', ''),
+                'VOYAGE': result.get('voyage', ''),
+                'PORT OF LOADING': result.get('port_of_loading', ''),
+                'PORT OF DISCHARGE': result.get('port_of_discharge', ''),
+                'PLACE OF DELIVERY': result.get('place_of_delivery', ''),
+                'GROSS WEIGHT': result.get('gross_weight', ''),
+                'MEASUREMENT': result.get('measurement', ''),
+            },
+            'cargo': [line.strip() for line in result.get('cargo_description', '').split('\n') if line.strip()] if result.get('cargo_description') else [],
+            'container_info': result.get('container_info', '')
+        }
+        
+        return info
+        
+    except requests.exceptions.Timeout:
+        print('❌ API 请求超时')
+        return {
+            'shipper': {'name': '', 'address': []},
+            'consignee': {'name': '', 'address': []},
+            'bill_info': {},
+            'cargo': [],
+            'error': 'API请求超时'
+        }
+        
+    except requests.exceptions.RequestException as e:
+        print(f'❌ 网络请求失败: {str(e)}')
+        return {
+            'shipper': {'name': '', 'address': []},
+            'consignee': {'name': '', 'address': []},
+            'bill_info': {},
+            'cargo': [],
+            'error': f'网络请求失败: {str(e)}'
+        }
+        
+    except json.JSONDecodeError as e:
+        print(f'❌ JSON 解析失败: {str(e)}')
+        print(f'原始返回内容: {result_text}')
+        return {
+            'shipper': {'name': '', 'address': []},
+            'consignee': {'name': '', 'address': []},
+            'bill_info': {},
+            'cargo': [],
+            'error': f'JSON解析失败: {str(e)}'
+        }
+        
+    except Exception as e:
+        print(f'❌ LLM 提取失败: {str(e)}')
+        import traceback
+        traceback.print_exc()
+        
+        return {
+            'shipper': {'name': '', 'address': []},
+            'consignee': {'name': '', 'address': []},
+            'bill_info': {},
+            'cargo': [],
+            'error': f'LLM提取失败: {str(e)}'
+        }
 
 @app.route('/history')
 def history():
