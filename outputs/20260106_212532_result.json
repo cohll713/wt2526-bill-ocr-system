@@ -1,0 +1,661 @@
+{
+  "filename": "20260106_212532_hmm-No._JKTM59538301.png",
+  "total_lines": 132,
+  "average_confidence": 0.9745223111275471,
+  "texts": [
+    {
+      "text": "NON-NEGOTIABLE COPY",
+      "confidence": 0.9990546703338623
+    },
+    {
+      "text": "BILL OF",
+      "confidence": 0.9990338087081909
+    },
+    {
+      "text": "LADING",
+      "confidence": 0.997356116771698
+    },
+    {
+      "text": "HMM",
+      "confidence": 0.9982277750968933
+    },
+    {
+      "text": "Shipper/Exporter(complete name and address)",
+      "confidence": 0.9723657965660095
+    },
+    {
+      "text": "PT. INDOLIBERTY TEXTILES",
+      "confidence": 0.9843812584877014
+    },
+    {
+      "text": "Booking No.",
+      "confidence": 0.9993360042572021
+    },
+    {
+      "text": "B/L No.",
+      "confidence": 0.9971304535865784
+    },
+    {
+      "text": "HDMU",
+      "confidence": 0.9999090433120728
+    },
+    {
+      "text": "MENARA BATAVIA LEVEL 16",
+      "confidence": 0.9997533559799194
+    },
+    {
+      "text": "JKTM59538301",
+      "confidence": 0.9998680949211121
+    },
+    {
+      "text": "JKTM59538301",
+      "confidence": 0.9998412728309631
+    },
+    {
+      "text": "JL. K.H. MAS MANSYUR KAV. 126",
+      "confidence": 0.9970226883888245
+    },
+    {
+      "text": "JAKARTA 10220 - INDONESIA",
+      "confidence": 0.9889019131660461
+    },
+    {
+      "text": "ExportReferences",
+      "confidence": 0.9704563617706299
+    },
+    {
+      "text": "TAX ID : 01.070.911.1-057.000",
+      "confidence": 0.9828465580940247
+    },
+    {
+      "text": "Consignee(complete name and address)",
+      "confidence": 0.9852578043937683
+    },
+    {
+      "text": "BEKAERTDESLEE BRAZIL INDUSTRIA",
+      "confidence": 0.9990946650505066
+    },
+    {
+      "text": "Forwarding Agent References",
+      "confidence": 0.9815778136253357
+    },
+    {
+      "text": "E COMERCIO DE ARTIGOS TEXEIS LTDA",
+      "confidence": 0.9921697974205017
+    },
+    {
+      "text": "CENTRO EMPRESARIAL GIORDANO",
+      "confidence": 0.9997430443763733
+    },
+    {
+      "text": "AVENIDA AMPELIO GAZETTA, 3567",
+      "confidence": 0.9867854714393616
+    },
+    {
+      "text": "13380-290 CITY OF NOVA ODESSA",
+      "confidence": 0.9990698099136353
+    },
+    {
+      "text": "SAO PAULO STATE BRAZIL#",
+      "confidence": 0.9936296343803406
+    },
+    {
+      "text": "Point and Country of Origin",
+      "confidence": 0.9507792592048645
+    },
+    {
+      "text": "Notify Party(complete name and address)",
+      "confidence": 0.9801249504089355
+    },
+    {
+      "text": "Also Notify / Domestic Routing / Export Instructions",
+      "confidence": 0.9902186989784241
+    },
+    {
+      "text": "1ST. BEKAERTDESLEE BRAZIL INDUSTRIA",
+      "confidence": 0.9989253282546997
+    },
+    {
+      "text": "E COMERCIO DE ARTIGOS TEXEIS LTDA",
+      "confidence": 0.9949747920036316
+    },
+    {
+      "text": "CENTRO EMPRESARIAL GIORDANO",
+      "confidence": 0.9767184257507324
+    },
+    {
+      "text": "AVENIDA AMPELIO GAZETTA, 3567",
+      "confidence": 0.9984679222106934
+    },
+    {
+      "text": "13380-290 CITY OF NOVA ODESSA ##",
+      "confidence": 0.989687442779541
+    },
+    {
+      "text": "Pre-Carriage by",
+      "confidence": 0.99186110496521
+    },
+    {
+      "text": "Place of Receipt *",
+      "confidence": 0.9794857501983643
+    },
+    {
+      "text": "Port of Discharge",
+      "confidence": 0.9998570680618286
+    },
+    {
+      "text": "CSCL LIMA V.158N",
+      "confidence": 0.9996237754821777
+    },
+    {
+      "text": "TG",
+      "confidence": 0.9994426369667053
+    },
+    {
+      "text": "PRIOK JAKARTA INDONESIA",
+      "confidence": 0.9996815323829651
+    },
+    {
+      "text": "SANTOS, BRAZIL",
+      "confidence": 0.9970293641090393
+    },
+    {
+      "text": "Ocean Vessel/ Voyage / Flag",
+      "confidence": 0.9929839968681335
+    },
+    {
+      "text": "Port of Loading",
+      "confidence": 0.9893133640289307
+    },
+    {
+      "text": "Place of Delivery *",
+      "confidence": 0.9766542315483093
+    },
+    {
+      "text": "HYUNDAI SHANGHAI V 0140W",
+      "confidence": 0.9794961810112
+    },
+    {
+      "text": "TG PRIOK JAKARTA INDONESIA",
+      "confidence": 0.9984726309776306
+    },
+    {
+      "text": "SANTOS, BRAZIL",
+      "confidence": 0.9957001805305481
+    },
+    {
+      "text": "Onward Inland RoutingOnward Inland Routing",
+      "confidence": 0.9788799285888672
+    },
+    {
+      "text": "For Transshipment to",
+      "confidence": 0.9978028535842896
+    },
+    {
+      "text": "Final Destination(For the Merchants Ref.)",
+      "confidence": 0.9783393144607544
+    },
+    {
+      "text": "SANTOS, BRAZIL",
+      "confidence": 0.9948629140853882
+    },
+    {
+      "text": "PARTICULARS FURNISHED BY SHIPPER",
+      "confidence": 0.9845489263534546
+    },
+    {
+      "text": "Container No./Seal No.",
+      "confidence": 0.9526973962783813
+    },
+    {
+      "text": "No.ofContainers",
+      "confidence": 0.9998598098754883
+    },
+    {
+      "text": "Description of Packages and Goods",
+      "confidence": 0.9955964684486389
+    },
+    {
+      "text": "Gross Weight",
+      "confidence": 0.9975022673606873
+    },
+    {
+      "text": "Measurement",
+      "confidence": 0.9998458623886108
+    },
+    {
+      "text": "Marks and Numbers",
+      "confidence": 0.9583657383918762
+    },
+    {
+      "text": "or  Other Pkgs",
+      "confidence": 0.7233467102050781
+    },
+    {
+      "text": "SHIPPER NAME:",
+      "confidence": 0.9813141226768494
+    },
+    {
+      "text": "\"SHIPPER'S LOAD,COUNT,SEALED & WEIGHT S.T.C.\"",
+      "confidence": 0.9750581383705139
+    },
+    {
+      "text": "22,046.320",
+      "confidence": 0.9994727969169617
+    },
+    {
+      "text": "60.0000",
+      "confidence": 0.9998064041137695
+    },
+    {
+      "text": "PT. INDOLIBERTY",
+      "confidence": 0.9392858743667603
+    },
+    {
+      "text": "1 X 40'H DC CONTAINER",
+      "confidence": 0.9568196535110474
+    },
+    {
+      "text": "KGS",
+      "confidence": 0.9999567866325378
+    },
+    {
+      "text": "CBM",
+      "confidence": 0.999973475933075
+    },
+    {
+      "text": "TEXTILES",
+      "confidence": 0.9286913275718689
+    },
+    {
+      "text": "DESCRIPTION:",
+      "confidence": 0.9959301352500916
+    },
+    {
+      "text": "90 PACKAGES = 30 PALLETS AND 60 CARTONS",
+      "confidence": 0.9983938932418823
+    },
+    {
+      "text": "NE 30/2 NRY",
+      "confidence": 0.9828018546104431
+    },
+    {
+      "text": "SC 5050012874, BD PO NO 4500199856,",
+      "confidence": 0.8154386281967163
+    },
+    {
+      "text": "LOT NO: K17A",
+      "confidence": 0.9779911041259766
+    },
+    {
+      "text": "GOODS NE 30/2 RAYON 100% RING SPUN NON WAX",
+      "confidence": 0.9824346899986267
+    },
+    {
+      "text": "NET WEIGHT:",
+      "confidence": 0.9509981274604797
+    },
+    {
+      "text": "HS CODE : 5510.12.00",
+      "confidence": 0.9700757265090942
+    },
+    {
+      "text": "186.8593 KGS",
+      "confidence": 0.9646888375282288
+    },
+    {
+      "text": "SC 5050012874, BD PO NO 4500199856",
+      "confidence": 0.9775776863098145
+    },
+    {
+      "text": "GROSS WEIGHT:",
+      "confidence": 0.9950937628746033
+    },
+    {
+      "text": "GOODS NE 20/1 PV 65/35 RING SPUN WAX",
+      "confidence": 0.9751430153846741
+    },
+    {
+      "text": "522.3234 KGS",
+      "confidence": 0.9639868140220642
+    },
+    {
+      "text": "HS CODE : 5509.51.00",
+      "confidence": 0.9872257113456726
+    },
+    {
+      "text": "=FREIGHT PREPAID",
+      "confidence": 0.9995827674865723
+    },
+    {
+      "text": "ORIGIN OF",
+      "confidence": 0.9490090608596802
+    },
+    {
+      "text": "CY / CY",
+      "confidence": 0.9755046963691711
+    },
+    {
+      "text": "PRODUCT:",
+      "confidence": 0.9961203336715698
+    },
+    {
+      "text": "NET WEIGHT",
+      "confidence": 0.9991846084594727
+    },
+    {
+      "text": "tiable",
+      "confidence": 0.7339460849761963
+    },
+    {
+      "text": "20,734.65 KGS",
+      "confidence": 0.9710463881492615
+    },
+    {
+      "text": "MADE IN",
+      "confidence": 0.996895432472229
+    },
+    {
+      "text": "GROSS WEIGHT",
+      "confidence": 0.9980748295783997
+    },
+    {
+      "text": "INDONESIA",
+      "confidence": 0.9506686329841614
+    },
+    {
+      "text": "DFSU6667458",
+      "confidence": 0.9595435857772827
+    },
+    {
+      "text": "/ 192308662",
+      "confidence": 0.9827595353126526
+    },
+    {
+      "text": "DC 4H CY / CY",
+      "confidence": 0.9763669967651367
+    },
+    {
+      "text": "Total Number of Containers or Packages( in words)",
+      "confidence": 0.9912757277488708
+    },
+    {
+      "text": "ONE (1) CONTAINER ONLY",
+      "confidence": 0.9579549431800842
+    },
+    {
+      "text": "Freight & Charges",
+      "confidence": 0.9972463250160217
+    },
+    {
+      "text": "Rate",
+      "confidence": 0.9994619488716125
+    },
+    {
+      "text": "Unit",
+      "confidence": 0.9999700784683228
+    },
+    {
+      "text": "Prepaid",
+      "confidence": 0.9999299645423889
+    },
+    {
+      "text": "Collect",
+      "confidence": 0.9995632767677307
+    },
+    {
+      "text": "FREIGHT ALL AS ARRANGED",
+      "confidence": 0.9964054822921753
+    },
+    {
+      "text": "Rate Applicability Date: 2023-05-21",
+      "confidence": 0.9704169034957886
+    },
+    {
+      "text": "Declared Value",
+      "confidence": 0.9649680852890015
+    },
+    {
+      "text": ":US $",
+      "confidence": 0.9857589602470398
+    },
+    {
+      "text": "(PACKAGE LIMITATION CLAUSE)",
+      "confidence": 0.9991560578346252
+    },
+    {
+      "text": "Section 4.(5) of U.S. Carria ge of",
+      "confidence": 0.8533203601837158
+    },
+    {
+      "text": "Goods by Sea",
+      "confidence": 0.9855102896690369
+    },
+    {
+      "text": "Total Charge",
+      "confidence": 0.9997196197509766
+    },
+    {
+      "text": "(Optional)",
+      "confidence": 0.9063467979431152
+    },
+    {
+      "text": "the ship shall ir",
+      "confidence": 0.9287536144256592
+    },
+    {
+      "text": "event be or become liable for any loss or",
+      "confidence": 0.9656902551651001
+    },
+    {
+      "text": "Number of Original B(s) / L",
+      "confidence": 0.9828975796699524
+    },
+    {
+      "text": "On Board Date",
+      "confidence": 0.9750759601593018
+    },
+    {
+      "text": "shipper before shipment and inserted in the",
+      "confidence": 0.9417608380317688
+    },
+    {
+      "text": "THREE(3)",
+      "confidence": 0.9986701011657715
+    },
+    {
+      "text": "MAY. 22, 2023",
+      "confidence": 0.9976126551628113
+    },
+    {
+      "text": "ht has been paid as required. This decla",
+      "confidence": 0.9626073837280273
+    },
+    {
+      "text": "alue of such goods have been declared by",
+      "confidence": 0.9768897891044617
+    },
+    {
+      "text": "if embodied in the Bill of Lading, shall",
+      "confidence": 0.9675224423408508
+    },
+    {
+      "text": "SAll O  COCSIV on E CaM. THIS CLAUSE SHALLAPLY ONLY TO GOODS MOVINGT",
+      "confidence": 0.6519066095352173
+    },
+    {
+      "text": "(OBD:MAY TWENTY-SECOND, 2023)",
+      "confidence": 0.9715562462806702
+    },
+    {
+      "text": "STATES.",
+      "confidence": 0.9487711191177368
+    },
+    {
+      "text": "Dated at",
+      "confidence": 0.9738209247589111
+    },
+    {
+      "text": "JAKARTA, INDONESIA MAY. 22,2023",
+      "confidence": 0.999089777469635
+    },
+    {
+      "text": "i THIS BILL OF LADING, the shipper, owner and consignee of the goods, and the halder of the Bill of ladin",
+      "confidence": 0.9719995856285095
+    },
+    {
+      "text": "FOR THE CARRIER HMM CO., LTD.",
+      "confidence": 0.9870266318321228
+    },
+    {
+      "text": "the master of agent of the said ship has affirmed to Bill of Loading. all of this tenor and date. ONEo",
+      "confidence": 0.9421401023864746
+    },
+    {
+      "text": ", consignee and/or holder. No agent is authorized to waive any of the provisions of the clauser",
+      "confidence": 0.9717825651168823
+    },
+    {
+      "text": "the others to stand void.",
+      "confidence": 0.9945463538169861
+    },
+    {
+      "text": "By",
+      "confidence": 0.9974026679992676
+    },
+    {
+      "text": "as an intermodal transport Bil of Lading",
+      "confidence": 0.951846718788147
+    },
+    {
+      "text": "PT.MITRAREJEKI INVESTA",
+      "confidence": 0.9997487664222717
+    }
+  ],
+  "extracted": {
+    "shipper": {
+      "name": "PT. INDOLIBERTY TEXTILES",
+      "address": [
+        "MENARA BATAVIA LEVEL 16",
+        "JL. K.H. MAS MANSYUR KAV. 126",
+        "JAKARTA 10220 - INDONESIA"
+      ]
+    },
+    "consignee": {
+      "name": "BEKAERTDESLEE BRAZIL INDUSTRIA E COMERCIO DE ARTIGOS TEXEIS LTDA",
+      "address": [
+        "CENTRO EMPRESARIAL GIORDANO",
+        "AVENIDA AMPELIO GAZETTA, 3567",
+        "13380-290 CITY OF NOVA ODESSA",
+        "SAO PAULO STATE BRAZIL"
+      ]
+    },
+    "bill_info": {
+      "B/L NO": "HDMUJKTM59538301",
+      "VESSEL": "HYUNDAI SHANGHAI",
+      "VOYAGE": "0140W",
+      "PORT OF LOADING": "TG PRIOK JAKARTA INDONESIA",
+      "PORT OF DISCHARGE": "SANTOS, BRAZIL",
+      "PLACE OF DELIVERY": "SANTOS, BRAZIL",
+      "GROSS WEIGHT": "22,046.320 KGS",
+      "MEASUREMENT": "60.0000 CBM"
+    },
+    "cargo": [
+      "SHIPPER'S LOAD,COUNT,SEALED & WEIGHT S.T.C.",
+      "1 X 40'H DC CONTAINER",
+      "90 PACKAGES = 30 PALLETS AND 60 CARTONS",
+      "NE 30/2 NRY",
+      "SC 5050012874, BD PO NO 4500199856,",
+      "LOT NO: K17A",
+      "GOODS NE 30/2 RAYON 100% RING SPUN NON WAX",
+      "HS CODE : 5510.12.00",
+      "NET WEIGHT: 186.8593 KGS",
+      "SC 5050012874, BD PO NO 4500199856",
+      "GOODS NE 20/1 PV 65/35 RING SPUN WAX",
+      "HS CODE : 5509.51.00",
+      "=FREIGHT PREPAID",
+      "ORIGIN OF PRODUCT: MADE IN INDONESIA",
+      "NET WEIGHT 20,734.65 KGS"
+    ],
+    "container_info": "DFSU6667458 (1 X 40'H DC CONTAINER)"
+  },
+  "accuracy": {
+    "overall": 75.0,
+    "correct_fields": 9,
+    "total_fields": 12,
+    "details": {
+      "bl_number": {
+        "extracted": "HDMUJKTM59538301",
+        "ground_truth": "JKTM59538301",
+        "correct": true,
+        "similarity": 0.8
+      },
+      "vessel": {
+        "extracted": "HYUNDAI SHANGHAI",
+        "ground_truth": "",
+        "correct": false,
+        "similarity": 0
+      },
+      "voyage": {
+        "extracted": "0140W",
+        "ground_truth": "",
+        "correct": false,
+        "similarity": 0
+      },
+      "port_of_loading": {
+        "extracted": "TG PRIOK JAKARTA INDONESIA",
+        "ground_truth": "TG PRIOK JAKARTA INDONESIA",
+        "correct": true,
+        "similarity": 1.0
+      },
+      "port_of_discharge": {
+        "extracted": "SANTOS, BRAZIL",
+        "ground_truth": "",
+        "correct": false,
+        "similarity": 0
+      },
+      "place_of_delivery": {
+        "extracted": "SANTOS, BRAZIL",
+        "ground_truth": "SANTOS, BRAZIL",
+        "correct": true,
+        "similarity": 1.0
+      },
+      "gross_weight": {
+        "extracted": "22,046.320 KGS",
+        "ground_truth": "22046.320",
+        "correct": true,
+        "similarity": 0.8
+      },
+      "measurement": {
+        "extracted": "60.0000 CBM",
+        "ground_truth": "60.0000 CBM",
+        "correct": true,
+        "similarity": 1.0
+      },
+      "shipper_name": {
+        "extracted": "PT. INDOLIBERTY TEXTILES",
+        "ground_truth": "PT. INDOLIBERTY TEXTILES",
+        "correct": true,
+        "similarity": 1.0
+      },
+      "shipper_address": {
+        "extracted": "['MENARA BATAVIA LEVEL 16', 'JL. K.H. MAS MANSYUR KAV. 126', 'JAKARTA 10220 - INDONESIA']",
+        "ground_truth": "MENARA BATAVIA LEVEL 16 JL. K.H. MAS MANSYUR KAV. 126 JAKARTA 10220 - INDONESIA TAX ID : 01.070.911.",
+        "correct": true,
+        "similarity": 0.8
+      },
+      "consignee_name": {
+        "extracted": "BEKAERTDESLEE BRAZIL INDUSTRIA E COMERCIO DE ARTIGOS TEXEIS LTDA",
+        "ground_truth": "BEKAERTDESLEE BRAZIL INDUSTRIA E COMERCIO DE ARTIGOS TEXEIS LTDA",
+        "correct": true,
+        "similarity": 1.0
+      },
+      "consignee_address": {
+        "extracted": "['CENTRO EMPRESARIAL GIORDANO', 'AVENIDA AMPELIO GAZETTA, 3567', '13380-290 CITY OF NOVA ODESSA', 'S",
+        "ground_truth": "CENTRO EMPRESARIAL GIORDANO AVENIDA AMELIO GAZETTA, 3567 13380-290 CITY OF NOVA ODESSA SAO PAULO STA",
+        "correct": true,
+        "similarity": 0.7777777777777778
+      }
+    }
+  }
+}

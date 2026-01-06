@@ -55,23 +55,31 @@ def calculate_accuracy(extracted_data, ground_truth):
     # 从ground_truth中提取documents[0]的数据
     gt_doc = ground_truth.get('detail', {}).get('documents', [{}])[0]
     
-    # 定义字段映射和比较规则
+    # ✅ 智能字段映射（支持多种可能的字段名）
+    def get_field(doc, *field_names):
+        """尝试从多个可能的字段名中获取值"""
+        for name in field_names:
+            value = doc.get(name, '')
+            if value:
+                return value
+        return ''
+    
     field_comparisons = [
         # 基本信息字段
-        ('bl_number', ['bill_info', 'B/L NO'], gt_doc.get('bill_of_lading__number', '')),
-        ('vessel', ['bill_info', 'VESSEL'], gt_doc.get('vessel', '')),
-        ('voyage', ['bill_info', 'VOYAGE'], gt_doc.get('voyage', '')),
-        ('port_of_loading', ['bill_info', 'PORT OF LOADING'], gt_doc.get('place_of_loading', '')),
-        ('port_of_discharge', ['bill_info', 'PORT OF DISCHARGE'], gt_doc.get('place_of_discharge', '')),
-        ('place_of_delivery', ['bill_info', 'PLACE OF DELIVERY'], gt_doc.get('place_of_delivery', '')),
-        ('gross_weight', ['bill_info', 'GROSS WEIGHT'], gt_doc.get('total_gross_weight_value', '')),
-        ('measurement', ['bill_info', 'MEASUREMENT'], gt_doc.get('measurement', '')),
+        ('bl_number', ['bill_info', 'B/L NO'], get_field(gt_doc, 'bill_of_lading__number', 'bl_number')),
+        ('vessel', ['bill_info', 'VESSEL'], get_field(gt_doc, 'vessel_name', 'vessel')),
+        ('voyage', ['bill_info', 'VOYAGE'], get_field(gt_doc, 'vessel_address', 'voyage')),
+        ('port_of_loading', ['bill_info', 'PORT OF LOADING'], get_field(gt_doc, 'place_of_loading', 'port_of_loading')),
+        ('port_of_discharge', ['bill_info', 'PORT OF DISCHARGE'], get_field(gt_doc, 'place_of_delivery', 'place_of_discharge', 'port_of_discharge')),
+        ('place_of_delivery', ['bill_info', 'PLACE OF DELIVERY'], get_field(gt_doc, 'place_of_delivery')),
+        ('gross_weight', ['bill_info', 'GROSS WEIGHT'], get_field(gt_doc, 'total_gross_weight_value', 'gross_weight')),
+        ('measurement', ['bill_info', 'MEASUREMENT'], get_field(gt_doc, 'measurement')),
         # 发货人信息
-        ('shipper_name', ['shipper', 'name'], gt_doc.get('shipper_company_name', '')),
-        ('shipper_address', ['shipper', 'address'], gt_doc.get('shipper_address', '')),
+        ('shipper_name', ['shipper', 'name'], get_field(gt_doc, 'shipper_company_name', 'shipper_name')),
+        ('shipper_address', ['shipper', 'address'], get_field(gt_doc, 'shipper_address')),
         # 收货人信息
-        ('consignee_name', ['consignee', 'name'], gt_doc.get('consignee_company_name', '')),
-        ('consignee_address', ['consignee', 'address'], gt_doc.get('consignee_address', '')),
+        ('consignee_name', ['consignee', 'name'], get_field(gt_doc, 'consignee_company_name', 'consignee_name')),
+        ('consignee_address', ['consignee', 'address'], get_field(gt_doc, 'consignee_address')),
     ]
     
     correct = 0
@@ -85,7 +93,7 @@ def calculate_accuracy(extracted_data, ground_truth):
         text = str(text).strip().upper()
         # 移除多余空格和特殊字符
         text = re.sub(r'\s+', ' ', text)
-        text = re.sub(r'[,.:;\-_]', '', text)
+        text = re.sub(r'[,.:;\-_()]', '', text)  # ✅ 添加括号
         return text
     
     def get_nested_value(data, keys):
@@ -110,7 +118,7 @@ def calculate_accuracy(extracted_data, ground_truth):
         
         # 比较
         if extracted_norm and gt_norm:
-            # 计算相似度（简单的包含关系）
+            # 计算相似度
             if extracted_norm == gt_norm:
                 is_correct = True
                 similarity = 1.0
@@ -137,7 +145,7 @@ def calculate_accuracy(extracted_data, ground_truth):
                 'extracted': str(extracted_value)[:100],
                 'ground_truth': str(gt_value)[:100],
                 'correct': is_correct,
-                'similarity': similarity
+                'similarity': round(similarity, 2)
             }
         elif not extracted_norm and not gt_norm:
             # 都为空也算正确
@@ -325,7 +333,7 @@ def extract_bill_info(texts):
     load_dotenv()
     
     API_URL = os.getenv('API_URL', 'https://genai.hkbu.edu.hk/api/v0/rest/deployments/gemini-2.5-pro/chat/completions?api-version=v1')
-    API_KEY = os.getenv('API_KEY', 'efd90a7f-da6b-4bc3-af47-52344b6ee95b')
+    API_KEY = os.getenv('API_KEY', '1cd1c0a0-6d63-4c4b-9aba-ab0f07f86d71')
     
     # 合并所有OCR文本
     full_text = "\n".join([str(t) for t in texts if t])
