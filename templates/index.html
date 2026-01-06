@@ -389,6 +389,10 @@
                             <div class="stat-value" id="avgConfidence">0%</div>
                         </div>
                         <div class="stat-card">
+                            <div class="stat-label">准确率</div>
+                            <div class="stat-value" id="accuracy" style="color: #4caf50;">N/A</div>
+                        </div>
+                        <div class="stat-card">
                             <div class="stat-label">文件名</div>
                             <div class="stat-value" id="fileName">-</div>
                         </div>
@@ -420,6 +424,12 @@
                     <div class="info-section">
                         <div class="info-section-title">📊 货物信息 (Cargo)</div>
                         <ul class="cargo-list" id="cargoInfo"></ul>
+                    </div>
+                    
+                    <!-- 准确率详情 -->
+                    <div class="info-section" id="accuracySection" style="display: none;">
+                        <div class="info-section-title">🎯 准确率详情 (Accuracy Details)</div>
+                        <div id="accuracyDetails"></div>
                     </div>
                 </div>
                 
@@ -576,6 +586,77 @@
             
             const avgConf = data.texts.reduce((sum, item) => sum + item.confidence, 0) / data.texts.length;
             document.getElementById('avgConfidence').textContent = (avgConf * 100).toFixed(1) + '%';
+            
+            // 显示准确率
+            const accuracyElement = document.getElementById('accuracy');
+            const accuracySection = document.getElementById('accuracySection');
+            const accuracyDetails = document.getElementById('accuracyDetails');
+            
+            if (data.accuracy && data.accuracy.overall !== undefined) {
+                const acc = data.accuracy.overall;
+                accuracyElement.textContent = acc.toFixed(1) + '%';
+                accuracyElement.style.color = acc >= 80 ? '#4caf50' : (acc >= 60 ? '#ff9800' : '#f44336');
+                
+                // 显示详细信息
+                accuracySection.style.display = 'block';
+                
+                let detailsHTML = `
+                    <div style="margin-bottom: 15px; padding: 15px; background: white; border-radius: 8px;">
+                        <div style="font-size: 1.1em; margin-bottom: 10px;">
+                            <strong>总体准确率:</strong> 
+                            <span style="color: ${acc >= 80 ? '#4caf50' : (acc >= 60 ? '#ff9800' : '#f44336')}; font-size: 1.3em; font-weight: bold;">
+                                ${acc.toFixed(1)}%
+                            </span>
+                        </div>
+                        <div style="color: #666;">
+                            正确字段: ${data.accuracy.correct_fields} / ${data.accuracy.total_fields}
+                        </div>
+                    </div>
+                    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px;">
+                `;
+                
+                const fieldLabels = {
+                    'bl_number': '提单号',
+                    'vessel': '船名',
+                    'voyage': '航次',
+                    'port_of_loading': '装货港',
+                    'port_of_discharge': '卸货港',
+                    'place_of_delivery': '交货地点',
+                    'gross_weight': '毛重',
+                    'measurement': '体积',
+                    'shipper_name': '发货人名称',
+                    'shipper_address': '发货人地址',
+                    'consignee_name': '收货人名称',
+                    'consignee_address': '收货人地址'
+                };
+                
+                for (const [field, detail] of Object.entries(data.accuracy.details)) {
+                    const isCorrect = detail.correct;
+                    const similarity = (detail.similarity * 100).toFixed(0);
+                    const label = fieldLabels[field] || field;
+                    
+                    detailsHTML += `
+                        <div style="background: ${isCorrect ? '#e8f5e9' : '#ffebee'}; padding: 12px; border-radius: 6px; border-left: 3px solid ${isCorrect ? '#4caf50' : '#f44336'};">
+                            <div style="font-weight: bold; margin-bottom: 8px; color: #333;">
+                                ${isCorrect ? '✅' : '❌'} ${label} (${similarity}%)
+                            </div>
+                            <div style="font-size: 0.85em; color: #666; margin-bottom: 4px;">
+                                <strong>提取:</strong> ${detail.extracted || '<空>'}
+                            </div>
+                            <div style="font-size: 0.85em; color: #666;">
+                                <strong>标准:</strong> ${detail.ground_truth || '<空>'}
+                            </div>
+                        </div>
+                    `;
+                }
+                
+                detailsHTML += '</div>';
+                accuracyDetails.innerHTML = detailsHTML;
+            } else {
+                accuracyElement.textContent = 'N/A';
+                accuracyElement.style.color = '#999';
+                accuracySection.style.display = 'none';
+            }
             
             // 显示提单信息
             const billInfo = document.getElementById('billInfo');

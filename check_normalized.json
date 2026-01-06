@@ -59,7 +59,7 @@
       }
     },
     {
-      "file_name": "bealand.No. 205607737.jpg",
+      "file_name": "bealand.No._205607737.jpg",
       "detail": {
         "documents": [
           {
@@ -141,7 +141,7 @@
       }
     },
     {
-      "file_name": "bealand-No. 596661826.png",
+      "file_name": "bealand-No._596661826.png",
       "detail": {
         "documents": [
           {
@@ -255,7 +255,7 @@
       }
     },
     {
-      "file_name": "cma-No. SGHIR203569.png",
+      "file_name": "cma-No._SGHIR203569.png",
       "detail": {
         "documents": [
           {
@@ -313,7 +313,7 @@
       }
     },
     {
-      "file_name": "cordelia-No. CSX23SHKMUN017829.pdf",
+      "file_name": "cordelia-No._CSX23SHKMUN017829.pdf",
       "detail": {
         "documents": [
           {
@@ -420,7 +420,7 @@
       }
     },
     {
-      "file_name": "csl-No.  CSX23SHKMUN017829.png",
+      "file_name": "csl-No.__CSX23SHKMUN017829.png",
       "detail": {
         "documents": [
           {
@@ -490,7 +490,7 @@
       }
     },
     {
-      "file_name": "daco-No. HPBKK18o7061.pdf",
+      "file_name": "daco-No._HPBKK18o7061.pdf",
       "detail": {
         "documents": [
           {
@@ -556,7 +556,7 @@
       }
     },
     {
-      "file_name": "delta-No. TN020819.pdf",
+      "file_name": "delta-No._TN020819.pdf",
       "detail": {
         "documents": [
           {
@@ -616,14 +616,13 @@
             "notify_party_telephone": "",
             "notify_party_email": "",
             "vessel_name": "EVER ACE",
-            "vessel_address": "1908-202N",
-            "consignee_telephone": "0084435739098"
+            "vessel_address": "1908-202N"
           }
         ]
       }
     },
     {
-      "file_name": "foppiani-No. FSL-CGP-00125.png",
+      "file_name": "foppiani-No._FSL-CGP-00125.png",
       "detail": {
         "documents": [
           {
@@ -633,8 +632,8 @@
                 "quantity": 120,
                 "package_type": "CTNS",
                 "description": "T-SHIRT, 100% COTTON SLUB S/J 160 GSM STYLE: ATS1, ATS2, ATS3, ATS4, ATS5, ATS6, ATS7, ATS8, ATS9, ATS0 HS CODE: 61091000 CAT: 4 MBL: YMLUM562097047",
-                "measurement": 14.10,
-                "weight": 2052.00
+                "measurement": 14.1,
+                "weight": 2052.0
               }
             ],
             "container_line_item_info": [
@@ -675,14 +674,13 @@
             "notify_party_telephone": "",
             "notify_party_email": "",
             "vessel_name": "AL QIBLA",
-            "vessel_address": "V-1708W",
-            "consignee_telephone": ""
+            "vessel_address": "V-1708W"
           }
         ]
       }
     },
     {
-      "file_name": "ham-No. 0MEX005751.png",
+      "file_name": "ham-No._0MEX005751.png",
       "detail": {
         "documents": [
           {
@@ -693,7 +691,7 @@
                 "package_type": "Package",
                 "description": "TELEVISIONS HS CODE:852872,",
                 "measurement": 60.696,
-                "weight": 4998.000
+                "weight": 4998.0
               },
               {
                 "marks": "CXDU2395298 Seal-Numbers 0180534 Tare: 3700 KG Size:40' Type:HC Cnt.Ld.:FCLFCL",
@@ -701,7 +699,7 @@
                 "package_type": "Package",
                 "description": "TELEVISIONS HS CODE:852872,",
                 "measurement": 39.567,
-                "weight": 4108.000
+                "weight": 4108.0
               },
               {
                 "marks": "HASU5058505 Seal-Numbers 0230745 Tare: 3860 KG Size:40' Type:HC Cnt.Ld.:FCLFCL",
@@ -709,7 +707,7 @@
                 "package_type": "Package",
                 "description": "TELEVISIONS HS CODE:852872,",
                 "measurement": 41.125,
-                "weight": 3386.400
+                "weight": 3386.4
               },
               {
                 "marks": "MRKU5741102 Seal-Numbers 0180579 Tare: 3810 KG",
@@ -717,7 +715,7 @@
                 "package_type": "Package",
                 "description": "TELEVISIONS",
                 "measurement": 30.786,
-                "weight": 2926.000
+                "weight": 2926.0
               }
             ],
             "container_line_item_info": [
@@ -770,14 +768,13 @@
             "notify_party_telephone": "+57 (1) 5185449",
             "notify_party_email": "SELENE.CAMPOS@PANTOS.COM",
             "vessel_name": "SKAGEN MAERSK",
-            "vessel_address": "007 S",
-            "consignee_telephone": "+57 (1) 5185449"
+            "vessel_address": "007 S"
           }
         ]
       }
     },
     {
-      "file_name": "hapagLloyd-No. HLCULIV130219209.pdf",
+      "file_name": "hapagLloyd-No._HLCULIV130219209.pdf",
       "detail": {
         "documents": [
           {
@@ -829,14 +826,13 @@
             "notify_party_telephone": "91 94458 47282",
             "notify_party_email": "BLR@EMERALDRELOCATIONS.COM",
             "vessel_name": "RIO DE LA PLATA",
-            "vessel_address": "3208",
-            "consignee_telephone": "91 94458 47282"
+            "vessel_address": "3208"
           }
         ]
       }
     },
     {
-      "file_name": "hmm-No. JKTM59538301.png",
+      "file_name": "hmm-No._JKTM59538301.png",
       "detail": {
         "documents": [
           {
@@ -846,8 +842,8 @@
                 "quantity": 90,
                 "package_type": "PACKAGES",
                 "description": "\"SHIPPER'S LOAD, COUNT, SEALED & WEIGHT S.T.C.\" 1 X 40'H DC CONTAINER 30 PALLETS AND 60 CARTONS SC 5050012874, BD PO NO 4500199856, GOODS NE 30/2 RAYON 100% RING SPUN NON WAX HS CODE : 5510.12.00 SC 5050012874, BD PO NO 4500199856, GOODS NE 20/1 PV 65/35 RING SPUN WAX HS CODE : 5509.51.00",
-                "measurement": 60.0000,
-                "weight": 22046.320
+                "measurement": 60.0,
+                "weight": 22046.32
               }
             ],
             "container_line_item_info": [
@@ -888,14 +884,13 @@
             "notify_party_telephone": "",
             "notify_party_email": "",
             "vessel_name": "HYUNDAI SHANGHAI V",
-            "vessel_address": "0140W",
-            "consignee_telephone": ""
+            "vessel_address": "0140W"
           }
         ]
       }
     },
     {
-      "file_name": "house-No. BFTP09714961.png",
+      "file_name": "house-No._BFTP09714961.png",
       "detail": {
         "documents": [
           {
@@ -906,7 +901,7 @@
                 "package_type": "UNIT",
                 "description": "USED HONDA Fit Hybrid CHASSIS: GP4-1007807 Ref No: BM578311 1 UNIT INTRANSIT TO Zimbabwe VIA Dar es Salaam",
                 "measurement": 10.044,
-                "weight": 1435.000
+                "weight": 1435.0
               }
             ],
             "container_line_item_info": [],
@@ -942,14 +937,13 @@
             "notify_party_telephone": "",
             "notify_party_email": "ftmndidi@gmail.com",
             "vessel_name": "HOEGH BRASILIA",
-            "vessel_address": "107",
-            "consignee_telephone": "+263779670247"
+            "vessel_address": "107"
           }
         ]
       }
     },
     {
-      "file_name": "infiniti-No. E4F08N_318.png",
+      "file_name": "infiniti-No._E4F08N_318.png",
       "detail": {
         "documents": [
           {
@@ -960,7 +954,7 @@
                 "package_type": "40HC CONTAINER",
                 "description": "1 40HC CONTAINER STC : SOLAR MODULE MODEL : GS-M144-435-FAB2 MATERIAL SOLAR CELL MANUFACTURE BY PT ALI SOLAR CELL, INDONESIA INVOICE NO : NUSA 20240627001",
                 "measurement": 54.09,
-                "weight": 19722.00
+                "weight": 19722.0
               }
             ],
             "container_line_item_info": [
@@ -1001,14 +995,13 @@
             "notify_party_telephone": "",
             "notify_party_email": "",
             "vessel_name": "INFINITI 5",
-            "vessel_address": "E4F08N",
-            "consignee_telephone": ""
+            "vessel_address": "E4F08N"
           }
         ]
       }
     },
     {
-      "file_name": "kmtc-No. KMTCXGG2505266.png",
+      "file_name": "kmtc-No._KMTCXGG2505266.png",
       "detail": {
         "documents": [
           {
@@ -1018,8 +1011,8 @@
                 "quantity": 4868,
                 "package_type": "CARTONS",
                 "description": "\"SHIPPER'S LOAD, COUNT & SEAL\" \"SAID TO CONTAIN\" 4X40'RH 4868CARTONS FRESH PEAR HS CODE:0808.30 CARGO IS STOWED IN REFRIGERATED CONTAINER(S) SET AT THE SHIPPER'S REQUESTED CARRYING TEMPERATURE OF - DEGREES OF CELSIUS (+0C) VENTILATION: 25CBM/HOUR",
-                "measurement": 200.0000,
-                "weight": 87404.000
+                "measurement": 200.0,
+                "weight": 87404.0
               }
             ],
             "container_line_item_info": [
@@ -1072,8 +1065,7 @@
             "notify_party_telephone": "",
             "notify_party_email": "",
             "vessel_name": "SUNNY IRIS",
-            "vessel_address": "2314E",
-            "consignee_telephone": ""
+            "vessel_address": "2314E"
           }
         ]
       }
@@ -1089,8 +1081,8 @@
                 "quantity": 71,
                 "package_type": "PACKAGES",
                 "description": "1 Container Said to Contain 71 PACKAGES ALUMINIUM EXTRUSIONS CONNECTION PARTS PLASTIC COVER U CHANNEL SAY SEVENTY-ONE PACKAGES ONLY. SHIPPER'S LOAD, STOW, WEIGHT AND COUNT FREIGHT PREPAID CY/CY",
-                "measurement": 34.5110,
-                "weight": 15907.140
+                "measurement": 34.511,
+                "weight": 15907.14
               }
             ],
             "container_line_item_info": [
@@ -1131,14 +1123,13 @@
             "notify_party_telephone": "",
             "notify_party_email": "",
             "vessel_name": "SVENDBORG MAERSK",
-            "vessel_address": "952E",
-            "consignee_telephone": ""
+            "vessel_address": "952E"
           }
         ]
       }
     },
     {
-      "file_name": "Maersk-No. 21033750.png",
+      "file_name": "Maersk-No._21033750.png",
       "detail": {
         "documents": [
           {
@@ -1148,8 +1139,8 @@
                 "quantity": 7500,
                 "package_type": "BALES",
                 "description": "1 Container Said to Contain 7500 BALES 01 X 40 CNTR STC 5000 BALES OF TOP QUALITY WOMEN SHOES 2500 BALES OF TOP QUALITY MEN TENNIS -SHOES TOTAL OF ITEMS : 7500 BALES TOTAL NET WEIGHT: 67829 KGS TOTAL GROSS WEIGHT: 68000 KGS SHIPPED LOAD,STOW,WEIGHT AND COUNT FREIGHT PREPAID CY/CY APPLICABLE FREE TIMES 14 DAYS COMBINED (DETENTION & DEMURRAGE) AT (PORT OF DISCHARGE / PLACE OF DELIVERY).",
-                "measurement": 98.000,
-                "weight": 68000.000
+                "measurement": 98.0,
+                "weight": 68000.0
               }
             ],
             "container_line_item_info": [
@@ -1190,14 +1181,13 @@
             "notify_party_telephone": "",
             "notify_party_email": "",
             "vessel_name": "MSC MARIA ELENA",
-            "vessel_address": "121W",
-            "consignee_telephone": ""
+            "vessel_address": "121W"
           }
         ]
       }
     },
     {
-      "file_name": "Maersk-No. 217077365.png",
+      "file_name": "Maersk-No._217077365.png",
       "detail": {
         "documents": [
           {
@@ -1207,8 +1197,8 @@
                 "quantity": 1200,
                 "package_type": "cartons",
                 "description": "1 x 40' Reefer Container said to contain 1200 cartons NET WEIGHT: 6600.00 KGS GROSS WEIGHT: 7200.00 KGS MAINTENANCE TEMPERATURE: 2°C SHIPPER SEAL: FREIGHT PREPAID CY/CY",
-                "measurement": 60.000,
-                "weight": 7200.00
+                "measurement": 60.0,
+                "weight": 7200.0
               }
             ],
             "container_line_item_info": [],
@@ -1244,14 +1234,13 @@
             "notify_party_telephone": "",
             "notify_party_email": "",
             "vessel_name": "GALAN1",
-            "vessel_address": "217N",
-            "consignee_telephone": ""
+            "vessel_address": "217N"
           }
         ]
       }
     },
     {
-      "file_name": "Maersk-No. 228832134.png",
+      "file_name": "Maersk-No._228832134.png",
       "detail": {
         "documents": [
           {
@@ -1261,8 +1250,8 @@
                 "quantity": 1400,
                 "package_type": "CARTONS",
                 "description": "2 containers said to contain 1400 CARTONS 10 CTNS OF CLOTHES 11 CTNS OF SHOES 7 CTNS OF SOFA 730 CTNS OF MOTOCYCLE SPARE PARTS 642 CTNS OF AUTO SPARE PARTS ECTN NO:CN101-104560-10 MRKU9998357 ML-CN2691846 20 DRY 8'6 600 CARTONS 28000.000 KGS 28.0000 CBM PONU8112213 ML-CN2553099 40 DRY 9'6 800 CARTONS 28000.000 KGS 68.0000 CBM SHIPPER'S LOAD, STOW, WEIGHT AND COUNT This shipment is subject to compliance with Maersk policy on shipments from Russia and Belarus (available on Maersk.com) and UN, EU and US sanctions and export control laws, including US and EU sanctions laws applicable to Russia and Belarus. By proceeding, the Shipper represents that this booking is in no way violating Maersk's policy on shipments from Russia and Belarus, that the shipment does not involve, nor shall it involve, in either context directly or indirectly, in any way any entity or person subject to sanctions, including any entity or person subject to sanctions relating to Russia and/or Belarus and that this booking does not include any items prohibited by sanctions for exports from Russia and/or",
-                "measurement": 96.0000,
-                "weight": 56000.000
+                "measurement": 96.0,
+                "weight": 56000.0
               }
             ],
             "container_line_item_info": [
@@ -1307,14 +1296,13 @@
             "notify_party_telephone": "",
             "notify_party_email": "",
             "vessel_name": "APL HOUSTON",
-            "vessel_address": "326W",
-            "consignee_telephone": "00242 0550 22868 /00242 0640 18565"
+            "vessel_address": "326W"
           }
         ]
       }
     },
     {
-      "file_name": "MAERSK-No. 243140829.png",
+      "file_name": "MAERSK-No._243140829.png",
       "detail": {
         "documents": [
           {
@@ -1324,8 +1312,8 @@
                 "quantity": 442,
                 "package_type": "CARTONS",
                 "description": "1 Container Said to Contain 442 CARTONS BACKPACK **CALI-COLOMBIA ML MRKU3191687 ML-CN7665845 40 DRY 9'6 442 CARTONS 16439.000 KGS 68.0000 CBM SHIPPER'S LOAD, STOW, WEIGHT AND COUNT FREIGHT PREPAID The Merchant(s) warrant and represent that this shipment and/or Goods will comply at all times with European Union, United States and United Nations sanctions and/or export control laws (Sanctions Laws), and that this shipment and/or Goods do not involve, whether directly or indirectly, any entity or person identified, or owned or controlled by any such entity or person identified, on the U.S. Treasury Departments Office of Foreign Asset Control (OFAC) list of Specially Designated Nationals and Blocked Persons, or any other similar list maintained by the European Union, or as promulgated by the United Nations Security Council (Designated Person). If, in the Carriers reasonable opinion, this shipment and/or Goods are in violation of the Carriers policy on Russia [https://www.maersk.com/news/articles/2022/02/24/russia-ukraine-situation-update], Sanctions Laws or involves any Designated Person, the shipment and/or Goods will be returned to the origin at Carriers sole and unfettered discretion, and the Merchant(s) shall",
-                "measurement": 68.0000,
-                "weight": 16439.000
+                "measurement": 68.0,
+                "weight": 16439.0
               }
             ],
             "container_line_item_info": [
@@ -1366,14 +1354,13 @@
             "notify_party_telephone": "",
             "notify_party_email": "",
             "vessel_name": "MAERSK YUKON",
-            "vessel_address": "425E",
-            "consignee_telephone": "602-4896060"
+            "vessel_address": "425E"
           }
         ]
       }
     },
     {
-      "file_name": "Maersk-No. 252867682.png",
+      "file_name": "Maersk-No._252867682.png",
       "detail": {
         "documents": [
           {
@@ -1383,8 +1370,8 @@
                 "quantity": 2,
                 "package_type": "UNITS",
                 "description": "1 Container Said to Contain 2 UNITS TOYOTA LAND CRUISER PICK UP CHASSIS: JTERV71J1U8011052 COLOR: WHITE YEAR: 2019 TOYOTA LAND CRUISER PICK UP CHASSIS: JTERV71J8U8004839 COLOR: WHITE YEAR: 2019 Final Destination \"MITCHELL COTTS CFS SHIMANZI OFFICE (MIT) MOMBASA\" for stripping on CONSIGNEE risk and account. MRKUS791783 ML-ML4348454 40 DRY 9'6 2 UNITS 4400.00 KGS 95.000 CBM SHIPPER'S LOAD, STOW, WEIGHT AND COUNT FREIGHT PREPAID The Merchant(s) warrant and represent that this shipment and/or Goods will comply at all times with European Union, United States and United Nations sanctions and/or export control laws (Sanctions Laws), and that this shipment and/or Goods do not involve, whether directly or indirectly, any entity or person identified, or owned or controlled by any",
-                "measurement": 95.000,
-                "weight": 4400.00
+                "measurement": 95.0,
+                "weight": 4400.0
               }
             ],
             "container_line_item_info": [
@@ -1425,14 +1412,13 @@
             "notify_party_telephone": "",
             "notify_party_email": "BMKEmonmbasa@gmail.com",
             "vessel_name": "MAERSK BOSTON",
-            "vessel_address": "617W",
-            "consignee_telephone": "(+254) 712 319565"
+            "vessel_address": "617W"
           }
         ]
       }
     },
     {
-      "file_name": "Maersk-No. 255623927.png",
+      "file_name": "Maersk-No._255623927.png",
       "detail": {
         "documents": [
           {
@@ -1442,8 +1428,8 @@
                 "quantity": 3,
                 "package_type": "Package",
                 "description": "1 Container Said to Contain 3 Package 10 CONTAINER 40 HC OPEN TOP CONTENIENDO: 33 ENREDADOS DE MADERA Y 02 CAJAS DE MADERA CON: 03 CJ RELLENO DE CONTACTO TIPO W20, MARCA ALPINA ARMADA, PARA TORRE DE ENFRIAMIENTO DE AGUA MODEL PPU-84/4 4 CAMADAS 02 CJ ELIMINADOR DE GOTAS, MARCA ALPINA, EN PVC, CON 35MM, PARA TORRE DE ENFRIAMIENTO DE AGUA MODEL PPU-84/4 4 CAMADAS CLEAN ON BOARD SHIPPED ON BOARD FREIGHT PREPAID FACTURA COMERCIAL NR.: SE/69.825",
-                "measurement": 50.6900,
-                "weight": 2115.000
+                "measurement": 50.69,
+                "weight": 2115.0
               }
             ],
             "container_line_item_info": [],
@@ -1479,14 +1465,13 @@
             "notify_party_telephone": "+51544700018",
             "notify_party_email": "RODOLFO.FLOREZ@GLENCORE.COM.PE",
             "vessel_name": "MAERSK ACADIA",
-            "vessel_address": "528W",
-            "consignee_telephone": "+51544700018"
+            "vessel_address": "528W"
           }
         ]
       }
     },
     {
-      "file_name": "Maersk-No. 273125974.png",
+      "file_name": "Maersk-No._273125974.png",
       "detail": {
         "documents": [
           {
@@ -1496,8 +1481,8 @@
                 "quantity": 119,
                 "package_type": "PACKAGES",
                 "description": "14 containers said to contain 119 PACKAGES STEEL STRIP HS CODE:7210.49 NO SHIPPING MARK MSKU7936065 ML-CN4573736 20 DRY 8'6 8 PACKAGES 22500.000 KGS 20.0500 CBM TRHU1132588 ML-CN4081015 20 DRY 8'6 11 PACKAGES 22500.000 KGS 20.0000 CBM MRKU6671376 ML-CN4581553 20 DRY 8'6 7 PACKAGES 22500.000 KGS 20.0500 CBM MSKU3581305 ML-CN4981008 20 DRY 8'6 11 PACKAGES 22500.000 KGS 20.0500 CBM MRKU7895112 ML-CN4073731 20 DRY 8'6 12 PACKAGES 22500.000 KGS 20.0500 CBM MRKU9911505 ML-CN4081567 20 DRY 8'6 8 PACKAGES 22500.000 KGS 20.0500 CBM MSKU7289150 ML-CN4073739 20 DRY 8'6 10 PACKAGES 22500.000 KGS 20.0500 CBM",
-                "measurement": 280.0000,
-                "weight": 315000.000
+                "measurement": 280.0,
+                "weight": 315000.0
               }
             ],
             "container_line_item_info": [
@@ -1562,14 +1547,13 @@
             "notify_party_telephone": "",
             "notify_party_email": "",
             "vessel_name": "ARISTOTINA",
-            "vessel_address": "402S",
-            "consignee_telephone": ""
+            "vessel_address": "402S"
           }
         ]
       }
     },
     {
-      "file_name": "Maersk-No. 565107057.png",
+      "file_name": "Maersk-No._565107057.png",
       "detail": {
         "documents": [
           {
@@ -1579,8 +1563,8 @@
                 "quantity": 5490,
                 "package_type": "J. CANS",
                 "description": "1Containers said to contain 5490 J. CANS SHIPPING MARKS HCJE/17851 FREIGHT PAYYABLE AT SURABAYA-INDONESIE, IDN NUMBER OF J. CANS 5490 DISRIBUTION AS PER PURCHASE ORDER THE GOODS HAVE BEEN SHIPPED ON BY THE NIMINATED LINER AS ADVISED BY THE APPLICANT IN A CERTIFIED FORMAT WITH THE RNA SEAL MSKU1395641 40 DRY 9'6 5490 J. CANS 137.250 KGS Shipper Seal : 1KT229414 SHIPPER'S LOAD, STOW, WEIGHT AND COUNT FREIGHT COLLECT CY/CY",
-                "measurement": 21000.000,
-                "weight": 137.250
+                "measurement": 21000.0,
+                "weight": 137.25
               }
             ],
             "container_line_item_info": [
@@ -1621,14 +1605,13 @@
             "notify_party_telephone": "",
             "notify_party_email": "",
             "vessel_name": "FOLEGANDROS",
-            "vessel_address": "V. 133N",
-            "consignee_telephone": ""
+            "vessel_address": "V. 133N"
           }
         ]
       }
     },
     {
-      "file_name": "Maersk-No. 592800119.png",
+      "file_name": "Maersk-No._592800119.png",
       "detail": {
         "documents": [
           {
@@ -1638,8 +1621,8 @@
                 "quantity": 236,
                 "package_type": "PACKAGES",
                 "description": "1 Container Said to Contain 236 PACKAGES 1X20' CONTAINER TWO HUNDRED THIRTY SIX PACKAGES OF POLISHED GRANITE SLABS 2CM INV. NO: SG-25/19-20 DT 16.03.2020 IEC NO :AAOCS8316G S.BILL NO :.2221560 DT 18.03.2020 HS CODE :68022399 TOTAL NET WT : 27000.000 KGS FREIGHT PREPAID 01 TO 236 PONU2113608 ML-IN2806774 20 DRY 8'6 236 PACKAGES 28000.000 KGS 20.0000 CBM Shipper Seal : SBA6627 Customs Seal : NA SHIPPER'S LOAD, STOW, WEIGHT AND COUNT The place of issuance of this document shall be deemed to be the Maersk line India Pvt Ltd office located either in the same State or the nearest state with respect to the above referenced cargo pick-up / drop-off location",
-                "measurement": 20.0000,
-                "weight": 28000.000
+                "measurement": 20.0,
+                "weight": 28000.0
               }
             ],
             "container_line_item_info": [
@@ -1680,14 +1663,13 @@
             "notify_party_telephone": "0904644673",
             "notify_party_email": "nguyenengamturk@gmail.com",
             "vessel_name": "NORTHERN PROMOTION",
-            "vessel_address": "013E",
-            "consignee_telephone": ""
+            "vessel_address": "013E"
           }
         ]
       }
     },
     {
-      "file_name": "Maersk-No. 720753508.png",
+      "file_name": "Maersk-No._720753508.png",
       "detail": {
         "documents": [
           {
@@ -1697,8 +1679,8 @@
                 "quantity": 4100,
                 "package_type": "PACKAGES",
                 "description": "2 containers said to contain 4100 PACKAGES ALUMINIUM COMPOSITE PANEL HS CODE:760612 *TEL:+86 18553906251 **TAX ID : 0278 2049 7901 6000 TELP : 081181187521 N/M SUDU7570750 ML-CN2002614 20 DRY 8'6 2050 PACKAGES 27600.000 KGS 18.3000 CBM MRKU7415384 ML-CN2002615 20 DRY 8'6 2050 PACKAGES 27600.000 KGS 18.3000 CBM The Merchant(s) warrant and represent that this shipment and/or Goods will comply at all times with European Union, United States and United Nations sanctions and/or export control laws (Sanctions Laws), and that this shipment and/or Goods do not involve,",
-                "measurement": 36.6000,
-                "weight": 55200.000
+                "measurement": 36.6,
+                "weight": 55200.0
               }
             ],
             "container_line_item_info": [
@@ -1743,8 +1725,7 @@
             "notify_party_telephone": "",
             "notify_party_email": "",
             "vessel_name": "HANSA BITBURG",
-            "vessel_address": "545E",
-            "consignee_telephone": ""
+            "vessel_address": "545E"
           }
         ]
       }
@@ -1761,7 +1742,7 @@
                 "package_type": "BAGS",
                 "description": "1 Container Said to Contain 275 BAGS OF 70 KG. NET BOLIVIA WASHED ARABICA COFFEE PRIMERA ORGANIC, CROP 2007 ICO 113-2 INVOICE COMERCIAL No. 0055 POSICION ARANCELARIA: 09011190 000 FCA 1191550957 MSKU3962723 MLSA2500590 20 DRY 8'6 275 BAGS 19470.00 KGS SHIPPER'S LOAD; STOW; WEIGHT AND COUNT",
                 "measurement": "",
-                "weight": 19470.00
+                "weight": 19470.0
               }
             ],
             "container_line_item_info": [
@@ -1802,14 +1783,13 @@
             "notify_party_telephone": "(229) 924-3035",
             "notify_party_email": "",
             "vessel_name": "MAERSK RIO GRANDE",
-            "vessel_address": "0764",
-            "consignee_telephone": "+1-229-924-3035"
+            "vessel_address": "0764"
           }
         ]
       }
     },
     {
-      "file_name": "MAERSK-No. 953074879.pdf",
+      "file_name": "MAERSK-No._953074879.pdf",
       "detail": {
         "documents": [
           {
@@ -1819,24 +1799,24 @@
                 "quantity": 2,
                 "package_type": "vehicles",
                 "description": "Vehicle Ref and Type270743 Toyota Land Cruiser 200 Station Wagon GX V8 Tw in TD 8 seats Automatic (Alarm, Climate Ctrl, Cool Box, R. Rail) Chassis No.JTMHV09J-X04160007 Year of Manuf.2014 Engine No.1VD-0273330 Grand Total Weight(Kg)2668.07 19.3m3\n\nVehicle Ref and Type270744 Toyota Land Cruiser 200 Station Wagon GX V8 Tw in TD 8 seats Automatic (Alarm, Climate Ctrl, Cool Box, R. Rail) Chassis No.JTMHV09J-004160078 Year of Manuf.2014 Engine No.1VD-0273447 Grand Total Weight(Kg)2668.07 19.3m3\n\nShipping Marks: TZA10-0000012984\n\nAccessories Included",
-                "measurement": 38.600,
-                "weight": 5336.140
+                "measurement": 38.6,
+                "weight": 5336.14
               },
               {
                 "marks": "TZA10-0000012984",
                 "quantity": 1,
                 "package_type": "vehicles",
                 "description": "Vehicle Ref and Type271640 Toyota Land Cruiser 200 Station Wagon GX V8 Tw in TD 8 seats Automatic (Alarm, Climate Ctrl, Cool Box, R. Rail) Chassis No.JTMHV09J-004161733 Year of Manuf.2014 Engine No.1VD-0275814 Grand Total Weight(Kg)2668.07 19.3m3\n\nShipping Marks: TZA10-0000012984\n\nAccessories Included",
-                "measurement": 19.300,
-                "weight": 2668.070
+                "measurement": 19.3,
+                "weight": 2668.07
               },
               {
                 "marks": "TZA10-0000012984",
                 "quantity": 1,
                 "package_type": "vehicles",
                 "description": "Vehicle Ref and Type268896 Toyota Land Cruiser 200 Station Wagon STD V8 T win TD 9 seats Manual (Airbags, Air Conditioning, Roof Rack) Chassis No.JTMHV03J-904144648 Year of Manuf.2014 Engine No.1VD-0257314 Grand Total Weight(Kg)2692.57 19.3m3\n\nShipping Marks: TZA10-0000012984\n\nAccessories Included",
-                "measurement": 19.300,
-                "weight": 2692.570
+                "measurement": 19.3,
+                "weight": 2692.57
               }
             ],
             "container_line_item_info": [
@@ -1885,14 +1865,13 @@
             "notify_party_telephone": "",
             "notify_party_email": "",
             "vessel_name": "MAERSK WISCONSIN",
-            "vessel_address": "",
-            "consignee_telephone": "(+255) 22-211-2576"
+            "vessel_address": ""
           }
         ]
       }
     },
     {
-      "file_name": "MAERSK-No. 953074879.png",
+      "file_name": "MAERSK-No._953074879.png",
       "detail": {
         "documents": [
           {
@@ -1902,8 +1881,8 @@
                 "quantity": 2,
                 "package_type": "vehicles",
                 "description": "Vehicle Ref and Type270743 Toyota Land Cruiser 200 Station Wagon GX V8 Tw in TD 8 seats Automatic (Alarm, Climate Ctrl, Cool Box, R. Rail) Chassis No.JTMHV09J-X04160007 Year of Manuf.2014 Engine No.1VD-0273330 Grand Total Weight(Kg)2668.07 19.3m3\n\nVehicle Ref and Type270744 Toyota Land Cruiser 200 Station Wagon GX V8 Tw in TD 8 seats Automatic (Alarm, Climate Ctrl, Cool Box, R. Rail) Chassis No.JTMHV09J-004160078 Year of Manuf.2014 Engine No.1VD-0273447 Grand Total Weight(Kg)2668.07 19.3m3\n\nShipping Marks: TZA10-0000012984\n\nAccessories Included",
-                "measurement": 38.600,
-                "weight": 5336.140
+                "measurement": 38.6,
+                "weight": 5336.14
               }
             ],
             "container_line_item_info": [
@@ -1944,14 +1923,13 @@
             "notify_party_telephone": "",
             "notify_party_email": "",
             "vessel_name": "MAERSK WISCONSIN",
-            "vessel_address": "1505",
-            "consignee_telephone": "(+255) 22-211-2576"
+            "vessel_address": "1505"
           }
         ]
       }
     },
     {
-      "file_name": "MAERSK-No. 953164087.pdf",
+      "file_name": "MAERSK-No._953164087.pdf",
       "detail": {
         "documents": [
           {
@@ -1961,16 +1939,16 @@
                 "quantity": 2,
                 "package_type": "vehicles",
                 "description": "Vehicle Ref and Type271527 Toyota Land Cruiser 76 Hardtop 10 seater, 5 do or (Airbags, Air Conditioning, Roof Rack) Chassis No.JTEEB71J-507027486 Year of Manuf.2014 Engine No.1HZ-0812276 Grand Total Weight(Kg)2246.33 16.3m3\n\nVehicle Ref and Type271528 Toyota Land Cruiser 76 Hardtop 10 seater, 5 do or (Airbags, Air Conditioning, Roof Rack) Chassis No.JTEEB71J-907027468 Year of Manuf.2014 Engine No.1HZ-0812016 Grand Total Weight(Kg)2246.33 16.3m3\n\nAccessories Included\n\nShipping Marks: TZA10-0000012993",
-                "measurement": 32.600,
-                "weight": 4492.660
+                "measurement": 32.6,
+                "weight": 4492.66
               },
               {
                 "marks": "TZA10-0000012993",
                 "quantity": 1,
                 "package_type": "vehicle",
                 "description": "Vehicle Ref and Type271526 Toyota Land Cruiser 76 Hardtop 10 seater, 5 do or (Airbags, Air Conditioning, Roof Rack) Chassis No.JTEEB71J-407027477 Year of Manuf.2014 Engine No.1HZ-0812207 Grand Total Weight(Kg)2246.33 16.3m3\n\nAccessories Included\n\nShipping Marks: TZA10-0000012993",
-                "measurement": 16.300,
-                "weight": 2246.330
+                "measurement": 16.3,
+                "weight": 2246.33
               }
             ],
             "container_line_item_info": [
@@ -2015,14 +1993,13 @@
             "notify_party_telephone": "",
             "notify_party_email": "",
             "vessel_name": "SEA LAND RACER",
-            "vessel_address": "1505",
-            "consignee_telephone": "(+255) 22-211-2576"
+            "vessel_address": "1505"
           }
         ]
       }
     },
     {
-      "file_name": "MAERSK-No. 953164182.pdf",
+      "file_name": "MAERSK-No._953164182.pdf",
       "detail": {
         "documents": [
           {
@@ -2032,24 +2009,24 @@
                 "quantity": 2,
                 "package_type": "vehicles",
                 "description": "Vehicle Ref and Type271521 Toyota Land Cruiser 76 Hardtop 10 seater, 5 do or (Airbags, Air Conditioning, Roof Rack) Chassis No.JTEEB71J-007027492 Year of Manuf.2014 Engine No.1HZ-0812335 Grand Total Weight(Kg)2241.37 16.3m3\n\nVehicle Ref and Type271522 Toyota Land Cruiser 76 Hardtop 10 seater, 5 do or (Airbags, Air Conditioning, Roof Rack) Chassis No.JTEEB71J-307027498 Year of Manuf.2014 Engine No.1HZ-0812360 Grand Total Weight(Kg)2241.37 16.3m3\n\nAccessories Included\n\nShipping Marks: TZA10-0000012984",
-                "measurement": 32.600,
-                "weight": 4482.740
+                "measurement": 32.6,
+                "weight": 4482.74
               },
               {
                 "marks": "TZA10-0000012984",
                 "quantity": 1,
                 "package_type": "vehicles",
                 "description": "Vehicle Ref and Type271520 Toyota Land Cruiser 76 Hardtop 10 seater, 5 do or (Airbags, Air Conditioning, Roof Rack) Chassis No.JTEEB71J-007027380 Year of Manuf.2014 Engine No.1HZ-0811438 Grand Total Weight(Kg)2241.37 16.3m3\n\nAccessories Included\n\nShipping Marks: TZA10-0000012984",
-                "measurement": 16.300,
-                "weight": 2241.370
+                "measurement": 16.3,
+                "weight": 2241.37
               },
               {
                 "marks": "TZA10-0000012984",
                 "quantity": 2,
                 "package_type": "vehicles",
                 "description": "Vehicle Ref and Type271523 Toyota Land Cruiser 76 Hardtop 10 seater, 5 do or (Airbags, Air Conditioning, Roof Rack) Chassis No.JTEEB71J-207027428 Year of Manuf.2014 Engine No.1HZ-0811886 Grand Total Weight(Kg)2241.37\n\nVehicle Ref and Type271524 Toyota Land Cruiser 76 Hardtop 10 seater, 5 do or (Airbags, Air Conditioning, Roof Rack) Chassis No.JTEEB71J-307027468 Year of Manuf.2014 Engine No.1HZ-0812130 Grand Total Weight(Kg)2241.37\n\n16.3m3\n\nAccessories Included\n\nShipping Marks: TZA10-0000012984",
-                "measurement": 32.600,
-                "weight": 4482.740
+                "measurement": 32.6,
+                "weight": 4482.74
               }
             ],
             "container_line_item_info": [
@@ -2098,14 +2075,13 @@
             "notify_party_telephone": "",
             "notify_party_email": "",
             "vessel_name": "SEA LAND RACER",
-            "vessel_address": "1505",
-            "consignee_telephone": "(+255) 22-211-2576"
+            "vessel_address": "1505"
           }
         ]
       }
     },
     {
-      "file_name": "Maersk-No. 956537323.png",
+      "file_name": "Maersk-No._956537323.png",
       "detail": {
         "documents": [
           {
@@ -2116,7 +2092,7 @@
                 "package_type": "CARTONS",
                 "description": "1 Container Said to Contain 18 PALLETS, 1782 CARTONS \"SHIPPER'S PACK LOAD COUNT & SEAL\" \"FREIGHT PREPAID\" SAY: 1 CONTAINER ONLY\n\nFROZEN HEAD OFF, GUT OFF, TAIL OFF PANGASIUS NET WEIGHT: 17820.00 KGS GROSS WEIGHT: 18801.00 KGS MAINTENANCE TEMPERATURE -18 C\n\nFLC/FLC BEAU237102 40 REEF 9'6, 18 PALLETS, 1982 CARTONS 18801.000 KGS Temperature: -18.0C Shipper Seal : KD250803",
                 "measurement": 42.768,
-                "weight": 18801.00
+                "weight": 18801.0
               }
             ],
             "container_line_item_info": [
@@ -2157,14 +2133,13 @@
             "notify_party_telephone": "+31 (0) 527680680",
             "notify_party_email": "info@seaconproduction.nl",
             "vessel_name": "NIMIOTTE MAERSK",
-            "vessel_address": "3445",
-            "consignee_telephone": "+31 (0) 527680680"
+            "vessel_address": "3445"
           }
         ]
       }
     },
     {
-      "file_name": "Maersk-No. SSZ716110.png",
+      "file_name": "Maersk-No._SSZ716110.png",
       "detail": {
         "documents": [
           {
@@ -2174,8 +2149,8 @@
                 "quantity": 1716,
                 "package_type": "CARTONS",
                 "description": "1 Container Said to Contain 1,716 CARTONS\n\n01X40' STC:\n1.716 CARTONS CONTAINING:\n832 CARTONS WITH: FROZEN CHICKEN LEG BONELESS, IN UNIFORM NET WEIGHT 12KG CARTONS, BIG FRANGO BRAND. 334 CARTONS WITH: FROZEN CHICKEN LEG BONELESS, IN UNIFORM NET WEIGHT 15KG CARTONS, BIG FRANGO BRAND. 100 CARTONS WITH: FROZEN WHOLE CHICKEN WINGS, IN UNIFORM NET WEIGHT 20KG CARTONS, BIG FRANGO BRAND. 150 CARTONS WITH: FROZEN WHOLE CHICKEN DRUMETTES, IN UNIFORM NET WEIGHT 20KG CARTONS, BIG FRANGO BRAND. 150 CARTONS WITH: FROZEN WHOLE CHICKEN DRUMETTES, IN UNIFORM NET WEIGHT 20KG CARTONS, BIG FRANGO BRAND. 100 CARTONS WITH: FROZEN WHOLE CHICKEN LEGS, IN UNIFORM NET WEIGHT 20KG CARTONS, BIG FRANGO BRAND.\n\nTOTAL NW:25.994,000KGS\nTOTAL GW:27.608,270KGS\nSHIPPED ON BOARD, DECLARED 'CLEAN' BY SHIPPER FREIGHT AS PER AGREEMENT\n\nSEAL AGENCY:ML-BR5030894\nSEAL SIF: 009883/SIF 1215\nPROCESS NR. 1961/2018\nRE.18/1251426-004\nSD.2161045085/0\nNCM.02071400\nNALADI.020758\n\nBRAZIL/BIG FRANGO\n\nMNBU3977737 ML-BR5030894 40 REEF 9'6 1,716 CARTONS 27.608,270 KGS 45.2500",
-                "measurement": 45.2500,
-                "weight": 27608.270
+                "measurement": 45.25,
+                "weight": 27608.27
               }
             ],
             "container_line_item_info": [
@@ -2216,14 +2191,13 @@
             "notify_party_telephone": "853-83941168",
             "notify_party_email": "",
             "vessel_name": "MAERSK LA PAZ",
-            "vessel_address": "8J8E",
-            "consignee_telephone": ""
+            "vessel_address": "8J8E"
           }
         ]
       }
     },
     {
-      "file_name": "Maersk-No. YMLUS565428652.png",
+      "file_name": "Maersk-No._YMLUS565428652.png",
       "detail": {
         "documents": [
           {
@@ -2233,8 +2207,8 @@
                 "quantity": 1000,
                 "package_type": "CARTONS",
                 "description": "1 Container SHIPPER'S LOAD, STOWAGE AND COUNT\n\n1000 CARTONS\n\nAlaska lobster\n\nHS CODE: 03061710\nFREE TIME 24 DET AT DESTINATION\n\nTEL: (+84) 123 456 789",
-                "measurement": 60.000,
-                "weight": 1234.000
+                "measurement": 60.0,
+                "weight": 1234.0
               }
             ],
             "container_line_item_info": [
@@ -2275,14 +2249,13 @@
             "notify_party_telephone": "",
             "notify_party_email": "",
             "vessel_name": "DALIAN EXPRESS",
-            "vessel_address": "206P",
-            "consignee_telephone": ""
+            "vessel_address": "206P"
           }
         ]
       }
     },
     {
-      "file_name": "msc-No. MEDUN8763181.png",
+      "file_name": "msc-No._MEDUN8763181.png",
       "detail": {
         "documents": [
           {
@@ -2292,8 +2265,8 @@
                 "quantity": 687,
                 "package_type": "Package(s)",
                 "description": "687 Package(s) of PE FITTINGS LIGHTINGS GATE VALVES FUSE MACHINE AIR PUMPS\n\nTotal Items: 687\n\nFreight Prepaid",
-                "measurement": 68.000,
-                "weight": 26000.000
+                "measurement": 68.0,
+                "weight": 26000.0
               }
             ],
             "container_line_item_info": [
@@ -2340,7 +2313,7 @@
       }
     },
     {
-      "file_name": "msc-No. MEDUX3667029.png",
+      "file_name": "msc-No._MEDUX3667029.png",
       "detail": {
         "documents": [
           {
@@ -2350,8 +2323,8 @@
                 "quantity": 1129,
                 "package_type": "Package(s)",
                 "description": "1129 Package(s) of UREA MOULDING COMPOUND(RECYCLED) GLAZING POWDER MELAMINE PAPER MOULD STAINLESS STEEL TABLEWARE SHIPPER:FURTHER DECLARES\"CARGO IN TRANSIT TO BOLIVIA\", ON-CARRIAGE ARRANGED BY MERCHANTS UNDER THEIR RESPONSIBILITY AND AT THEIR COSTS AND RISKS\"\n\nNon Operating Reefer\n\nTotal items: 1129",
-                "measurement": 68.000,
-                "weight": 26023.000
+                "measurement": 68.0,
+                "weight": 26023.0
               }
             ],
             "container_line_item_info": [
@@ -2398,7 +2371,7 @@
       }
     },
     {
-      "file_name": "No. 223256391.png",
+      "file_name": "No._223256391.png",
       "detail": {
         "documents": [
           {
@@ -2408,8 +2381,8 @@
                 "quantity": 194,
                 "package_type": "CARTONS",
                 "description": "1 Container Said to Contain 194 CARTONS\n\nSOFT TOYS, PAPER TAG &TOY SLIME\n\nF25\n\nMSKU3203286 ML-CN1250803 20 DRY 8'6 194 CARTONS 3560.000 KGS 28.0000 CBM SHIPPER'S LOAD, STOW, WEIGHT AND COUNT\n\nFREIGHT PREPAID\n\nCY/CY",
-                "measurement": 28.0000,
-                "weight": 3560.000
+                "measurement": 28.0,
+                "weight": 3560.0
               }
             ],
             "container_line_item_info": [
@@ -2456,7 +2429,7 @@
       }
     },
     {
-      "file_name": "No. 238691719.png",
+      "file_name": "No._238691719.png",
       "detail": {
         "documents": [
           {
@@ -2466,8 +2439,8 @@
                 "quantity": 155,
                 "package_type": "PACKAGES",
                 "description": "1 Container Said to Contain 155 PACKAGES\n\nFITNESS EQUIPMENT\n\nBIGMUSCLE\nFITNESS\nEQUIPMENT\n\nCAAU5698418 ML-CN6098372 40 DRY 9'6 155 PACKAGES 14110.000 KGS 65.0000 CBM\nSHIPPER'S LOAD, STOW, WEIGHT AND COUNT\n\nFREIGHT PREPAID\n\nThe Merchant(s) warrant and represent that this shipment and/or Goods will comply at all times with European Union, United States and United Nations sanctions and/or export control laws (Sanctions Laws), and that this shipment and/or Goods do not involve, whether directly or indirectly, any entity or person identified, or owned or controlled by any such entity or person identified, on the U.S. Treasury Departments Office of Foreign Asset Control (OFAC) list of Specially Designated Nationals and Blocked Persons, or any other similar list maintained by the European Union, or as promulgated by the United Nations Security Council (Designated Person). If, in the Carriers reasonable opinion, this shipment and/or Goods are in violation of the Carriers policy on Russia [https://www.maersk.com/news/articles/2022/02/24/russia-ukraine-situation-update],",
-                "measurement": 65.0000,
-                "weight": 14110.000
+                "measurement": 65.0,
+                "weight": 14110.0
               }
             ],
             "container_line_item_info": [
@@ -2514,7 +2487,7 @@
       }
     },
     {
-      "file_name": "No. 244311158.png",
+      "file_name": "No._244311158.png",
       "detail": {
         "documents": [
           {
@@ -2524,8 +2497,8 @@
                 "quantity": 1750,
                 "package_type": "CARTONS",
                 "description": "1 Container Said to Contain 1750 CARTONS\n\nSHOES\n\nCARGO TRANSIT TO LUSAKA-ONWARDS UNDER CONSIGNEE'S ARRANGEMENT RISK, COST AND RESPONSIBILITY, CARRIER'S LIABILITY CEASES AT PORT OF DISCHARGE\n\nN/M\n\nPONU7856740 ML-CN8299601 40 DRY 9'6 1750 CARTONS 21870.000 KGS 65.0680 CBM\nSHIPPER'S LOAD, STOW, WEIGHT AND COUNT\n\nFREIGHT PREPAID\n\nThe Merchant(s) warrant and represent that this shipment and/or Goods will comply at all times with European Union, United States and United Nations sanctions and/or export control laws (Sanctions Laws), and that this shipment and/or Goods do not involve, whether directly or indirectly, any entity or person identified, or owned or controlled by any such entity or person identified, on the U.S. Treasury Departments Office of Foreign Asset Control (OFAC) list of Specially Designated Nationals and Blocked Persons, or any other similar list maintained by the European Union, or as promulgated by the United Nations",
-                "measurement": 65.0680,
-                "weight": 21870.000
+                "measurement": 65.068,
+                "weight": 21870.0
               }
             ],
             "container_line_item_info": [
@@ -2572,7 +2545,7 @@
       }
     },
     {
-      "file_name": "No. 247512761.png",
+      "file_name": "No._247512761.png",
       "detail": {
         "documents": [
           {
@@ -2582,8 +2555,8 @@
                 "quantity": 1858,
                 "package_type": "CARTONS",
                 "description": "1 Container Said to Contain 1858 CARTONS\n\n1858 CARTONS FROZEN CHICKEN THREE JOINT WING - UNSIZED -N.C.M.:0207.14.13 NW 27870.000 kgs / GW 28789.710 kgs\n\nSTOWED IN A REEFER CONTAINER SET AT SHIPPERS REQUESTED CARRIAGE TEMPERATURE OF -22\nFREIGHT AS PER AGREEMENT/\nDECLARED \" \" /FREIGHT PREPAID ABROAD /\n\nRUC: 4BR018387232000000000000165471E24\n/\n\nAS PER SHIPPER\n\nMNBU9042994 ML-BR2467021 40 REEF 9'6 1858 CARTONS 28789.710 KGS 40.0000 CBM\nTemperature: -22.0 C\nVeterinarian Seal : 149340 SIF104\nSHIPPER'S LOAD, STOW, WEIGHT AND COUNT",
-                "measurement": 40.0000,
-                "weight": 28789.710
+                "measurement": 40.0,
+                "weight": 28789.71
               }
             ],
             "container_line_item_info": [
@@ -2630,7 +2603,7 @@
       }
     },
     {
-      "file_name": "No. 273709852.png",
+      "file_name": "No._273709852.png",
       "detail": {
         "documents": [
           {
@@ -2640,8 +2613,8 @@
                 "quantity": 500,
                 "package_type": "PACKAGES",
                 "description": "1 Container Said to Contain 500 PACKAGES\n\nRUBBER SLIPPERS\nKIDS SCHOOL BAGS\nKIDS BOWLS\n\nN/M\n\nCAAU6550889 ML-CN5658002 40 DRY 9'6 500 PACKAGES 13500.000 KGS 68.0000 CBM\nSHIPPER'S LOAD, STOW, WEIGHT AND COUNT\n\nFREIGHT PREPAID\n\nThe Merchant(s) warrant and represent that this shipment and/or Goods will comply at all times with European Union, United States and United Nations sanctions and/or export control laws (Sanctions Laws), and that this shipment and/or Goods do not involve, whether directly or indirectly, any entity or person identified, or owned or controlled by any such entity or person identified, on the U.S. Treasury Departments Office of Foreign Asset Control (OFAC) list of Specially Designated Nationals and Blocked Persons, or any other similar list maintained by the European Union, or as promulgated by the United Nations Security Council (Designated Person). If, in the Carriers reasonable opinion, this shipment and/or Goods are in violation of the Carriers policy on Russia",
-                "measurement": 68.0000,
-                "weight": 13500.000
+                "measurement": 68.0,
+                "weight": 13500.0
               }
             ],
             "container_line_item_info": [
@@ -2688,7 +2661,7 @@
       }
     },
     {
-      "file_name": "No. 591153724.png",
+      "file_name": "No._591153724.png",
       "detail": {
         "documents": [
           {
@@ -2698,8 +2671,8 @@
                 "quantity": 71,
                 "package_type": "PACKAGES",
                 "description": "1 Container Said to Contain 71 PACKAGES\n\nALUMINUM EXTRUSIONS\nCONNECTION PARTS\nPLASTIC COVER\nU CHANNEL\nSAY SEVENTY-ONE PACKAGES ONLY.\nMARKS AND NOS:\nN/M\n\nN/M\n\nMAEU4230312 ML-CN4499538 40 OPEN 9'6 71 PACKAGES 15907.140 KGS 34.5110 CBM\nSHIPPER'S LOAD, STOW, WEIGHT AND COUNT\n\nFREIGHT PREPAID\n\nCY/CY\n\nOutward Forwarders reference H60201912390",
-                "measurement": 34.5110,
-                "weight": 15907.140
+                "measurement": 34.511,
+                "weight": 15907.14
               }
             ],
             "container_line_item_info": [
@@ -2746,7 +2719,7 @@
       }
     },
     {
-      "file_name": "No. COSU634443593012.png",
+      "file_name": "No._COSU634443593012.png",
       "detail": {
         "documents": [
           {
@@ -2799,7 +2772,7 @@
       }
     },
     {
-      "file_name": "No. QTSGN2107156.png",
+      "file_name": "No._QTSGN2107156.png",
       "detail": {
         "documents": [
           {
@@ -2810,7 +2783,7 @@
                 "package_type": "PKG",
                 "description": "PART OF CONTAINER :\n\nOUTSOLE MOLD SPW046\nPACKING: 40 pcs , NET WEIGHT: 2,510 KGs",
                 "measurement": null,
-                "weight": 2539.0000
+                "weight": 2539.0
               }
             ],
             "container_line_item_info": [],
@@ -2852,7 +2825,7 @@
       }
     },
     {
-      "file_name": "No. WH-00023.png",
+      "file_name": "No._WH-00023.png",
       "detail": {
         "documents": [
           {
@@ -2910,7 +2883,7 @@
       }
     },
     {
-      "file_name": "No. WSHA7090299.png",
+      "file_name": "No._WSHA7090299.png",
       "detail": {
         "documents": [
           {
@@ -2978,8 +2951,8 @@
                 "quantity": 2112,
                 "package_type": "PACKAGES",
                 "description": "2 containers said to contain 2112 PACKAGES\n\nKITCHENWARE\nHS CODE: 7323.91\n\nN/M\n\nMRSU4765680 ML-CN0380262 40 DRY 9'6 1052 PACKAGES 27457.200 KGS 55.9300 CBM\nTCNU5236611 ML-CN4684436 40 DRY 9'6 1060 PACKAGES 27666.000 KGS 56.3500 CBM\nSHIPPER'S LOAD, STOW, WEIGHT AND COUNT\n\nFREIGHT PREPAID\n\nThe Merchant(s) warrant and represent that this shipment and/or Goods will comply at all times with European Union, United States and United Nations sanctions and/or export control laws (Sanctions Laws), and that this shipment and/or Goods do not involve, whether directly or indirectly, any entity or person identified, or owned or controlled by any such entity or person identified, on the U.S. Treasury Departments Office of Foreign Asset Control (OFAC) list of Specially Designated Nationals and Blocked Persons, or any other similar list maintained by the European Union, or as promulgated by the United Nations Security Council (Designated Person). If, in the Carriers reasonable opinion, this shipment and/or Goods are in violation of the Carriers policy on Russia",
-                "measurement": 112.2800,
-                "weight": 55123.200
+                "measurement": 112.28,
+                "weight": 55123.2
               }
             ],
             "container_line_item_info": [
@@ -3030,7 +3003,7 @@
       }
     },
     {
-      "file_name": "one-No. ONEYBNDC01356600.png",
+      "file_name": "one-No._ONEYBNDC01356600.png",
       "detail": {
         "documents": [
           {
@@ -3040,8 +3013,8 @@
                 "quantity": 432,
                 "package_type": "BOXES",
                 "description": "1X20' S.T.C.:\n432 BOX OF MACE\nPACKING: CARTON BOX\nHS CODE: 09082100\nGW: 4,730.40 KGS\nNW: 4,320.00 KGS\n\nSH>\nMEDAN,\nINDONESIA 20118",
-                "measurement": 20.000,
-                "weight": 4730.40
+                "measurement": 20.0,
+                "weight": 4730.4
               }
             ],
             "container_line_item_info": [
@@ -3088,7 +3061,7 @@
       }
     },
     {
-      "file_name": "one-No. ONEYMNGV00104400.pdf",
+      "file_name": "one-No._ONEYMNGV00104400.pdf",
       "detail": {
         "documents": [
           {
@@ -3099,7 +3072,7 @@
                 "package_type": "LOGS",
                 "description": "MADERA DE TECA EN ROLLO\n\nOCEAN FREIGHT PREPAID\n\nTCLU6498820 / NI00174680 / 390 LOGS /FCL / FCL/40HQ/19810.000KGS/23.865M3\nSEGU4356529 / NI00174677 / 503 LOGS /FCL / FCL/40HQ/26640.000KGS/24.202M3\nTEMU6835152 / NI00174678 / 323 LOGS /FCL / FCL/40HQ/27740.000KGS/23.470M3\nTCLU7943811 / NI00174679 / 479 LOGS /FCL / FCL/40HQ/25070.000KGS/22.878M3\nTCLU1573685 / NI00174676 / 400 LOGS /FCL / FCL/40HQ/28040.000KGS/23.246M3\nTRLU7160760 / NI00174638 / 461 LOGS /FCL / FCL/40HQ/27860.000KGS/22.956M3",
                 "measurement": 140.617,
-                "weight": 155160.000
+                "weight": 155160.0
               }
             ],
             "container_line_item_info": [
@@ -3166,7 +3139,7 @@
       }
     },
     {
-      "file_name": "ptv-No. PTVBUS22124510.png",
+      "file_name": "ptv-No._PTVBUS22124510.png",
       "detail": {
         "documents": [
           {
@@ -3176,8 +3149,8 @@
                 "quantity": 36,
                 "package_type": "PALLETS",
                 "description": "\"SHIPPER'S LOAD & COUNT\"\nSAID TO CONTAIN :\nONE (01)X20'DV'-\n36 PALLETS\nPOLYESTER HIGH TENACITY FILAMENT YARN\n150OD/144F AA GRADE\n\nCIF BUSAN, KOREA\nORIGIN VIETNAM",
-                "measurement": 20.000,
-                "weight": 11457.00
+                "measurement": 20.0,
+                "weight": 11457.0
               }
             ],
             "container_line_item_info": [
@@ -3224,7 +3197,7 @@
       }
     },
     {
-      "file_name": "shipco-No. 81516539.png",
+      "file_name": "shipco-No._81516539.png",
       "detail": {
         "documents": [
           {
@@ -3234,7 +3207,7 @@
                 "quantity": 1,
                 "package_type": "CRATE",
                 "description": "PALLETS SLAC\n1 CRATE SHIPPER'S LOAD AND COUNT\nGOODS NAME: 1 EACH GEAR BOX\n\nPO NO : PRW-41098746\nCOUNTRY OF ORIGIN : UNITED STATES\n\nSHIPMENT TERMS : CFR JAKARTA\n\n(INCOTERMS 2010)\n\nH.S. CODE : 8483.40\n\nINVOICE NUMBER 1434856-01 INVOICE\nDATE 06/29/2022",
-                "measurement": 13.420,
+                "measurement": 13.42,
                 "weight": 196.211
               }
             ],

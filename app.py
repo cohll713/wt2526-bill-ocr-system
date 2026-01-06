@@ -26,8 +26,145 @@ print('正在初始化OCR引擎...')
 ocr = PaddleOCR(use_textline_orientation=True, lang='en')
 print('✅ OCR引擎初始化完成！')
 
+# 加载验证数据
+check_data = {}
+try:
+    with open('check_normalized.json', 'r', encoding='utf-8') as f:
+        check_json = json.load(f)
+        for bill in check_json.get('bills_of_lading', []):
+            filename = bill.get('file_name', '')
+            if filename:
+                check_data[filename] = bill
+    print(f'✅ 加载了 {len(check_data)} 条验证数据')
+except Exception as e:
+    print(f'⚠️ 加载check_normalized.json失败: {e}')
+    check_data = {}
+
 def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in app.config['ALLOWED_EXTENSIONS']
+
+def calculate_accuracy(extracted_data, ground_truth):
+    """计算提取数据的准确率"""
+    if not ground_truth or not extracted_data:
+        return {
+            'overall': 0.0,
+            'details': {},
+            'message': '无验证数据'
+        }
+    
+    # 从ground_truth中提取documents[0]的数据
+    gt_doc = ground_truth.get('detail', {}).get('documents', [{}])[0]
+    
+    # 定义字段映射和比较规则
+    field_comparisons = [
+        # 基本信息字段
+        ('bl_number', ['bill_info', 'B/L NO'], gt_doc.get('bill_of_lading__number', '')),
+        ('vessel', ['bill_info', 'VESSEL'], gt_doc.get('vessel', '')),
+        ('voyage', ['bill_info', 'VOYAGE'], gt_doc.get('voyage', '')),
+        ('port_of_loading', ['bill_info', 'PORT OF LOADING'], gt_doc.get('place_of_loading', '')),
+        ('port_of_discharge', ['bill_info', 'PORT OF DISCHARGE'], gt_doc.get('place_of_discharge', '')),
+        ('place_of_delivery', ['bill_info', 'PLACE OF DELIVERY'], gt_doc.get('place_of_delivery', '')),
+        ('gross_weight', ['bill_info', 'GROSS WEIGHT'], gt_doc.get('total_gross_weight_value', '')),
+        ('measurement', ['bill_info', 'MEASUREMENT'], gt_doc.get('measurement', '')),
+        # 发货人信息
+        ('shipper_name', ['shipper', 'name'], gt_doc.get('shipper_company_name', '')),
+        ('shipper_address', ['shipper', 'address'], gt_doc.get('shipper_address', '')),
+        # 收货人信息
+        ('consignee_name', ['consignee', 'name'], gt_doc.get('consignee_company_name', '')),
+        ('consignee_address', ['consignee', 'address'], gt_doc.get('consignee_address', '')),
+    ]
+    
+    correct = 0
+    total = 0
+    details = {}
+    
+    def normalize_text(text):
+        """标准化文本用于比较"""
+        if isinstance(text, list):
+            text = ' '.join(str(t) for t in text)
+        text = str(text).strip().upper()
+        # 移除多余空格和特殊字符
+        text = re.sub(r'\s+', ' ', text)
+        text = re.sub(r'[,.:;\-_]', '', text)
+        return text
+    
+    def get_nested_value(data, keys):
+        """从嵌套字典中获取值"""
+        value = data
+        for key in keys:
+            if isinstance(value, dict):
+                value = value.get(key, '')
+            else:
+                return ''
+        return value
+    
+    for field_name, extracted_keys, gt_value in field_comparisons:
+        total += 1
+        
+        # 获取提取的值
+        extracted_value = get_nested_value(extracted_data, extracted_keys)
+        
+        # 标准化
+        extracted_norm = normalize_text(extracted_value)
+        gt_norm = normalize_text(gt_value)
+        
+        # 比较
+        if extracted_norm and gt_norm:
+            # 计算相似度（简单的包含关系）
+            if extracted_norm == gt_norm:
+                is_correct = True
+                similarity = 1.0
+            elif extracted_norm in gt_norm or gt_norm in extracted_norm:
+                is_correct = True
+                similarity = 0.8
+            else:
+                # 计算Jaccard相似度
+                set1 = set(extracted_norm.split())
+                set2 = set(gt_norm.split())
+                if set1 and set2:
+                    intersection = len(set1 & set2)
+                    union = len(set1 | set2)
+                    similarity = intersection / union if union > 0 else 0
+                    is_correct = similarity >= 0.6
+                else:
+                    is_correct = False
+                    similarity = 0
+            
+            if is_correct:
+                correct += 1
+            
+            details[field_name] = {
+                'extracted': str(extracted_value)[:100],
+                'ground_truth': str(gt_value)[:100],
+                'correct': is_correct,
+                'similarity': similarity
+            }
+        elif not extracted_norm and not gt_norm:
+            # 都为空也算正确
+            correct += 1
+            details[field_name] = {
+                'extracted': '',
+                'ground_truth': '',
+                'correct': True,
+                'similarity': 1.0
+            }
+        else:
+            # 一个为空一个不为空
+            details[field_name] = {
+                'extracted': str(extracted_value)[:100],
+                'ground_truth': str(gt_value)[:100],
+                'correct': False,
+                'similarity': 0
+            }
+    
+    overall_accuracy = (correct / total * 100) if total > 0 else 0
+    
+    return {
+        'overall': round(overall_accuracy, 2),
+        'correct_fields': correct,
+        'total_fields': total,
+        'details': details
+    }
 
 @app.route('/')
 def index():
@@ -118,6 +255,17 @@ def upload_file():
         # 提取关键字段
         extracted_data = extract_bill_info(texts)
         
+        # 计算准确率（如果存在验证数据）
+        accuracy = None
+        original_filename = secure_filename(file.filename)  # 原始文件名（不带时间戳）
+        if original_filename in check_data:
+            print(f'📊 找到验证数据，正在计算准确率...')
+            ground_truth = check_data[original_filename]
+            accuracy = calculate_accuracy(extracted_data, ground_truth)
+            print(f'✅ 准确率: {accuracy["overall"]}% ({accuracy["correct_fields"]}/{accuracy["total_fields"]} 字段正确)')
+        else:
+            print(f'⚠️ 未找到验证数据: {original_filename}')
+        
         # 构建返回结果
         ocr_data = {
             'filename': filename,
@@ -130,7 +278,8 @@ def upload_file():
                 }
                 for text, score in zip(texts, scores)
             ],
-            'extracted': extracted_data
+            'extracted': extracted_data,
+            'accuracy': accuracy
         }
         
         # 保存结果
