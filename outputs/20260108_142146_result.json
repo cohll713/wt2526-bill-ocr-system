@@ -1,0 +1,553 @@
+{
+  "filename": "20260108_142146_Maersk-No._217077365.png",
+  "total_lines": 108,
+  "average_confidence": 0.885130766503237,
+  "texts": [
+    {
+      "text": "BILL OF LAD ING FOR OCEAN TRANSPORT",
+      "confidence": 0.9855116605758667
+    },
+    {
+      "text": "SCAC",
+      "confidence": 0.9873060584068298
+    },
+    {
+      "text": "MAEU",
+      "confidence": 0.9998342394828796
+    },
+    {
+      "text": "MAERSK",
+      "confidence": 0.9993608593940735
+    },
+    {
+      "text": "OR MULTIMODAL TRANSPORT",
+      "confidence": 0.9927679896354675
+    },
+    {
+      "text": "BLNo. 217077365",
+      "confidence": 0.9484043717384338
+    },
+    {
+      "text": "Ship per",
+      "confidence": 0.976432204246521
+    },
+    {
+      "text": "IER Import and Export",
+      "confidence": 0.965054452419281
+    },
+    {
+      "text": "Eook hg No.",
+      "confidence": 0.8892537951469421
+    },
+    {
+      "text": "217077365",
+      "confidence": 0.9999077916145325
+    },
+    {
+      "text": "p69.Ql1A, khd pho 6, Thu Dúc, Thanh pho",
+      "confidence": 0.857840895652771
+    },
+    {
+      "text": "Expart refere nces",
+      "confidence": 0.931533932685852
+    },
+    {
+      "text": "Sre Con brad",
+      "confidence": 0.8546247482299805
+    },
+    {
+      "text": "220311005700",
+      "confidence": 0.999889075756073
+    },
+    {
+      "text": "298440066",
+      "confidence": 0.9978876113891602
+    },
+    {
+      "text": "Omr ard Inland routing (Not part of Carrlage as define d In clause 1. For accou nt and risk of Merchant)",
+      "confidence": 0.9399083852767944
+    },
+    {
+      "text": "Cigneotableny congeto rer, \"orernePersan or to e ofbe",
+      "confidence": 0.6003203988075256
+    },
+    {
+      "text": "Nathfy Parly (Gee dause 22)",
+      "confidence": 0.9221847653388977
+    },
+    {
+      "text": "OOCO MARTKINGXX CO., LTD",
+      "confidence": 0.9659156799316406
+    },
+    {
+      "text": "SAME AS CONSIGNEE",
+      "confidence": 0.9952614903450012
+    },
+    {
+      "text": "3940o Cheongnam Building. Gangnam-daero, Seocho-gu, Seoul.",
+      "confidence": 0.9806799292564392
+    },
+    {
+      "text": "Republic of Korea",
+      "confidence": 0.9993963837623596
+    },
+    {
+      "text": "Vesel (see clauz 1 + 19)",
+      "confidence": 0.8943411707878113
+    },
+    {
+      "text": "Vayage No.",
+      "confidence": 0.981036365032196
+    },
+    {
+      "text": "Pla ofRe ipt. Applica bleanby when ocu ent uzasMu Umadal Tan sport BL (see clauz 1)",
+      "confidence": 0.7087764739990234
+    },
+    {
+      "text": "GALAN I",
+      "confidence": 0.9702705144882202
+    },
+    {
+      "text": "217N",
+      "confidence": 0.9999586343765259
+    },
+    {
+      "text": "Part of Loa ding",
+      "confidence": 0.9469904899597168
+    },
+    {
+      "text": "Porl of Diedharge",
+      "confidence": 0.7891151905059814
+    },
+    {
+      "text": "Pl of Deltvey. Applicab le anby r hen do cu ent uz as Mu lm adal Tan spart L (z clauz 1)",
+      "confidence": 0.7182110548019409
+    },
+    {
+      "text": "HOCHIMINH, VIETNAM",
+      "confidence": 0.9993746876716614
+    },
+    {
+      "text": "INCHEON, KOREA",
+      "confidence": 0.970382034778595
+    },
+    {
+      "text": "PARTICULARS FURNISHED BY SHIPPER",
+      "confidence": 0.9994593262672424
+    },
+    {
+      "text": "Kind of Packag es, De scriptlon of goods; Marks and Num bers; Container No/Seal No.",
+      "confidence": 0.9578173756599426
+    },
+    {
+      "text": "Weight",
+      "confidence": 0.9566909670829773
+    },
+    {
+      "text": "Mea surement",
+      "confidence": 0.934407651424408
+    },
+    {
+      "text": "7200.00",
+      "confidence": 0.9999203681945801
+    },
+    {
+      "text": "KGS",
+      "confidence": 0.9993041157722473
+    },
+    {
+      "text": "60.000 CBM",
+      "confidence": 0.999396800994873
+    },
+    {
+      "text": "1 x 40' Reefer Container said to contain 1200 cartons",
+      "confidence": 0.9909812211990356
+    },
+    {
+      "text": "NET WEIGHT: 6600.00 KGS",
+      "confidence": 0.994443953037262
+    },
+    {
+      "text": "GROSS WEIGHT: 7200.00 KGS",
+      "confidence": 0.9799472093582153
+    },
+    {
+      "text": "MAINTENANCE TEMPERATURE: 2°C",
+      "confidence": 0.9840030074119568
+    },
+    {
+      "text": "SHIPPER SEAL:",
+      "confidence": 0.967808723449707
+    },
+    {
+      "text": "FREIGHT PREPAID",
+      "confidence": 0.9998753666877747
+    },
+    {
+      "text": "CY/CY",
+      "confidence": 0.9882973432540894
+    },
+    {
+      "text": "bave particulars as de dared by Sh ipper, but vitho ut respon sbility of or reprezz ntatlon by Carrler (see clauz 14)",
+      "confidence": 0.9161190986633301
+    },
+    {
+      "text": "Frelght & Charges",
+      "confidence": 0.9053472876548767
+    },
+    {
+      "text": "Rate",
+      "confidence": 0.9989908337593079
+    },
+    {
+      "text": "Unit",
+      "confidence": 0.975642740726471
+    },
+    {
+      "text": "Curren",
+      "confidence": 0.9991406798362732
+    },
+    {
+      "text": "Prep ald",
+      "confidence": 0.9782686233520508
+    },
+    {
+      "text": "Colled",
+      "confidence": 0.9137367606163025
+    },
+    {
+      "text": "(Bunker Adjustment Fator",
+      "confidence": 0.9886016249656677
+    },
+    {
+      "text": "0.65.00",
+      "confidence": 0.9999340176582336
+    },
+    {
+      "text": "PCS",
+      "confidence": 0.9970491528511047
+    },
+    {
+      "text": "USD",
+      "confidence": 0.9998905062675476
+    },
+    {
+      "text": "780.00",
+      "confidence": 0.9999160766601562
+    },
+    {
+      "text": "Basic Ocean Freight",
+      "confidence": 0.9956578612327576
+    },
+    {
+      "text": "Container Cleaning Imports",
+      "confidence": 0.9886177778244019
+    },
+    {
+      "text": "Documentation fee - Destination",
+      "confidence": 0.9987089037895203
+    },
+    {
+      "text": "Terninal Handling Service - Destination",
+      "confidence": 0.9877978563308716
+    },
+    {
+      "text": "Low Sulphur Surcharge",
+      "confidence": 0.9996790885925293
+    },
+    {
+      "text": "Documentation Fee - Origin",
+      "confidence": 0.9780018925666809
+    },
+    {
+      "text": "Carrler's Recelpt (see clauz 1 and 14). Thtal number Place of Issue of B/L",
+      "confidence": 0.949669599533081
+    },
+    {
+      "text": "ai ppeD. esfer a aocertuirwd by rejaubile mwaens of cheching in epperent gaad order end condbion unlen othwwie stebad hursin.",
+      "confidence": 0.7852028608322144
+    },
+    {
+      "text": "of dantalne rs a r packag es re cetved by Carrier.",
+      "confidence": 0.878243625164032
+    },
+    {
+      "text": "Ho Chi Minh City, Vietnam",
+      "confidence": 0.987784743309021
+    },
+    {
+      "text": "qurty of Cortan or he pehag orunindbadin th box ihed danrcapt far cameg fram th Part of Loa",
+      "confidence": 0.5419073700904846
+    },
+    {
+      "text": "fRewipt if menbored abar by th Part of Docherge a th Place f Dulry. if muntined abav. such cerriegn brire dea aubj",
+      "confidence": 0.6418468356132507
+    },
+    {
+      "text": "1 ∞ntainer",
+      "confidence": 0.9350630044937134
+    },
+    {
+      "text": "HERE OR MU PEECED I BGAND THCBE TERNSARD CORDMTIORS CORTUIRED",
+      "confidence": 0.743298351764679
+    },
+    {
+      "text": "Num ber & Sequence of Origin al BGyL",
+      "confidence": 0.912689745426178
+    },
+    {
+      "text": "Date ofisue ofE/L",
+      "confidence": 0.8721742630004883
+    },
+    {
+      "text": "a dran n in particule ta thw Camier't Eibertie in rmpwt of on deck sbor e ism",
+      "confidence": 0.799120306968689
+    },
+    {
+      "text": "THEORSESAAPPUAELETSFE",
+      "confidence": 0.6982313990592957
+    },
+    {
+      "text": "nd thePerchants",
+      "confidence": 0.7505815625190735
+    },
+    {
+      "text": "lading ia mannagabidble the Camier may gie dulivery of the danda bo the nar",
+      "confidence": 0.754804253578186
+    },
+    {
+      "text": "clnuse i) and thetarvirg vmm",
+      "confidence": 0.6935557723045349
+    },
+    {
+      "text": "2022-03-27",
+      "confidence": 0.9999738931655884
+    },
+    {
+      "text": "clsusm17.W",
+      "confidence": 0.6530870199203491
+    },
+    {
+      "text": "THREE/3",
+      "confidence": 0.9996291399002075
+    },
+    {
+      "text": "surrunder of an originel bil of ledirg. Wfwre the bil of leding is negatidbls. the Perchant is abligud bo sumender",
+      "confidence": 0.8507727384567261
+    },
+    {
+      "text": "coro",
+      "confidence": 0.7673197388648987
+    },
+    {
+      "text": "OnUO",
+      "confidence": 0.33533182740211487
+    },
+    {
+      "text": "idenbigy and with",
+      "confidence": 0.8399786353111267
+    },
+    {
+      "text": "geruine and originel of thw Camer complim with this duly .itwil b",
+      "confidence": 0.8494664430618286
+    },
+    {
+      "text": "nd arigind bil of ladirg. such dafrey dscherging the Carinrs daliv",
+      "confidence": 0.8379018902778625
+    },
+    {
+      "text": "artied in dalrw the doads aratwhet it",
+      "confidence": 0.7034432291984558
+    },
+    {
+      "text": "abligations. In  cmpting tho bil of lading av",
+      "confidence": 0.8274177312850952
+    },
+    {
+      "text": "2s",
+      "confidence": 0.3893837630748749
+    },
+    {
+      "text": "binm b",
+      "confidence": 0.6524972319602966
+    },
+    {
+      "text": "Declared Value (z e clause 7.3)",
+      "confidence": 0.9584806561470032
+    },
+    {
+      "text": "Ship ped on Eo ard D ate ( Local Tim e )",
+      "confidence": 0.9391463994979858
+    },
+    {
+      "text": "the canbrary roiwithut andirg. the Plechant egres ta ban bound by slTermro",
+      "confidence": 0.8071973919868469
+    },
+    {
+      "text": ":",
+      "confidence": 0.15794582664966583
+    },
+    {
+      "text": "Incdcustama",
+      "confidence": 0.7306327819824219
+    },
+    {
+      "text": "2022-03-26",
+      "confidence": 0.9999596476554871
+    },
+    {
+      "text": "irearporetd an thefee ar re wne side herm. fuly  ithey we al",
+      "confidence": 0.7151004672050476
+    },
+    {
+      "text": "sigred by thePerchert.",
+      "confidence": 0.915954053401947
+    },
+    {
+      "text": ":",
+      "confidence": 0.23454046249389648
+    },
+    {
+      "text": "Canditioro stut ad hwnin whatherw rittan. printad. st",
+      "confidence": 0.8402284383773804
+    },
+    {
+      "text": "inwrhewneseor the numbar of aiginal sills ofLading sthated on tho side heve bensighed ande harw w ane argind sill of Luadi",
+      "confidence": 0.7429006099700928
+    },
+    {
+      "text": "surrendred ery athwrs shal bevaid.",
+      "confidence": 0.8584989905357361
+    },
+    {
+      "text": "Sgned for the Carrler Maersk AVS",
+      "confidence": 0.9635025262832642
+    },
+    {
+      "text": "Maersk Deutschland A/S & Co.KG",
+      "confidence": 0.9880450963973999
+    },
+    {
+      "text": "This transport docurnent has one or more numbered pages",
+      "confidence": 0.9731907844543457
+    },
+    {
+      "text": "As Agent(s)",
+      "confidence": 0.9772341251373291
+    }
+  ],
+  "extracted": {
+    "shipper": {
+      "name": "IER Import and Export",
+      "address": [
+        "p69.Ql1A, khd pho 6, Thu Dúc, Thanh pho"
+      ]
+    },
+    "consignee": {
+      "name": "OOCO MARTKINGXX CO., LTD",
+      "address": [
+        "3940o Cheongnam Building. Gangnam-daero, Seocho-gu, Seoul.",
+        "Republic of Korea"
+      ]
+    },
+    "bill_info": {
+      "B/L NO": "217077365",
+      "VESSEL": "GALAN I",
+      "VOYAGE": "217N",
+      "PORT OF LOADING": "HOCHIMINH, VIETNAM",
+      "PORT OF DISCHARGE": "INCHEON, KOREA",
+      "PLACE OF DELIVERY": "",
+      "GROSS WEIGHT": "7200.00 KGS",
+      "MEASUREMENT": "60.000 CBM"
+    },
+    "cargo": [
+      "1 x 40' Reefer Container said to contain 1200 cartons",
+      "NET WEIGHT: 6600.00 KGS",
+      "GROSS WEIGHT: 7200.00 KGS",
+      "MAINTENANCE TEMPERATURE: 2°C",
+      "SHIPPER SEAL:",
+      "FREIGHT PREPAID",
+      "CY/CY"
+    ],
+    "container_info": "1 x 40' Reefer Container"
+  },
+  "accuracy": {
+    "overall": 75.0,
+    "correct_fields": 9,
+    "total_fields": 12,
+    "details": {
+      "bl_number": {
+        "extracted": "217077365",
+        "ground_truth": "217077365",
+        "correct": true,
+        "similarity": 1.0
+      },
+      "vessel": {
+        "extracted": "GALAN I",
+        "ground_truth": "GALAN1",
+        "correct": false,
+        "similarity": 0.0
+      },
+      "voyage": {
+        "extracted": "217N",
+        "ground_truth": "217N",
+        "correct": true,
+        "similarity": 1.0
+      },
+      "port_of_loading": {
+        "extracted": "HOCHIMINH, VIETNAM",
+        "ground_truth": "HOCHIMINH, VIETNAM",
+        "correct": true,
+        "similarity": 1.0
+      },
+      "port_of_discharge": {
+        "extracted": "INCHEON, KOREA",
+        "ground_truth": "",
+        "correct": false,
+        "similarity": 0
+      },
+      "place_of_delivery": {
+        "extracted": "",
+        "ground_truth": "",
+        "correct": true,
+        "similarity": 1.0
+      },
+      "gross_weight": {
+        "extracted": "7200.00 KGS",
+        "ground_truth": "7200.00",
+        "correct": true,
+        "similarity": 0.8
+      },
+      "measurement": {
+        "extracted": "60.000 CBM",
+        "ground_truth": "60.000 CBM",
+        "correct": true,
+        "similarity": 1.0
+      },
+      "shipper_name": {
+        "extracted": "IER Import and Export",
+        "ground_truth": "IFR Import and Export",
+        "correct": true,
+        "similarity": 0.6
+      },
+      "shipper_address": {
+        "extracted": "['p69.Ql1A, khd pho 6, Thu Dúc, Thanh pho']",
+        "ground_truth": "Lô 01-1A, khu phố 6, Thủ Đức, Thành phố Hồ Chí Minh 744459",
+        "correct": false,
+        "similarity": 0.06
+      },
+      "consignee_name": {
+        "extracted": "OOCO MARTKINGXX CO., LTD",
+        "ground_truth": "COCO MART-KINGXX CO., LTD",
+        "correct": true,
+        "similarity": 0.6
+      },
+      "consignee_address": {
+        "extracted": "['3940o Cheongnam Building. Gangnam-daero, Seocho-gu, Seoul.', 'Republic of Korea']",
+        "ground_truth": "39400 Cheongnam Building, Gangnam-daero, Seocho-gu, Seoul, Republic of Korea",
+        "correct": true,
+        "similarity": 0.8
+      }
+    }
+  }
+}
